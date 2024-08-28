@@ -1,0 +1,106 @@
+{
+    "Tree Structure": {
+        "Stock": {
+            "Required": true,
+            "Allowed Items": {
+                "AVT-40 wooden stock ": {}
+            }
+        },
+        "Barrel": {
+            "Required": true,
+            "Allowed Items": {
+                "SVT-40 7.62x54R 625mm barrel": {
+                    "Muzzle": {
+                        "Required": true,
+                        "Allowed Items": {
+                            "SVT-40 7.62x54R muzzle brake": {
+                                "Front Sight": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "SVT-40 front sight": {}
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "SVT-40 rear sight": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Magazine": {
+            "Required": false,
+            "Allowed Items": {
+                "AVT-40 7.62x54R 15-round magazine": {},
+                "SVT-40 7.62x54R 10-round magazine": {}
+            }
+        },
+        "Receiver": {
+            "Required": true,
+            "Allowed Items": {
+                "SVT dust cover ": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "AVT-40 wooden stock ": {
+            "ergonomics": 6,
+            "recoilModifier": -0.18,
+            "conflictingItems": []
+        },
+        "SVT-40 front sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "SVT-40 7.62x54R muzzle brake": {
+            "ergonomics": -1,
+            "recoilModifier": -0.07,
+            "conflictingItems": []
+        },
+        "SVT-40 rear sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "SVT-40 7.62x54R 625mm barrel": {
+            "ergonomics": -7,
+            "recoilModifier": -0.1,
+            "conflictingItems": []
+        },
+        "AVT-40 7.62x54R 15-round magazine": {
+            "ergonomics": -8,
+            "recoilModifier": 0,
+            "capacity": 15,
+            "conflictingItems": []
+        },
+        "SVT-40 7.62x54R 10-round magazine": {
+            "ergonomics": -5,
+            "recoilModifier": 0,
+            "capacity": 10,
+            "conflictingItems": []
+        },
+        "SVT dust cover ": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Tokarev AVT-40 7.62x54R automatic rifle": {
+            "conflictingItems": []
+        }
+    }
+}

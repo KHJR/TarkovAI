@@ -1,0 +1,284 @@
+{
+    "Tree Structure": {
+        "Barrel": {
+            "Required": true,
+            "Allowed Items": {
+                "M1911A1 .45 ACP 127mm barrel": {},
+                "M1911A1 .45 ACP National Match barrel": {},
+                "M1911A1 .45 ACP threaded barrel": {
+                    "Muzzle": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "SilencerCo Omega 45k Piston Mount adapter": {
+                                "Muzzle": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "SilencerCo Omega 45k .45 ACP sound suppressor": {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Pistol Grip": {
+            "Required": true,
+            "Allowed Items": {
+                "M45A1 Mil-Tac GVT G10 side grips": {}
+            }
+        },
+        "Receiver": {
+            "Required": true,
+            "Allowed Items": {
+                "M1911A1 pistol slide": {
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "M1911A1 rear sight": {}
+                        }
+                    },
+                    "Front Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "M1911A1 front sight": {}
+                        }
+                    },
+                    "Muzzle": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "M1911 Anarchy Outdoors .45 ACP muzzle brake": {}
+                        }
+                    }
+                },
+                "M45A1 pistol slide": {
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "M45A1 Novak Lomount rear sight": {}
+                        }
+                    },
+                    "Front Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "M45A1 Novak Lomount front sight": {}
+                        }
+                    },
+                    "Muzzle": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "M1911 Anarchy Outdoors .45 ACP muzzle brake": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Magazine": {
+            "Required": false,
+            "Allowed Items": {
+                "M1911A1 .45 ACP 7-round magazine": {},
+                "M1911A1 .45 ACP Wilson Combat 7-round magazine": {},
+                "M1911A1 .45 ACP Mec-Gar 11-round magazine": {}
+            }
+        },
+        "Trigger": {
+            "Required": true,
+            "Allowed Items": {
+                "M1911A1 Caspian Arms Trik Trigger": {},
+                "M1911A1 trigger": {},
+                "M45A1 trigger": {}
+            }
+        },
+        "Hammer": {
+            "Required": true,
+            "Allowed Items": {
+                "M45A1 hammer": {},
+                "M1911A1 STI HEX hammer": {},
+                "M1911A1 Wilson Retro Commander hammer": {},
+                "M1911A1 Wilson Ultralight skeletonized hammer": {}
+            }
+        },
+        "Catch": {
+            "Required": true,
+            "Allowed Items": {
+                "M1911A1 slide stop": {},
+                "M45A1 slide lock": {},
+                "M1911A1 Wilson Extended slide stop": {}
+            }
+        },
+        "Mount": {
+            "Required": false,
+            "Allowed Items": {
+                "Glock GTL 21 tactical flashlight with laser": {},
+                "NcSTAR Tactical blue laser LAM-module": {},
+                "Steiner DBAL-PL tactical device": {},
+                "Steiner LAS/TAC 2 tactical flashlight": {},
+                "SureFire X400 Ultra tactical flashlight with laser": {},
+                "SureFire XC1 tactical flashlight": {},
+                "Zenit Klesch-2IKS IR illuminator with laser": {},
+                "Zenit Klesch-2P flashlight with laser": {},
+                "Zenit Klesch-2U tactical flashlight": {},
+                "Olight Baldr Pro tactical flashlight with laser": {},
+                "Olight Baldr Pro tactical flashlight with laser (Tan)": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "M1911A1 .45 ACP 127mm barrel": {
+            "ergonomics": -5,
+            "recoilModifier": -0.03,
+            "conflictingItems": []
+        },
+        "M1911A1 .45 ACP National Match barrel": {
+            "ergonomics": -3,
+            "recoilModifier": -0.03,
+            "conflictingItems": []
+        },
+        "M1911A1 .45 ACP threaded barrel": {
+            "ergonomics": -4,
+            "recoilModifier": -0.03,
+            "conflictingItems": []
+        },
+        "M45A1 Mil-Tac GVT G10 side grips": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "M1911A1 pistol slide": {
+            "ergonomics": 3,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "M45A1 pistol slide": {
+            "ergonomics": 4,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "M1911A1 .45 ACP 7-round magazine": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "capacity": 7,
+            "conflictingItems": []
+        },
+        "M1911A1 .45 ACP Wilson Combat 7-round magazine": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "capacity": 7,
+            "conflictingItems": []
+        },
+        "M1911A1 .45 ACP Mec-Gar 11-round magazine": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "capacity": 11,
+            "conflictingItems": []
+        },
+        "M1911A1 Caspian Arms Trik Trigger": {
+            "ergonomics": 3,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "M1911A1 trigger": {
+            "ergonomics": 1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "M45A1 trigger": {
+            "ergonomics": 2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "M45A1 hammer": {
+            "ergonomics": 2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "M1911A1 STI HEX hammer": {
+            "ergonomics": 3,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "M1911A1 Wilson Retro Commander hammer": {
+            "ergonomics": 2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "M1911A1 Wilson Ultralight skeletonized hammer": {
+            "ergonomics": 4,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "M1911A1 slide stop": {
+            "ergonomics": 1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "M45A1 slide lock": {
+            "ergonomics": 2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "M1911A1 Wilson Extended slide stop": {
+            "ergonomics": 3,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Glock GTL 21 tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "NcSTAR Tactical blue laser LAM-module": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner DBAL-PL tactical device": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner LAS/TAC 2 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire X400 Ultra tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire XC1 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2IKS IR illuminator with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2P flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2U tactical flashlight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Olight Baldr Pro tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Olight Baldr Pro tactical flashlight with laser (Tan)": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Colt M45A1 .45 ACP pistol": {
+            "conflictingItems": []
+        }
+    }
+}

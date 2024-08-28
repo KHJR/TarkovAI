@@ -1,0 +1,312 @@
+{
+	"PP-91 Kedr 9x18PM submachine gun": {
+		"weight": 1.33,
+		"ergonomics": 68,
+		"verticalRecoil": 50,
+		"horizontalRecoil": 211,
+		"effectiveDistance": 100,
+		"fireRate": 900,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x18PM",
+		"description": "The PP-91 Kedr submachine gun is a compact weapon capable of accepting a variety of attachments. It has a required pistol grip slot, offering a choice for ergonomics improvement.  The Kedr can be equipped with either a 20-round or 30-round magazine, with the larger magazine sacrificing some ergonomics.  The gun features a mount slot for the \"PP-91 Kedr Rotor 43 RIS mount\", allowing for the attachment of sights like the BelOMO PK-06 reflex sight or a variety of tactical lights and lasers. However, mounting a scope is not possible due to the limitations of the available mounts. While the Kedr offers some customization options, it lacks the ability to mount larger optics for long-range engagements.  The overall ergonomics of the Kedr can be adjusted through its attachments, with a slight penalty for using the larger magazine or tactical attachments. \n"
+	},
+	"PP-91-01 Kedr-B 9x18PM submachine gun": {
+		"weight": 1.33,
+		"ergonomics": 52,
+		"verticalRecoil": 42,
+		"horizontalRecoil": 177,
+		"effectiveDistance": 100,
+		"fireRate": 900,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x18PM",
+		"description": "The PP-91-01 Kedr-B 9x18PM submachine gun is a versatile weapon with customization options to optimize its performance. It requires a pistol grip and a muzzle attachment for functionality.  The PP-91 Kedr polymer pistol grip provides a modest ergonomics boost of 5, enhancing handling. The  PP-91-01 Kedr-B threaded suppressor adapter, in combination with the PP-91-01 Kedr-B 9x18PM sound suppressor, significantly reduces recoil (-0.16) and muzzle noise, but decreases ergonomics by -16.  You can choose between the 20-round and 30-round magazines. The 30-round magazine offers increased ammo capacity but slightly reduces ergonomics by -2. The PP-91-01 Kedr-B 9x18PM submachine gun cannot be fitted with any other attachments, limiting its customization possibilities.\n"
+	},
+	"PP-9 Klin 9x18PMM submachine gun": {
+		"weight": 1.33,
+		"ergonomics": 68,
+		"verticalRecoil": 50,
+		"horizontalRecoil": 211,
+		"effectiveDistance": 100,
+		"fireRate": 1000,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x18PMM",
+		"description": "The PP-9 Klin 9x18PMM submachine gun is a versatile weapon that can be customized with various attachments.  It requires a pistol grip, with the PP-91 Kedr polymer pistol grip being the only option. This grip provides an ergonomics rating of 5. You can choose between a 20-round or 30-round magazine for the PP-9 Klin, with the 30-round magazine offering a slightly lower ergonomics rating of -2.  The gun can also be equipped with the PP-91 Kedr Rotor 43 RIS mount, which allows for the attachment of optics and tactical devices. However, the mount has a negative ergonomics rating of -1.  The PP-9 Klin can be fitted with a variety of reflex sights, tactical flashlights, and lasers, all of which can enhance its functionality but may impact ergonomics.  Despite its customizable nature, the PP-9 Klin does not have any unique or special features or characteristics.  The PP-9 Klin is a reliable and effective weapon for close to medium-range engagements. \n"
+	},
+	"SIG MPX 9x19 submachine gun": {
+		"weight": 0.64,
+		"ergonomics": 65,
+		"verticalRecoil": 38,
+		"horizontalRecoil": 199,
+		"effectiveDistance": 500,
+		"fireRate": 850,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The SIG MPX 9x19 submachine gun is a versatile weapon in Escape from Tarkov, capable of being customized with various attachments. It can be outfitted with a range of scopes, from reflex sights to thermal optics, allowing for various engagement ranges.  You can choose from multiple handguards, each offering different rail configurations for mounting lights, lasers, and other tactical devices.  Ergonomics can be significantly improved by selecting high-ergonomics grips and stocks, which can make the weapon easier to control. The MPX can be equipped with various muzzle devices, including flash hiders and suppressors, to reduce muzzle flash and sound. The MPX can utilize drum magazines, providing a large capacity but at the cost of increased weight and ergonomics.  While the MPX boasts impressive customization options, it's important to note that its overall recoil modifier can only be slightly improved through modding. \n"
+	},
+	"HK MP5 9x19 submachine gun (Navy 3 Round Burst)": {
+		"weight": 0.74,
+		"ergonomics": 68,
+		"verticalRecoil": 43,
+		"horizontalRecoil": 209,
+		"effectiveDistance": 200,
+		"fireRate": 800,
+		"fireModes": [
+			"Single fire",
+			"Burst fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The \"HK MP5 9x19 submachine gun (Navy 3 Round Burst)\" is a versatile weapon platform capable of various configurations. The gun features a 3-round burst fire mode, making it suitable for controlled engagements. While the default build offers a moderate level of ergonomics, significant improvements can be achieved through modding. Installing a  \"HK MP5 CAA HX-5 handguard\"  results in a substantial increase in ergonomics, enhancing the gun's handling.  The gun can be equipped with a variety of optics, including both reflex and holographic sights. However, due to conflicting items, the \"HK MP5 Drum rear sight\" cannot be combined with the \"Nightforce Magmount 30mm ring scope mount.\" The gun also supports a range of muzzle devices, allowing players to customize its performance and sound signature. The weapon's inherent 3-round burst fire mode provides accuracy and control, while various attachments can further enhance its ergonomic profile and effectiveness. \n"
+	},
+	"PP-19-01 Vityaz 9x19 submachine gun": {
+		"weight": 1.809,
+		"ergonomics": 52.5,
+		"verticalRecoil": 42,
+		"horizontalRecoil": 194,
+		"effectiveDistance": 200,
+		"fireRate": 700,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The PP-19-01 Vityaz 9x19 submachine gun is a versatile weapon with a variety of customization options.  It can be equipped with a variety of pistol grips, stocks, charging handles, and magazines.  The Vityaz's ergonomics can be significantly improved by installing a Zhukov-U handguard, which also provides a mounting point for M-LOK accessories.  The Vityaz can also be equipped with a variety of muzzle devices, including muzzle brakes, compensators, and suppressors.  The Vityaz does not come with any integrated optics, but can be equipped with a variety of sights and scopes via a dedicated dust cover or a side mount.  The Vityaz does not have the capability to be equipped with a grenade launcher.  Despite its customization options, the Vityaz cannot be equipped with a foregrip. \n"
+	},
+	"Saiga-9 9x19 carbine": {
+		"weight": 1.962,
+		"ergonomics": 49.5,
+		"verticalRecoil": 30,
+		"horizontalRecoil": 175,
+		"effectiveDistance": 300,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The Saiga-9 9x19 carbine is a versatile platform with a variety of customization options. The carbine's ergonomics can be significantly improved by installing a pistol grip and a handguard with a foregrip.  A stock can also be attached, but it is not required. The carbine accepts a variety of muzzle devices, including muzzle brakes, compensators, and sound suppressors, which can reduce recoil and make the carbine quieter. The carbine can be fitted with a variety of optics, including reflex sights, holographic sights, and scopes, allowing for close to medium range engagement.  However, the carbine's magazine capacity is limited to 10 rounds unless a larger magazine is installed.  The carbine's limited capacity necessitates frequent reloading, impacting overall engagement time.\n"
+	},
+	"HK MP7A1 4.6x30 submachine gun": {
+		"weight": 1.62,
+		"ergonomics": 69,
+		"verticalRecoil": 42,
+		"horizontalRecoil": 150,
+		"effectiveDistance": 200,
+		"fireRate": 950,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber46x30",
+		"description": "The HK MP7A1 4.6x30 submachine gun is a versatile weapon in Escape from Tarkov, capable of various configurations. It can be equipped with a range of magazines, including 20, 30, and 40-round options. The weapon can be fitted with a flash hider and a sound suppressor, which both reduce recoil and improve stealth.  The MP7A1 allows for various optics and sights, providing a wide range of aiming options. Despite its versatility, the MP7A1 does have a limited magazine capacity, with the highest option being a 40-round magazine. While it offers attachments to improve its ergonomics, the gun's base ergonomics are mediocre. The MP7A1, despite being a submachine gun, is capable of accepting optics like scopes, significantly expanding its range. The MP7A1 is an excellent choice for players looking for a compact and maneuverable weapon with good firepower, however, its customization options don't result in a significant increase in ergonomics.  \n"
+	},
+	"HK MP7A2 4.6x30 submachine gun": {
+		"weight": 1.58,
+		"ergonomics": 69,
+		"verticalRecoil": 42,
+		"horizontalRecoil": 150,
+		"effectiveDistance": 200,
+		"fireRate": 950,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber46x30",
+		"description": "The HK MP7A2 4.6x30 submachine gun is a versatile weapon capable of various attachments. It can accommodate a variety of optics, including reflex sights, holographic sights, and even thermal scopes. You can further customize the MP7A2 with a choice of foregrips, providing enhanced control and recoil management. However, the MP7A2 lacks a built-in iron sight, requiring the attachment of a front and rear sight. The weapon can be fitted with a flash hider and a suppressor, enhancing its stealth and recoil mitigation. The MP7A2's stock can be swapped for either the standard HK MP7A1 stock or the HK MP7A2 stock, with both offering a considerable boost in ergonomics and recoil reduction. Additionally, you can equip the MP7A2 with a range of magazines, offering various capacity options. While the 40-round magazine provides the highest capacity, it comes at the cost of reduced ergonomics. \n"
+	},
+	"FN P90 5.7x28 submachine gun": {
+		"weight": 0.7,
+		"ergonomics": 73,
+		"verticalRecoil": 45,
+		"horizontalRecoil": 202,
+		"effectiveDistance": 200,
+		"fireRate": 900,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber57x28",
+		"description": "The FN P90 5.7x28 submachine gun in Escape from Tarkov is a versatile weapon with a unique design and various customization options. It features a high capacity 50-round magazine, which can be further increased with modifications.  The P90 has a lower recoil modifier than many other weapons, allowing for greater accuracy during sustained fire.  Ergonomics can be significantly improved by adding a stock, a buttpad, and a charging handle like the K&M The Handler. However, it cannot utilize a traditional scope mount, limiting the scope options to those that can attach to the receiver rail. The P90 can be fitted with a suppressor, further enhancing its stealth capabilities.  While the P90 offers many customization possibilities, it lacks the ability to mount side rails directly on the receiver, meaning additional attachments must be fitted using the upper receiver side rail. \n"
+	},
+	"HK MP5K 9x19 submachine gun": {
+		"weight": 0.68,
+		"ergonomics": 81,
+		"verticalRecoil": 55,
+		"horizontalRecoil": 259,
+		"effectiveDistance": 200,
+		"fireRate": 900,
+		"fireModes": [
+			"Single fire",
+			"Burst fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The HK MP5K 9x19 submachine gun is a compact firearm with a standard configuration that offers decent ergonomics. It can be fitted with a variety of magazines, ranging from a standard 20-round magazine to a 50-round drum magazine.  The gun benefits from a polymer handguard that increases ergonomics and reduces recoil. Players can choose from various optics, including reflex sights, holographic sights, and scopes, enhancing accuracy and aiming capabilities. The gun's rear sight can be replaced with a drum rear sight, but this choice might conflict with certain scope mounts.  While the MP5K can be customized with various attachments, it lacks the ability to install certain higher-power optics due to its limited mount options. \n"
+	},
+	"B&T MP9-N 9x19 submachine gun": {
+		"weight": 0.75,
+		"ergonomics": 88,
+		"verticalRecoil": 44,
+		"horizontalRecoil": 221,
+		"effectiveDistance": 200,
+		"fireRate": 1100,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The B&T MP9-N 9x19 submachine gun is a compact and versatile weapon in Escape from Tarkov. Its base ergonomics score of 8 can be significantly boosted with the addition of a stock and foregrip, improving its handling and control. While the MP9-N can accommodate a suppressor, this comes at a significant ergonomics penalty of -16. The weapon offers a variety of magazine options, ranging from 15 to 30 rounds, with larger capacity magazines negatively impacting ergonomics.  The MP9-N can be further customized with a variety of sights, ranging from basic iron sights to advanced optics like thermal scopes.  However, the MP9-N lacks a traditional top rail, limiting the available optic choices.  Furthermore, the MP9-N's side rail can be used to attach various tactical accessories like flashlights and lasers, further enhancing its versatility. Despite its compact size and powerful capabilities, the MP9-N is limited by its lack of a top rail, which can restrict the range of optics it can utilize. \n"
+	},
+	"B&T MP9 9x19 submachine gun": {
+		"weight": 0.75,
+		"ergonomics": 85,
+		"verticalRecoil": 47,
+		"horizontalRecoil": 221,
+		"effectiveDistance": 200,
+		"fireRate": 900,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The B&T MP9 9x19 submachine gun is a versatile weapon in Escape from Tarkov. It can be equipped with various attachments, including different capacity magazines, a sound suppressor, and a stock.  The MP9's ergonomics can be improved through the use of a stock and foregrip, with the  Zenit RK-1 tactical foregrip providing the most ergonomic benefit.  It's important to note that the MP9 does not have any built-in rails for mounting optics, requiring a side rail attachment. The MP9's recoil can be reduced with the addition of a stock.  A sound suppressor can be attached to the weapon, but only after a suppressor mount is installed.  The MP9 cannot be equipped with an underbarrel grenade launcher due to the lack of a compatible mount. \n"
+	},
+	"PPSh-41 7.62x25 submachine gun": {
+		"weight": 1.01,
+		"ergonomics": 39,
+		"verticalRecoil": 67,
+		"horizontalRecoil": 221,
+		"effectiveDistance": 200,
+		"fireRate": 1000,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber762x25TT",
+		"description": "The PPSh-41 is a submachine gun in Escape from Tarkov that can be customized with a stock, magazine, receiver, and barrel. The stock provides a significant boost to ergonomics and reduces recoil, while the drum magazine offers a high capacity at the cost of ergonomics. The receiver and barrel provide minor benefits to ergonomics and recoil.  The PPSh-41 is capable of holding either a 35-round magazine or a 71-round drum magazine. However, the PPSh-41 lacks any sights or optics, making it difficult to use at long ranges.  While the PPSh-41 benefits from its high rate of fire and large magazine capacity, it suffers from a lack of accuracy and control due to its high recoil.  Despite its limitations, the PPSh-41 can be a powerful weapon in close-quarters combat if used effectively. \n"
+	},
+	"TDI KRISS Vector Gen.2 .45 ACP submachine gun": {
+		"weight": 1.86,
+		"ergonomics": 74,
+		"verticalRecoil": 44,
+		"horizontalRecoil": 267,
+		"effectiveDistance": 200,
+		"fireRate": 1100,
+		"fireModes": [
+			"Single fire",
+			"Burst fire",
+			"Full auto"
+		],
+		"caliber": "Caliber1143x23ACP",
+		"description": "The TDI KRISS Vector Gen.2 .45 ACP submachine gun is a highly customizable weapon with a variety of options for attachment. You can choose between a 5 or 6 inch barrel, both with the ability to attach a flash hider, sound suppressor, or thread protection cap. The weapon supports both 13 and 30 round magazines, allowing for different tactical needs. Ergonomics can be significantly improved by attaching a folding stock, with the KRISS Vector Gen.2 folding stock being the most ergonomic option. The KRISS Vector also has a side rail which can be used to attach a variety of tactical devices such as lasers and flashlights. For increased accuracy and ease of use, the weapon can be equipped with a variety of scopes, reflex sights, and holographic sights. The weapon lacks a dedicated foregrip slot but can still utilize a variety of tactical foregrips via its modular rail system. However, certain foregrips may conflict with other attachments, so careful consideration must be taken when choosing attachments. \n"
+	},
+	"HK UMP .45 ACP submachine gun": {
+		"weight": 1.22,
+		"ergonomics": 55,
+		"verticalRecoil": 51,
+		"horizontalRecoil": 170,
+		"effectiveDistance": 200,
+		"fireRate": 600,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber1143x23ACP",
+		"description": "The HK UMP .45 ACP submachine gun is a versatile weapon with a variety of customization options. It can be equipped with a stock for increased ergonomics and recoil reduction, although the stock is not required. The UMP can also be fitted with a variety of scopes and sights, including reflex, holographic, and thermal options, allowing players to adapt the gun to their preferred aiming style and engagement range.  The weapon is limited by its lack of integrated rails, but a side handguard rail can be attached to accommodate tactical accessories such as flashlights, lasers, and other attachments. While the UMP boasts a decent base magazine capacity of 25 rounds, it can only be equipped with a standard magazine.  The UMP lacks the ability to mount a foregrip, thus limiting the player's ability to further reduce recoil and enhance control.  Ultimately, the HK UMP is a well-rounded weapon that offers players a good balance of firepower and maneuverability, but it is limited in its customization potential compared to other weapons in the game. \n"
+	},
+	"TDI KRISS Vector Gen.2 9x19 submachine gun": {
+		"weight": 1.8,
+		"ergonomics": 74,
+		"verticalRecoil": 36,
+		"horizontalRecoil": 236,
+		"effectiveDistance": 200,
+		"fireRate": 950,
+		"fireModes": [
+			"Single fire",
+			"Burst fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The TDI KRISS Vector Gen.2 9x19 submachine gun offers a variety of customization options. You can equip various magazines, ranging from a standard 17-round magazine to a massive 50-round drum, impacting the weapon's capacity and ergonomics. You can also enhance its aiming capabilities by mounting a front and rear sight, with options like Magpul MBUS Gen2 flip-up sights for improved ergonomics. Additionally, you can choose from a selection of scopes and reflex sights, like the ELCAN SpecterDR 1x/4x scope, to adjust your zoom levels and aiming precision.  The KRISS Vector Gen.2  also allows the attachment of tactical devices like flashlights, lasers, and rangefinders to the side rail, adding utility and functionality.  You have the option to equip a stock, including the KRISS Vector Gen.2 folding stock, which significantly improves ergonomics and recoil reduction. However, the KRISS Vector Gen.2 lacks the ability to mount a carry handle, limiting its potential for mounting certain optics and accessories. \n"
+	},
+	"Soyuz-TM STM-9 Gen.2 9x19 carbine": {
+		"weight": 0.35,
+		"ergonomics": 68.5,
+		"verticalRecoil": 31,
+		"horizontalRecoil": 158,
+		"effectiveDistance": 500,
+		"fireRate": 800,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The Soyuz-TM STM-9 Gen.2 9x19 carbine is a versatile platform with a variety of customization options. It accepts a wide range of handguards, including the popular M-LOK and KeyMod systems, enabling the attachment of various tactical accessories. While the base gun has a moderate ergonomics rating, it can be significantly improved by using high-ergonomics pistol grips and stocks. The carbine can be fitted with a variety of muzzle devices, including brakes, flash hiders, and suppressors, offering enhanced recoil control and sound reduction. A notable feature of the STM-9 is the compatibility with a variety of optics, including reflex sights, holographic sights, and even thermal scopes. However, the carbine lacks the ability to mount traditional dovetail-style sights due to its Picatinny rail system. While it's not a long-range rifle, the STM-9 is an effective close to mid-range combat weapon, particularly with the appropriate optics and attachments. \n"
+	},
+	"SR-2M Veresk 9x21 submachine gun": {
+		"weight": 0.938,
+		"ergonomics": 85,
+		"verticalRecoil": 44,
+		"horizontalRecoil": 190,
+		"effectiveDistance": 200,
+		"fireRate": 950,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x21",
+		"description": "The SR-2M Veresk is a compact submachine gun capable of being fitted with a variety of attachments, allowing for customization to suit different playstyles.  It's mandatory to equip a muzzle device, with the sound suppressor offering the best recoil reduction (-0.06), but at the cost of a significant ergonomics penalty (-14).  Players can choose between two stock options, both of which offer a decent reduction in recoil (-0.19), with the SR-2MP stock having slightly better ergonomics (8 vs. 7).  The SR-2M can be equipped with a side rail on the handguard, enabling the attachment of various tactical devices such as flashlights, lasers, and even IR illuminators.  However, it's important to note that the Veresk lacks a dedicated scope mount, limiting its options for long-range engagements.  While the weapon boasts a relatively high base ergonomics score, equipping attachments can significantly impact this stat, particularly with heavier options like the sound suppressor.  Despite its compactness, the Veresk offers a respectable amount of customization and can be made effective for close-to-medium range engagements. \n"
+	},
+	"IWI UZI PRO Pistol 9x19 submachine gun": {
+		"weight": 0.939,
+		"ergonomics": 80,
+		"verticalRecoil": 59,
+		"horizontalRecoil": 203,
+		"effectiveDistance": 100,
+		"fireRate": 1075,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The IWI UZI PRO Pistol 9x19 submachine gun offers flexibility in its configuration.  You can significantly improve ergonomics by equipping a stock like the UZI PRO Stabilizing Brace, which provides a substantial 6 point increase. The MPX/MCX Telescoping/Folding Stock offers a significant recoil reduction of -0.2, making the gun more controllable. You can also drastically reduce recoil through the use of a muzzle brake, like the TACCOM Carbine Brake 9x19. With the UZI PRO A3 Tactical M-LOK handguard, you can attach a variety of tactical items, including flashlights and lasers. While the UZI PRO does not have a built-in scope mount, you can attach a dust cover which offers multiple mounting options for sights and scopes. Keep in mind that mounting a suppressor can cause a conflict with the UZI PRO A3 Tactical M-LOK handguard. The UZI PRO cannot be equipped with a carrying handle or a rear sight base, making it solely reliant on optics for aiming. \n"
+	},
+	"IWI UZI PRO SMG 9x19 submachine gun": {
+		"weight": 1.128,
+		"ergonomics": 84,
+		"verticalRecoil": 54,
+		"horizontalRecoil": 192,
+		"effectiveDistance": 100,
+		"fireRate": 1075,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The IWI UZI PRO SMG 9x19 submachine gun is a versatile weapon platform that allows for a degree of customization. The gun has a mandatory muzzle slot that can only fit the UZI PRO 9x19 barrel retaining nut, while the stock slot allows for a variety of options including stabilizing braces, rear stock adapters, and even a dedicated SBR buttstock. The rear stock adapter opens up a range of options with various AR-15 stocks and buffer tubes.  The gun has a dust cover that can be used to mount a variety of optics, including reflex sights, holographic sights, and even thermal scopes.  While ergonomics can be increased through modding, it is limited by the gun's inherent design. The IWI UZI PRO SMG 9x19 submachine gun is restricted to 9x19mm ammunition, limiting its versatility in ammunition choice. Ultimately, the gun offers a balanced combination of ergonomics and recoil reduction potential, making it a viable choice for various combat scenarios within the game. \n"
+	},
+	"IWI UZI 9x19 submachine gun": {
+		"weight": 2.26,
+		"ergonomics": 73,
+		"verticalRecoil": 41,
+		"horizontalRecoil": 193,
+		"effectiveDistance": 200,
+		"fireRate": 600,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The IWI UZI 9x19 submachine gun is a versatile weapon in Escape from Tarkov, capable of being customized to fit a variety of playstyles. The UZI's ergonomics can be significantly improved through modding, with options like the UZI Type 6 buttstock and the UZI handguard with foregrip offering substantial benefits.  The weapon's recoil can also be reduced through various attachments, particularly the UZI Type 3 buttstock and the UZI handguard with foregrip.  A variety of magazines are available, ranging from the standard 20-round magazine to the 50-round drum magazine, allowing players to tailor their loadout to different situations. The UZI supports a wide range of muzzle devices, including sound suppressors, muzzle brakes, and flash hiders, providing options for stealth or enhanced performance. While the UZI can be modded to improve its ergonomics and recoil control, it lacks the ability to mount scopes or optics, limiting its range potential. \n"
+	}
+}

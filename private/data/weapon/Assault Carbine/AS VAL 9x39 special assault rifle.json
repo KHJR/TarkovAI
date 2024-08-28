@@ -1,0 +1,3555 @@
+{
+    "Tree Structure": {
+        "Muzzle": {
+            "Required": true,
+            "Allowed Items": {
+                "AS VAL 9x39 integral barrel-suppressor": {
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "AS VAL rear sight": {},
+                            "VSS rear sight": {}
+                        }
+                    },
+                    "Mount": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "VSS/VAL TOZ 6P29M mount": {
+                                "Tactical": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Glock GTL 21 tactical flashlight with laser": {},
+                                        "Holosun LS321 Tactical device": {},
+                                        "L3Harris AN/PEQ-15 tactical device": {},
+                                        "Insight AN/PEQ-2 tactical device": {},
+                                        "L3Harris LA-5B/PEQ tactical device": {},
+                                        "NcSTAR Tactical blue laser LAM-module": {},
+                                        "Steiner DBAL-PL tactical device": {},
+                                        "Steiner LAS/TAC 2 tactical flashlight": {},
+                                        "SureFire X400 Ultra tactical flashlight with laser": {},
+                                        "SureFire XC1 tactical flashlight": {},
+                                        "Wilcox RAPTAR ES Tactical Rangefinder": {},
+                                        "Zenit Klesch-2IKS IR illuminator with laser": {},
+                                        "Zenit Klesch-2P flashlight with laser": {},
+                                        "Zenit Klesch-2U tactical flashlight": {},
+                                        "Zenit Perst-3 tactical device": {},
+                                        "Kiba Arms 25mm accessory ring mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                                                    "Ultrafire WF-501B flashlight": {}
+                                                }
+                                            }
+                                        },
+                                        "Daniel Defense 25mm accessory ring mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                                                    "Ultrafire WF-501B flashlight": {}
+                                                }
+                                            }
+                                        },
+                                        "Olight Baldr Pro tactical flashlight with laser": {},
+                                        "Olight Baldr Pro tactical flashlight with laser (Tan)": {},
+                                        "MAWL-C1+ tactical device": {},
+                                        "Zenit KR-2 old gen mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Zenit 2D flashlight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Foregrip": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "BCM GUNFIGHTER MOD 3 vertical foregrip": {},
+                                        "ASh-12 vertical foregrip": {},
+                                        "Fortis Shift tactical foregrip": {},
+                                        "HK Sturmgriff foregrip": {},
+                                        "KAC vertical foregrip": {},
+                                        "Magpul AFG tactical foregrip (Black)": {},
+                                        "Magpul AFG tactical foregrip (FDE)": {},
+                                        "Magpul AFG tactical foregrip (Forest Green)": {},
+                                        "Magpul AFG tactical foregrip (Olive Drab)": {},
+                                        "Magpul RVG foregrip (Black)": {},
+                                        "Magpul RVG foregrip (FDE)": {},
+                                        "RTM Pillau tactical foregrip": {},
+                                        "Stark SE-5 Express Forward foregrip": {},
+                                        "Strike Industries Cobra Tactical foregrip": {},
+                                        "TangoDown Stubby BGV-MK46K foregrip (Black)": {},
+                                        "TangoDown Stubby BGV-MK46K foregrip (FDE)": {},
+                                        "TangoDown Stubby BGV-MK46K foregrip (Stealth Grey)": {},
+                                        "Tactical Dynamics Skeletonized Foregrip": {},
+                                        "Viking Tactics UVG tactical foregrip": {},
+                                        "Zenit RK-1 tactical foregrip on B-25U mount": {},
+                                        "Zenit RK-0 tactical foregrip": {},
+                                        "Zenit RK-1 tactical foregrip": {},
+                                        "Zenit RK-2 tactical foregrip": {},
+                                        "Zenit RK-4 tactical foregrip": {},
+                                        "Zenit RK-5 tactical foregrip": {},
+                                        "Zenit RK-6 tactical foregrip": {},
+                                        "Holosun LS321 Tactical device": {},
+                                        "L3Harris AN/PEQ-15 tactical device": {},
+                                        "SureFire X400 Ultra tactical flashlight with laser": {},
+                                        "Zenit Klesch-2IKS IR illuminator with laser": {},
+                                        "Zenit Klesch-2P flashlight with laser": {},
+                                        "Kiba Arms 25mm accessory ring mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                                                    "Ultrafire WF-501B flashlight": {}
+                                                }
+                                            }
+                                        },
+                                        "Daniel Defense 25mm accessory ring mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                                                    "Ultrafire WF-501B flashlight": {}
+                                                }
+                                            }
+                                        },
+                                        "Insight WMX200 tactical flashlight": {},
+                                        "Olight Baldr Pro tactical flashlight with laser": {},
+                                        "Olight Baldr Pro tactical flashlight with laser (Tan)": {},
+                                        "RTM Osovets P-2 tactical foregrip": {},
+                                        "RTM Osovets P-2 tactical foregrip (Khaki)": {},
+                                        "RTM Pillau tactical foregrip (Sand)": {},
+                                        "RTM Pillau P-2 tactical foregrip (Red)": {},
+                                        "Stark SE-5 Express Forward foregrip (FDE)": {},
+                                        "Strike Industries Cobra Tactical foregrip (FDE)": {},
+                                        "TangoDown BGV-QDITI foregrip (Black)": {},
+                                        "TangoDown BGV-QDITI foregrip (FDE)": {},
+                                        "TangoDown Stubby BGV-QDK foregrip (Black)": {},
+                                        "TangoDown Stubby BGV-QDK foregrip (FDE)": {},
+                                        "BT10 V8 Atlas Bipod": {}
+                                    }
+                                }
+                            },
+                            "VSS/VAL Zenit B-3 ring mount": {
+                                "Tactical": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Glock GTL 21 tactical flashlight with laser": {},
+                                        "Holosun LS321 Tactical device": {},
+                                        "L3Harris AN/PEQ-15 tactical device": {},
+                                        "L3Harris LA-5B/PEQ tactical device": {},
+                                        "NcSTAR Tactical blue laser LAM-module": {},
+                                        "Steiner DBAL-PL tactical device": {},
+                                        "Steiner LAS/TAC 2 tactical flashlight": {},
+                                        "SureFire X400 Ultra tactical flashlight with laser": {},
+                                        "SureFire XC1 tactical flashlight": {},
+                                        "Wilcox RAPTAR ES Tactical Rangefinder": {},
+                                        "Zenit Klesch-2IKS IR illuminator with laser": {},
+                                        "Zenit Klesch-2P flashlight with laser": {},
+                                        "Zenit Klesch-2U tactical flashlight": {},
+                                        "Zenit Perst-3 tactical device": {},
+                                        "Kiba Arms 25mm accessory ring mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                                                    "Ultrafire WF-501B flashlight": {}
+                                                }
+                                            }
+                                        },
+                                        "Daniel Defense 25mm accessory ring mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                                                    "Ultrafire WF-501B flashlight": {}
+                                                }
+                                            }
+                                        },
+                                        "Olight Baldr Pro tactical flashlight with laser": {},
+                                        "Olight Baldr Pro tactical flashlight with laser (Tan)": {},
+                                        "Insight WMX200 tactical flashlight": {},
+                                        "MAWL-C1+ tactical device": {},
+                                        "Zenit KR-2 old gen mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Zenit 2D flashlight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "VSS/VAL Zenit B-3 mount combo": {
+                                "Tactical": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Glock GTL 21 tactical flashlight with laser": {},
+                                        "Holosun LS321 Tactical device": {},
+                                        "L3Harris AN/PEQ-15 tactical device": {},
+                                        "Insight AN/PEQ-2 tactical device": {},
+                                        "L3Harris LA-5B/PEQ tactical device": {},
+                                        "NcSTAR Tactical blue laser LAM-module": {},
+                                        "Steiner DBAL-PL tactical device": {},
+                                        "Steiner LAS/TAC 2 tactical flashlight": {},
+                                        "SureFire X400 Ultra tactical flashlight with laser": {},
+                                        "SureFire XC1 tactical flashlight": {},
+                                        "Wilcox RAPTAR ES Tactical Rangefinder": {},
+                                        "Zenit Klesch-2IKS IR illuminator with laser": {},
+                                        "Zenit Klesch-2P flashlight with laser": {},
+                                        "Zenit Klesch-2U tactical flashlight": {},
+                                        "Zenit Perst-3 tactical device": {},
+                                        "Kiba Arms 25mm accessory ring mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                                                    "Ultrafire WF-501B flashlight": {}
+                                                }
+                                            }
+                                        },
+                                        "Daniel Defense 25mm accessory ring mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                                                    "Ultrafire WF-501B flashlight": {}
+                                                }
+                                            }
+                                        },
+                                        "Olight Baldr Pro tactical flashlight with laser": {},
+                                        "Olight Baldr Pro tactical flashlight with laser (Tan)": {},
+                                        "Insight WMX200 tactical flashlight": {},
+                                        "MAWL-C1+ tactical device": {},
+                                        "Zenit KR-2 old gen mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Zenit 2D flashlight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "BelOMO PK-06 reflex sight": {},
+                                        "Aimpoint Micro Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Aimpoint Micro H-2 Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "B&T QD NAR mount for Aimpoint ACRO": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint ACRO P-1 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Burris FastFire Weaver Base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Burris FastFire 3 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "DeltaPoint Cross Slot Mount base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Leupold DeltaPoint Reflex Sight": {}
+                                                }
+                                            }
+                                        },
+                                        "NcSTAR MPR45 Backup mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "BelOMO PK-06 reflex sight": {},
+                                                    "Torrey Pines Logic T12W 30Hz thermal reflex sight": {},
+                                                    "Aimpoint Micro Standard Mount": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {},
+                                                                "Aimpoint Micro Spacer High": {
+                                                                    "Scope": {
+                                                                        "Required": false,
+                                                                        "Allowed Items": {
+                                                                            "Aimpoint Micro H-2 reflex sight": {},
+                                                                            "Aimpoint Micro T-1 reflex sight": {},
+                                                                            "SIG Sauer ROMEO4 reflex sight": {}
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "Aimpoint Micro H-2 Standard Mount": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {},
+                                                                "Aimpoint Micro Spacer High": {
+                                                                    "Scope": {
+                                                                        "Required": false,
+                                                                        "Allowed Items": {
+                                                                            "Aimpoint Micro H-2 reflex sight": {},
+                                                                            "Aimpoint Micro T-1 reflex sight": {},
+                                                                            "SIG Sauer ROMEO4 reflex sight": {}
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "B&T QD NAR mount for Aimpoint ACRO": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint ACRO P-1 reflex sight": {}
+                                                            }
+                                                        }
+                                                    },
+                                                    "Burris FastFire Weaver Base": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Burris FastFire 3 reflex sight": {}
+                                                            }
+                                                        }
+                                                    },
+                                                    "DeltaPoint Cross Slot Mount base": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Leupold DeltaPoint Reflex Sight": {}
+                                                            }
+                                                        }
+                                                    },
+                                                    "Trijicon RMR low profile mount": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Trijicon RMR reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "SIG Sauer ROMEO sight mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR high profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR low profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "VSS 9x39 integral barrel-suppressor": {
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "AS VAL rear sight": {},
+                            "VSS rear sight": {}
+                        }
+                    },
+                    "Mount": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "VSS/VAL TOZ 6P29M mount": {
+                                "Tactical": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Glock GTL 21 tactical flashlight with laser": {},
+                                        "Holosun LS321 Tactical device": {},
+                                        "L3Harris AN/PEQ-15 tactical device": {},
+                                        "Insight AN/PEQ-2 tactical device": {},
+                                        "L3Harris LA-5B/PEQ tactical device": {},
+                                        "NcSTAR Tactical blue laser LAM-module": {},
+                                        "Steiner DBAL-PL tactical device": {},
+                                        "Steiner LAS/TAC 2 tactical flashlight": {},
+                                        "SureFire X400 Ultra tactical flashlight with laser": {},
+                                        "SureFire XC1 tactical flashlight": {},
+                                        "Wilcox RAPTAR ES Tactical Rangefinder": {},
+                                        "Zenit Klesch-2IKS IR illuminator with laser": {},
+                                        "Zenit Klesch-2P flashlight with laser": {},
+                                        "Zenit Klesch-2U tactical flashlight": {},
+                                        "Zenit Perst-3 tactical device": {},
+                                        "Kiba Arms 25mm accessory ring mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                                                    "Ultrafire WF-501B flashlight": {}
+                                                }
+                                            }
+                                        },
+                                        "Daniel Defense 25mm accessory ring mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                                                    "Ultrafire WF-501B flashlight": {}
+                                                }
+                                            }
+                                        },
+                                        "Olight Baldr Pro tactical flashlight with laser": {},
+                                        "Olight Baldr Pro tactical flashlight with laser (Tan)": {},
+                                        "MAWL-C1+ tactical device": {},
+                                        "Zenit KR-2 old gen mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Zenit 2D flashlight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Foregrip": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "BCM GUNFIGHTER MOD 3 vertical foregrip": {},
+                                        "ASh-12 vertical foregrip": {},
+                                        "Fortis Shift tactical foregrip": {},
+                                        "HK Sturmgriff foregrip": {},
+                                        "KAC vertical foregrip": {},
+                                        "Magpul AFG tactical foregrip (Black)": {},
+                                        "Magpul AFG tactical foregrip (FDE)": {},
+                                        "Magpul AFG tactical foregrip (Forest Green)": {},
+                                        "Magpul AFG tactical foregrip (Olive Drab)": {},
+                                        "Magpul RVG foregrip (Black)": {},
+                                        "Magpul RVG foregrip (FDE)": {},
+                                        "RTM Pillau tactical foregrip": {},
+                                        "Stark SE-5 Express Forward foregrip": {},
+                                        "Strike Industries Cobra Tactical foregrip": {},
+                                        "TangoDown Stubby BGV-MK46K foregrip (Black)": {},
+                                        "TangoDown Stubby BGV-MK46K foregrip (FDE)": {},
+                                        "TangoDown Stubby BGV-MK46K foregrip (Stealth Grey)": {},
+                                        "Tactical Dynamics Skeletonized Foregrip": {},
+                                        "Viking Tactics UVG tactical foregrip": {},
+                                        "Zenit RK-1 tactical foregrip on B-25U mount": {},
+                                        "Zenit RK-0 tactical foregrip": {},
+                                        "Zenit RK-1 tactical foregrip": {},
+                                        "Zenit RK-2 tactical foregrip": {},
+                                        "Zenit RK-4 tactical foregrip": {},
+                                        "Zenit RK-5 tactical foregrip": {},
+                                        "Zenit RK-6 tactical foregrip": {},
+                                        "Holosun LS321 Tactical device": {},
+                                        "L3Harris AN/PEQ-15 tactical device": {},
+                                        "SureFire X400 Ultra tactical flashlight with laser": {},
+                                        "Zenit Klesch-2IKS IR illuminator with laser": {},
+                                        "Zenit Klesch-2P flashlight with laser": {},
+                                        "Kiba Arms 25mm accessory ring mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                                                    "Ultrafire WF-501B flashlight": {}
+                                                }
+                                            }
+                                        },
+                                        "Daniel Defense 25mm accessory ring mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                                                    "Ultrafire WF-501B flashlight": {}
+                                                }
+                                            }
+                                        },
+                                        "Insight WMX200 tactical flashlight": {},
+                                        "Olight Baldr Pro tactical flashlight with laser": {},
+                                        "Olight Baldr Pro tactical flashlight with laser (Tan)": {},
+                                        "RTM Osovets P-2 tactical foregrip": {},
+                                        "RTM Osovets P-2 tactical foregrip (Khaki)": {},
+                                        "RTM Pillau tactical foregrip (Sand)": {},
+                                        "RTM Pillau P-2 tactical foregrip (Red)": {},
+                                        "Stark SE-5 Express Forward foregrip (FDE)": {},
+                                        "Strike Industries Cobra Tactical foregrip (FDE)": {},
+                                        "TangoDown BGV-QDITI foregrip (Black)": {},
+                                        "TangoDown BGV-QDITI foregrip (FDE)": {},
+                                        "TangoDown Stubby BGV-QDK foregrip (Black)": {},
+                                        "TangoDown Stubby BGV-QDK foregrip (FDE)": {},
+                                        "BT10 V8 Atlas Bipod": {}
+                                    }
+                                }
+                            },
+                            "VSS/VAL Zenit B-3 ring mount": {
+                                "Tactical": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Glock GTL 21 tactical flashlight with laser": {},
+                                        "Holosun LS321 Tactical device": {},
+                                        "L3Harris AN/PEQ-15 tactical device": {},
+                                        "L3Harris LA-5B/PEQ tactical device": {},
+                                        "NcSTAR Tactical blue laser LAM-module": {},
+                                        "Steiner DBAL-PL tactical device": {},
+                                        "Steiner LAS/TAC 2 tactical flashlight": {},
+                                        "SureFire X400 Ultra tactical flashlight with laser": {},
+                                        "SureFire XC1 tactical flashlight": {},
+                                        "Wilcox RAPTAR ES Tactical Rangefinder": {},
+                                        "Zenit Klesch-2IKS IR illuminator with laser": {},
+                                        "Zenit Klesch-2P flashlight with laser": {},
+                                        "Zenit Klesch-2U tactical flashlight": {},
+                                        "Zenit Perst-3 tactical device": {},
+                                        "Kiba Arms 25mm accessory ring mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                                                    "Ultrafire WF-501B flashlight": {}
+                                                }
+                                            }
+                                        },
+                                        "Daniel Defense 25mm accessory ring mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                                                    "Ultrafire WF-501B flashlight": {}
+                                                }
+                                            }
+                                        },
+                                        "Olight Baldr Pro tactical flashlight with laser": {},
+                                        "Olight Baldr Pro tactical flashlight with laser (Tan)": {},
+                                        "Insight WMX200 tactical flashlight": {},
+                                        "MAWL-C1+ tactical device": {},
+                                        "Zenit KR-2 old gen mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Zenit 2D flashlight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "VSS/VAL Zenit B-3 mount combo": {
+                                "Tactical": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Glock GTL 21 tactical flashlight with laser": {},
+                                        "Holosun LS321 Tactical device": {},
+                                        "L3Harris AN/PEQ-15 tactical device": {},
+                                        "Insight AN/PEQ-2 tactical device": {},
+                                        "L3Harris LA-5B/PEQ tactical device": {},
+                                        "NcSTAR Tactical blue laser LAM-module": {},
+                                        "Steiner DBAL-PL tactical device": {},
+                                        "Steiner LAS/TAC 2 tactical flashlight": {},
+                                        "SureFire X400 Ultra tactical flashlight with laser": {},
+                                        "SureFire XC1 tactical flashlight": {},
+                                        "Wilcox RAPTAR ES Tactical Rangefinder": {},
+                                        "Zenit Klesch-2IKS IR illuminator with laser": {},
+                                        "Zenit Klesch-2P flashlight with laser": {},
+                                        "Zenit Klesch-2U tactical flashlight": {},
+                                        "Zenit Perst-3 tactical device": {},
+                                        "Kiba Arms 25mm accessory ring mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                                                    "Ultrafire WF-501B flashlight": {}
+                                                }
+                                            }
+                                        },
+                                        "Daniel Defense 25mm accessory ring mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                                                    "Ultrafire WF-501B flashlight": {}
+                                                }
+                                            }
+                                        },
+                                        "Olight Baldr Pro tactical flashlight with laser": {},
+                                        "Olight Baldr Pro tactical flashlight with laser (Tan)": {},
+                                        "Insight WMX200 tactical flashlight": {},
+                                        "MAWL-C1+ tactical device": {},
+                                        "Zenit KR-2 old gen mount": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Zenit 2D flashlight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "BelOMO PK-06 reflex sight": {},
+                                        "Aimpoint Micro Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Aimpoint Micro H-2 Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "B&T QD NAR mount for Aimpoint ACRO": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint ACRO P-1 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Burris FastFire Weaver Base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Burris FastFire 3 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "DeltaPoint Cross Slot Mount base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Leupold DeltaPoint Reflex Sight": {}
+                                                }
+                                            }
+                                        },
+                                        "NcSTAR MPR45 Backup mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "BelOMO PK-06 reflex sight": {},
+                                                    "Torrey Pines Logic T12W 30Hz thermal reflex sight": {},
+                                                    "Aimpoint Micro Standard Mount": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {},
+                                                                "Aimpoint Micro Spacer High": {
+                                                                    "Scope": {
+                                                                        "Required": false,
+                                                                        "Allowed Items": {
+                                                                            "Aimpoint Micro H-2 reflex sight": {},
+                                                                            "Aimpoint Micro T-1 reflex sight": {},
+                                                                            "SIG Sauer ROMEO4 reflex sight": {}
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "Aimpoint Micro H-2 Standard Mount": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {},
+                                                                "Aimpoint Micro Spacer High": {
+                                                                    "Scope": {
+                                                                        "Required": false,
+                                                                        "Allowed Items": {
+                                                                            "Aimpoint Micro H-2 reflex sight": {},
+                                                                            "Aimpoint Micro T-1 reflex sight": {},
+                                                                            "SIG Sauer ROMEO4 reflex sight": {}
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "B&T QD NAR mount for Aimpoint ACRO": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint ACRO P-1 reflex sight": {}
+                                                            }
+                                                        }
+                                                    },
+                                                    "Burris FastFire Weaver Base": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Burris FastFire 3 reflex sight": {}
+                                                            }
+                                                        }
+                                                    },
+                                                    "DeltaPoint Cross Slot Mount base": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Leupold DeltaPoint Reflex Sight": {}
+                                                            }
+                                                        }
+                                                    },
+                                                    "Trijicon RMR low profile mount": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Trijicon RMR reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "SIG Sauer ROMEO sight mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR high profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR low profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Receiver": {
+            "Required": false,
+            "Allowed Items": {
+                "AS VAL dust cover": {},
+                "VSS dust cover": {}
+            }
+        },
+        "Magazine": {
+            "Required": false,
+            "Allowed Items": {
+                "VSS/VAL 9x39 6L24 10-round magazine": {},
+                "VSS/VAL 9x39 6L25 20-round magazine (Plum)": {},
+                "VSS/VAL 9x39 SR3M.130 30-round magazine": {},
+                "VSS/VAL 9x39 30-round magazine": {}
+            }
+        },
+        "Pistol Grip": {
+            "Required": true,
+            "Allowed Items": {
+                "AS VAL Rotor 43 pistol grip & buffer tube": {
+                    "Stock": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "AR-15 FAB Defense GL-SHOCK buttstock": {},
+                            "AR-15 FAB Defense GLR-16-S stock": {},
+                            "AR-15 High Standard M4SS Stock": {},
+                            "AR-15 HK E1 buttstock": {},
+                            "AR-15 HK Slim Line buttstock": {},
+                            "AK-12 stock": {},
+                            "AR-15 LMT SOPMOD stock": {},
+                            "AR-15 Magpul CTR Carbine stock (Black)": {},
+                            "AR-15 Magpul CTR Carbine stock (FDE)": {},
+                            "AR-15 Magpul MOE Carbine stock (Black)": {
+                                "Stock": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Magpul MOE Carbine rubber buttpad": {}
+                                    }
+                                }
+                            },
+                            "AR-15 Magpul MOE Carbine stock (FDE)": {
+                                "Stock": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Magpul MOE Carbine rubber buttpad": {}
+                                    }
+                                }
+                            },
+                            "AR-15 Magpul MOE Carbine stock (Foliage Green)": {
+                                "Stock": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Magpul MOE Carbine rubber buttpad": {}
+                                    }
+                                }
+                            },
+                            "AR-15 Magpul MOE Carbine stock (Olive Drab)": {
+                                "Stock": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Magpul MOE Carbine rubber buttpad": {}
+                                    }
+                                }
+                            },
+                            "AR-15 Magpul MOE Carbine stock (Stealth Grey)": {
+                                "Stock": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Magpul MOE Carbine rubber buttpad": {}
+                                    }
+                                }
+                            },
+                            "AR-15 Magpul PRS GEN3 stock (Black)": {},
+                            "AR-15 Magpul PRS GEN3 stock (Grey)": {},
+                            "AR-15 MFT BUS stock": {},
+                            "AR-15 Strike Industries Viper Mod 1 stock": {},
+                            "AR-15 Vltor EMOD stock": {},
+                            "AR-15 SB Tactical SBA3 brace": {},
+                            "AR-15 Daniel Defense Enhanced Collapsible Buttstock (Black)": {
+                                "Stock": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Daniel Defense TCS 12mm Buttpad ": {},
+                                        "Daniel Defense TCS 20mm Buttpad ": {}
+                                    }
+                                }
+                            },
+                            "AR-15 Daniel Defense Enhanced Collapsible Buttstock (FDE)": {
+                                "Stock": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Daniel Defense TCS 12mm Buttpad ": {},
+                                        "Daniel Defense TCS 20mm Buttpad ": {}
+                                    }
+                                }
+                            },
+                            "AR-15 Magpul MOE SL-K buttstock (Coyote Tan)": {},
+                            "AR-15 FAB Defense GL-CORE buttstock": {}
+                        }
+                    }
+                },
+                "AS VAL pistol grip (Plum)": {},
+                "AS VAL pistol grip (Black)": {}
+            }
+        },
+        "Stock": {
+            "Required": false,
+            "Allowed Items": {
+                "AS VAL skeleton stock": {}
+            }
+        },
+        "Ch. Handle": {
+            "Required": false,
+            "Allowed Items": {
+                "AK CSS knurled charging handle": {},
+                "AK Zenit RP-1 charging handle": {}
+            }
+        },
+        "Mount": {
+            "Required": false,
+            "Allowed Items": {
+                "BelOMO PSO-1 4x24 scope": {
+                    "Tactical": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "PSO scope eyecup": {}
+                        }
+                    }
+                },
+                "BelOMO PSO-1M2-1 4x24 scope": {
+                    "Tactical": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "PSO scope eyecup": {}
+                        }
+                    }
+                },
+                "BelOMO PSO-1M2 4x24 scope": {
+                    "Tactical": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "PSO scope eyecup": {}
+                        }
+                    }
+                },
+                "SVD SAG low profile sidemount": {
+                    "Scope": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "ELCAN SpecterDR 1x/4x scope": {
+                                "Mount": {
+                                    "Required": false,
+                                    "Allowed Items": {}
+                                }
+                            },
+                            "ELCAN SpecterDR 1x/4x scope (FDE)": {
+                                "Mount": {
+                                    "Required": false,
+                                    "Allowed Items": {}
+                                }
+                            },
+                            "Leupold Mark 4 HAMR 4x24 DeltaPoint hybrid assault scope": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Leupold DeltaPoint Reflex Sight": {}
+                                    }
+                                }
+                            },
+                            "Monstrum Tactical Compact Prism Scope 2x32": {},
+                            "SIG Sauer BRAVO4 4x30 scope": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "BelOMO PK-06 reflex sight": {},
+                                        "Aimpoint Micro Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Burris FastFire Weaver Base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Burris FastFire 3 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "DeltaPoint Cross Slot Mount base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Leupold DeltaPoint Reflex Sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR low profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Valday PS-320 1/6x scope": {},
+                            "Axion Kobra EKP-8-18 reflex sight": {
+                                "Tactical": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Axion Kobra sight shade": {}
+                                    }
+                                }
+                            },
+                            "OKP-7 reflex sight": {},
+                            "EOTech 553 holographic sight": {},
+                            "EOTech EXPS3 holographic sight (Tan)": {},
+                            "EOTech HHS-1 hybrid sight": {},
+                            "EOTech HHS-1 hybrid sight (Tan)": {},
+                            "EOTech XPS3-0 holographic sight": {},
+                            "EOTech XPS3-2 holographic sight": {},
+                            "Holosun HS401G5 reflex sight": {},
+                            "Leapers UTG reflex sight": {},
+                            "SIG Sauer ROMEO8T reflex sight": {},
+                            "Trijicon SRS-02 reflex sight": {},
+                            "Valday PK-120 (1P87) holographic sight": {},
+                            "Valday Krechet reflex sight": {},
+                            "VOMZ Pilad P1x42 Weaver reflex sight": {},
+                            "Vortex Razor AMG UH-1 holographic sight": {},
+                            "Walther MRS reflex sight": {},
+                            "BelOMO PK-06 reflex sight": {},
+                            "NcSTAR ADO P4 Sniper 3-9x42 riflescope": {},
+                            "FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope": {
+                                "Tactical": {
+                                    "Required": false,
+                                    "Allowed Items": {}
+                                }
+                            },
+                            "Torrey Pines Logic T12W 30Hz thermal reflex sight": {},
+                            "Aimpoint Micro Standard Mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint Micro H-2 reflex sight": {},
+                                        "Aimpoint Micro T-1 reflex sight": {},
+                                        "SIG Sauer ROMEO4 reflex sight": {},
+                                        "Aimpoint Micro Spacer High": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Aimpoint Micro H-2 Standard Mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint Micro H-2 reflex sight": {},
+                                        "Aimpoint Micro T-1 reflex sight": {},
+                                        "SIG Sauer ROMEO4 reflex sight": {},
+                                        "Aimpoint Micro Spacer High": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Aimpoint LRP mount for CompM4 sights": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint PRO reflex sight": {},
+                                        "Aimpoint CompM4 reflex sight": {},
+                                        "Aimpoint Standard Spacer": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint PRO reflex sight": {},
+                                                    "Aimpoint CompM4 reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Aimpoint QRP2 mount for CompM4/PRO sights": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint PRO reflex sight": {},
+                                        "Aimpoint CompM4 reflex sight": {},
+                                        "Aimpoint Standard Spacer": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint PRO reflex sight": {},
+                                                    "Aimpoint CompM4 reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Armasight Vulcan universal base": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Armasight Vulcan MG 3.5x Bravo night vision scope": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "BelOMO PK-06 reflex sight": {},
+                                                    "Aimpoint Micro Standard Mount": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {},
+                                                                "Aimpoint Micro Spacer High": {
+                                                                    "Scope": {
+                                                                        "Required": false,
+                                                                        "Allowed Items": {
+                                                                            "Aimpoint Micro H-2 reflex sight": {},
+                                                                            "Aimpoint Micro T-1 reflex sight": {},
+                                                                            "SIG Sauer ROMEO4 reflex sight": {}
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    },
+                                                    "Burris FastFire Weaver Base": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Burris FastFire 3 reflex sight": {}
+                                                            }
+                                                        }
+                                                    },
+                                                    "DeltaPoint Cross Slot Mount base": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Leupold DeltaPoint Reflex Sight": {}
+                                                            }
+                                                        }
+                                                    },
+                                                    "Trijicon RMR low profile mount": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Trijicon RMR reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            },
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armasight Vulcan MG scope eyecup": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "B&T QD NAR mount for Aimpoint ACRO": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint ACRO P-1 reflex sight": {}
+                                    }
+                                }
+                            },
+                            "Burris AR-P.E.P.R. 30mm ring scope mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "BelOMO PK-06 reflex sight": {},
+                                        "Aimpoint Micro Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Aimpoint Micro H-2 Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "B&T QD NAR mount for Aimpoint ACRO": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint ACRO P-1 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Burris FastFire Weaver Base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Burris FastFire 3 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "DeltaPoint Cross Slot Mount base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Leupold DeltaPoint Reflex Sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR low profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Burris FastFire Weaver Base": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FastFire 3 reflex sight": {}
+                                    }
+                                }
+                            },
+                            "Geissele Super Precision 30mm ring scope mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FullField TAC30 1-4x24 30mm riflescope": {},
+                                        "EOTech Vudu 1-6x24 30mm riflescope": {},
+                                        "Leupold Mark 4 LR 6.5-20x50 30mm riflescope": {},
+                                        "March Tactical 3-24x42 FFP 30mm riflescope": {},
+                                        "Vortex Razor HD Gen.2 1-6x24 30mm riflescope": {},
+                                        "Schmidt & Bender PM II 1-8x24 30mm riflescope": {},
+                                        "SIG TANGO6T 1-6x24 30mm riflescope": {}
+                                    }
+                                },
+                                "Mount": {
+                                    "Required": true,
+                                    "Allowed Items": {
+                                        "Geissele Super Precision top ring cap": {},
+                                        "Geissele Super Precision top ring cap (DDC)": {},
+                                        "Reptilia ROF-90 RMR mount for Geissele scope mounts": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Reptilia ROF-90 RMR mount for Geissele scope mounts (DDC)": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Geissele Super Precision 30mm ring scope mount (DDC)": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FullField TAC30 1-4x24 30mm riflescope": {},
+                                        "EOTech Vudu 1-6x24 30mm riflescope": {},
+                                        "Leupold Mark 4 LR 6.5-20x50 30mm riflescope": {},
+                                        "March Tactical 3-24x42 FFP 30mm riflescope": {},
+                                        "Vortex Razor HD Gen.2 1-6x24 30mm riflescope": {},
+                                        "Schmidt & Bender PM II 1-8x24 30mm riflescope": {},
+                                        "SIG TANGO6T 1-6x24 30mm riflescope": {}
+                                    }
+                                },
+                                "Mount": {
+                                    "Required": true,
+                                    "Allowed Items": {
+                                        "Geissele Super Precision top ring cap": {},
+                                        "Geissele Super Precision top ring cap (DDC)": {},
+                                        "Reptilia ROF-90 RMR mount for Geissele scope mounts": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Reptilia ROF-90 RMR mount for Geissele scope mounts (DDC)": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "IEA Mil-Optics KH/F 34mm one-piece magmount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Hensoldt FF 4-16x56 34mm riflescope": {},
+                                        "Nightforce ATACR 7-35x56 34mm riflescope": {},
+                                        "Schmidt & Bender PM II 3-20x50 34mm riflescope": {}
+                                    }
+                                }
+                            },
+                            "JP Enterprises Flat-Top 30mm ring scope mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Leupold DeltaPoint Reflex Sight": {}
+                                    }
+                                }
+                            },
+                            "KMZ 1P69 Weaver mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "KMZ 1P59 3-10x riflescope": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "KMZ 1P59 scope eyecup": {}
+                                                }
+                                            }
+                                        },
+                                        "KMZ 1P69 3-10x riflescope": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "KMZ 1P59 scope eyecup": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "DeltaPoint Cross Slot Mount base": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Leupold DeltaPoint Reflex Sight": {}
+                                    }
+                                }
+                            },
+                            "Lobaev Arms 30mm scope mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FullField TAC30 1-4x24 30mm riflescope": {},
+                                        "EOTech Vudu 1-6x24 30mm riflescope": {},
+                                        "Leupold Mark 4 LR 6.5-20x50 30mm riflescope": {},
+                                        "March Tactical 3-24x42 FFP 30mm riflescope": {},
+                                        "Vortex Razor HD Gen.2 1-6x24 30mm riflescope": {},
+                                        "Schmidt & Bender PM II 1-8x24 30mm riflescope": {},
+                                        "SIG TANGO6T 1-6x24 30mm riflescope": {}
+                                    }
+                                }
+                            },
+                            "Nightforce Magmount 30mm ring scope mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FullField TAC30 1-4x24 30mm riflescope": {},
+                                        "EOTech Vudu 1-6x24 30mm riflescope": {},
+                                        "Leupold Mark 4 LR 6.5-20x50 30mm riflescope": {},
+                                        "March Tactical 3-24x42 FFP 30mm riflescope": {},
+                                        "Vortex Razor HD Gen.2 1-6x24 30mm riflescope": {},
+                                        "Schmidt & Bender PM II 1-8x24 30mm riflescope": {},
+                                        "SIG TANGO6T 1-6x24 30mm riflescope": {}
+                                    }
+                                }
+                            },
+                            "Nightforce Magmount 34mm ring scope mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Hensoldt FF 4-16x56 34mm riflescope": {},
+                                        "Nightforce ATACR 7-35x56 34mm riflescope": {},
+                                        "Schmidt & Bender PM II 3-20x50 34mm riflescope": {},
+                                        "Schmidt & Bender PM II 5-25x56 34mm riflescope": {}
+                                    }
+                                }
+                            },
+                            "Nightforce Magmount 34mm ring scope mount with Ruggedized Accessory Platform": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "BelOMO PK-06 reflex sight": {},
+                                        "Aimpoint Micro Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Aimpoint Micro H-2 Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "B&T QD NAR mount for Aimpoint ACRO": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint ACRO P-1 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Burris FastFire Weaver Base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Burris FastFire 3 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "DeltaPoint Cross Slot Mount base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Leupold DeltaPoint Reflex Sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR low profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Kiba Arms Short Mount sight adapter": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Kiba Arms Short Prism 2.5x scope": {},
+                                        "Trijicon ACOG TA01NSN 4x32 scope (Black)": {
+                                            "Mount": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon ACOG backup rear sight": {},
+                                                    "Trijicon RMR mount for ACOG scopes": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Trijicon RMR reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Trijicon ACOG TA01NSN 4x32 scope (Tan)": {
+                                            "Mount": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon ACOG backup rear sight": {},
+                                                    "Trijicon RMR mount for ACOG scopes": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Trijicon RMR reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Trijicon ACOG TA11D 3.5x35 scope": {
+                                            "Mount": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR mount for ACOG scopes": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Trijicon RMR reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Recknagel Era-Tac Sunshade mount for Aimpoint T-1 sights": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint Micro T-1 reflex sight": {}
+                                    }
+                                }
+                            },
+                            "Recknagel Era-Tac 30mm ring scope mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "BelOMO PK-06 reflex sight": {},
+                                        "Wilcox RAPTAR ES Tactical Rangefinder": {},
+                                        "Aimpoint Micro Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Aimpoint Micro H-2 Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "B&T QD NAR mount for Aimpoint ACRO": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint ACRO P-1 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Burris FastFire Weaver Base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Burris FastFire 3 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "DeltaPoint Cross Slot Mount base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Leupold DeltaPoint Reflex Sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Recknagel Era-Tac Sunshade mount for Aimpoint T-1 sights": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro T-1 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR low profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Recknagel Era-Tac 34mm ring scope mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "BelOMO PK-06 reflex sight": {},
+                                        "Wilcox RAPTAR ES Tactical Rangefinder": {},
+                                        "Aimpoint Micro Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Aimpoint Micro H-2 Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "B&T QD NAR mount for Aimpoint ACRO": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint ACRO P-1 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Burris FastFire Weaver Base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Burris FastFire 3 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "DeltaPoint Cross Slot Mount base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Leupold DeltaPoint Reflex Sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Recknagel Era-Tac Sunshade mount for Aimpoint T-1 sights": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro T-1 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR low profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "SIG Sauer ROMEO sight mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint Micro H-2 reflex sight": {},
+                                        "Aimpoint Micro T-1 reflex sight": {},
+                                        "SIG Sauer ROMEO4 reflex sight": {}
+                                    }
+                                }
+                            },
+                            "Trijicon RMR high profile mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon RMR reflex sight": {}
+                                    }
+                                }
+                            },
+                            "Trijicon RMR low profile mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon RMR reflex sight": {}
+                                    }
+                                }
+                            },
+                            "Trijicon TA51 sight mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon ACOG TA01NSN 4x32 scope (Black)": {
+                                            "Mount": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon ACOG backup rear sight": {},
+                                                    "Trijicon RMR mount for ACOG scopes": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Trijicon RMR reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Trijicon ACOG TA01NSN 4x32 scope (Tan)": {
+                                            "Mount": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon ACOG backup rear sight": {},
+                                                    "Trijicon RMR mount for ACOG scopes": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Trijicon RMR reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Trijicon ACOG TA11D 3.5x35 scope": {
+                                            "Mount": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR mount for ACOG scopes": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Trijicon RMR reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "UNV DLOC-IRD sight mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon REAP-IR thermal scope": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon REAP-IR scope eyecup": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Leapers UTG 25mm ring scope mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "VOMZ Pilad 4x32 25.4mm riflescope": {}
+                                    }
+                                }
+                            },
+                            "SwampFox Trihawk Prism Scope 3x30": {},
+                            "AI AX-50 34mm scope mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Hensoldt FF 4-16x56 34mm riflescope": {},
+                                        "Nightforce ATACR 7-35x56 34mm riflescope": {},
+                                        "Schmidt & Bender PM II 3-20x50 34mm riflescope": {},
+                                        "Schmidt & Bender PM II 5-25x56 34mm riflescope": {}
+                                    }
+                                }
+                            },
+                            "Armasight Zeus universal base": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Armasight Zeus-Pro 640 2-8x50 30Hz thermal scope": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Armasight Zeus-Pro scope eyecup": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "SIG Sauer ROMEO7 1x30 reflex sight (Prototype)": {},
+                            "SIG Sauer ECHO1 1-2x30mm 30Hz thermal reflex scope": {},
+                            "ELCAN Specter HCO holographic sight": {},
+                            "GBRS Aimpoint Hydra Mount Kit (Black)": {
+                                "Tactical": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Holosun LS321 Tactical device": {},
+                                        "L3Harris AN/PEQ-15 tactical device": {},
+                                        "L3Harris LA-5B/PEQ tactical device": {},
+                                        "Wilcox RAPTAR ES Tactical Rangefinder": {},
+                                        "Zenit Perst-3 tactical device": {},
+                                        "MAWL-C1+ tactical device": {}
+                                    }
+                                },
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint Micro H-2 reflex sight": {},
+                                        "Aimpoint Micro T-1 reflex sight": {},
+                                        "SIG Sauer ROMEO4 reflex sight": {},
+                                        "Aimpoint Micro Spacer High": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "GBRS Aimpoint Hydra Mount Kit (FDE)": {
+                                "Tactical": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Holosun LS321 Tactical device": {},
+                                        "L3Harris AN/PEQ-15 tactical device": {},
+                                        "L3Harris LA-5B/PEQ tactical device": {},
+                                        "Wilcox RAPTAR ES Tactical Rangefinder": {},
+                                        "Zenit Perst-3 tactical device": {},
+                                        "MAWL-C1+ tactical device": {}
+                                    }
+                                },
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint Micro H-2 reflex sight": {},
+                                        "Aimpoint Micro T-1 reflex sight": {},
+                                        "SIG Sauer ROMEO4 reflex sight": {},
+                                        "Aimpoint Micro Spacer High": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Wilcox BOSS Xe reflex sight": {},
+                            "SIG ALPHA4 30mm ring scope mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FullField TAC30 1-4x24 30mm riflescope": {},
+                                        "EOTech Vudu 1-6x24 30mm riflescope": {},
+                                        "Leupold Mark 4 LR 6.5-20x50 30mm riflescope": {},
+                                        "March Tactical 3-24x42 FFP 30mm riflescope": {},
+                                        "Vortex Razor HD Gen.2 1-6x24 30mm riflescope": {},
+                                        "Schmidt & Bender PM II 1-8x24 30mm riflescope": {},
+                                        "SIG TANGO6T 1-6x24 30mm riflescope": {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "Handguard": {
+            "Required": true,
+            "Allowed Items": {
+                "VSS/VAL polymer handguard (Plum)": {},
+                "VSS/VAL polymer handguard (Black)": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "AS VAL rear sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "VSS rear sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Glock GTL 21 tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Holosun LS321 Tactical device": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "L3Harris AN/PEQ-15 tactical device": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "L3Harris LA-5B/PEQ tactical device": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner DBAL-PL tactical device": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner LAS/TAC 2 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire X400 Ultra tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire XC1 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Wilcox RAPTAR ES Tactical Rangefinder": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2IKS IR illuminator with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2P flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2U tactical flashlight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Perst-3 tactical device": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Kiba Arms 25mm accessory ring mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Daniel Defense 25mm accessory ring mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Olight Baldr Pro tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Olight Baldr Pro tactical flashlight with laser (Tan)": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "MAWL-C1+ tactical device": {
+            "ergonomics": -1.5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit KR-2 old gen mount": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Insight AN/PEQ-2 tactical device": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "NcSTAR Tactical blue laser LAM-module": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "BCM GUNFIGHTER MOD 3 vertical foregrip": {
+            "ergonomics": 6,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "ASh-12 vertical foregrip": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Fortis Shift tactical foregrip": {
+            "ergonomics": 8,
+            "recoilModifier": -0.015,
+            "conflictingItems": []
+        },
+        "HK Sturmgriff foregrip": {
+            "ergonomics": 7,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "KAC vertical foregrip": {
+            "ergonomics": 7,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Magpul AFG tactical foregrip (Black)": {
+            "ergonomics": 6,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Magpul AFG tactical foregrip (FDE)": {
+            "ergonomics": 6,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Magpul AFG tactical foregrip (Forest Green)": {
+            "ergonomics": 6,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Magpul AFG tactical foregrip (Olive Drab)": {
+            "ergonomics": 6,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Magpul RVG foregrip (Black)": {
+            "ergonomics": 7,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Magpul RVG foregrip (FDE)": {
+            "ergonomics": 7,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "RTM Pillau tactical foregrip": {
+            "ergonomics": 4,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "Stark SE-5 Express Forward foregrip": {
+            "ergonomics": 8,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Strike Industries Cobra Tactical foregrip": {
+            "ergonomics": 9,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "TangoDown Stubby BGV-MK46K foregrip (Black)": {
+            "ergonomics": 5,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "TangoDown Stubby BGV-MK46K foregrip (FDE)": {
+            "ergonomics": 5,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "TangoDown Stubby BGV-MK46K foregrip (Stealth Grey)": {
+            "ergonomics": 5,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "Tactical Dynamics Skeletonized Foregrip": {
+            "ergonomics": 6,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Viking Tactics UVG tactical foregrip": {
+            "ergonomics": 5,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Zenit RK-1 tactical foregrip on B-25U mount": {
+            "ergonomics": 2,
+            "recoilModifier": -0.03,
+            "conflictingItems": []
+        },
+        "Zenit RK-0 tactical foregrip": {
+            "ergonomics": 3,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Zenit RK-1 tactical foregrip": {
+            "ergonomics": 1,
+            "recoilModifier": -0.03,
+            "conflictingItems": []
+        },
+        "Zenit RK-2 tactical foregrip": {
+            "ergonomics": -8,
+            "recoilModifier": -0.04,
+            "conflictingItems": []
+        },
+        "Zenit RK-4 tactical foregrip": {
+            "ergonomics": 4,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Zenit RK-5 tactical foregrip": {
+            "ergonomics": 5,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Zenit RK-6 tactical foregrip": {
+            "ergonomics": 5,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "Insight WMX200 tactical flashlight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "RTM Osovets P-2 tactical foregrip": {
+            "ergonomics": 1,
+            "recoilModifier": -0.03,
+            "conflictingItems": [
+                "GP-25 Kostyor 40mm underbarrel grenade launcher"
+            ]
+        },
+        "RTM Osovets P-2 tactical foregrip (Khaki)": {
+            "ergonomics": 1,
+            "recoilModifier": -0.03,
+            "conflictingItems": [
+                "GP-25 Kostyor 40mm underbarrel grenade launcher"
+            ]
+        },
+        "RTM Pillau tactical foregrip (Sand)": {
+            "ergonomics": 4,
+            "recoilModifier": -0.01,
+            "conflictingItems": [
+                "GP-25 Kostyor 40mm underbarrel grenade launcher"
+            ]
+        },
+        "RTM Pillau P-2 tactical foregrip (Red)": {
+            "ergonomics": 6,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Stark SE-5 Express Forward foregrip (FDE)": {
+            "ergonomics": 8,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Strike Industries Cobra Tactical foregrip (FDE)": {
+            "ergonomics": 9,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "TangoDown BGV-QDITI foregrip (Black)": {
+            "ergonomics": 3.5,
+            "recoilModifier": -0.015,
+            "conflictingItems": []
+        },
+        "TangoDown BGV-QDITI foregrip (FDE)": {
+            "ergonomics": 3.5,
+            "recoilModifier": -0.015,
+            "conflictingItems": []
+        },
+        "TangoDown Stubby BGV-QDK foregrip (Black)": {
+            "ergonomics": 4.5,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "TangoDown Stubby BGV-QDK foregrip (FDE)": {
+            "ergonomics": 4.5,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "BT10 V8 Atlas Bipod": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "HK G36 hand stop"
+            ]
+        },
+        "VSS/VAL TOZ 6P29M mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "VSS/VAL Zenit B-3 ring mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "BelOMO PK-06 reflex sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1,
+                    1,
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Aimpoint Micro Standard Mount": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Aimpoint Micro H-2 Standard Mount": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "B&T QD NAR mount for Aimpoint ACRO": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "AR-15 rear sight carry handle"
+            ]
+        },
+        "Burris FastFire Weaver Base": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "DeltaPoint Cross Slot Mount base": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "NcSTAR MPR45 Backup mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SIG Sauer ROMEO sight mount": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Trijicon RMR high profile mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Trijicon RMR low profile mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "VSS/VAL Zenit B-3 mount combo": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AS VAL 9x39 integral barrel-suppressor": {
+            "ergonomics": -5,
+            "recoilModifier": -0.14,
+            "conflictingItems": []
+        },
+        "VSS 9x39 integral barrel-suppressor": {
+            "ergonomics": -5,
+            "recoilModifier": -0.14,
+            "conflictingItems": []
+        },
+        "AS VAL dust cover": {
+            "ergonomics": 2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "VSS dust cover": {
+            "ergonomics": 2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "VSS/VAL 9x39 6L24 10-round magazine": {
+            "ergonomics": 3,
+            "recoilModifier": 0,
+            "capacity": 10,
+            "conflictingItems": []
+        },
+        "VSS/VAL 9x39 6L25 20-round magazine (Plum)": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "capacity": 20,
+            "conflictingItems": []
+        },
+        "VSS/VAL 9x39 SR3M.130 30-round magazine": {
+            "ergonomics": -4,
+            "recoilModifier": 0,
+            "capacity": 30,
+            "conflictingItems": []
+        },
+        "VSS/VAL 9x39 30-round magazine": {
+            "ergonomics": -3.5,
+            "recoilModifier": 0,
+            "capacity": 30,
+            "conflictingItems": []
+        },
+        "AR-15 FAB Defense GL-SHOCK buttstock": {
+            "ergonomics": 13,
+            "recoilModifier": -0.2,
+            "conflictingItems": []
+        },
+        "AR-15 FAB Defense GLR-16-S stock": {
+            "ergonomics": 13,
+            "recoilModifier": -0.2,
+            "conflictingItems": []
+        },
+        "AR-15 High Standard M4SS Stock": {
+            "ergonomics": 4,
+            "recoilModifier": -0.19,
+            "conflictingItems": []
+        },
+        "AR-15 HK E1 buttstock": {
+            "ergonomics": 4,
+            "recoilModifier": -0.23,
+            "conflictingItems": []
+        },
+        "AR-15 HK Slim Line buttstock": {
+            "ergonomics": 5,
+            "recoilModifier": -0.21,
+            "conflictingItems": []
+        },
+        "AK-12 stock": {
+            "ergonomics": 3,
+            "recoilModifier": -0.21,
+            "conflictingItems": []
+        },
+        "AR-15 LMT SOPMOD stock": {
+            "ergonomics": 6,
+            "recoilModifier": -0.2,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul CTR Carbine stock (Black)": {
+            "ergonomics": 10,
+            "recoilModifier": -0.22,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul CTR Carbine stock (FDE)": {
+            "ergonomics": 10,
+            "recoilModifier": -0.22,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul MOE Carbine stock (Black)": {
+            "ergonomics": 8,
+            "recoilModifier": -0.21,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul MOE Carbine stock (FDE)": {
+            "ergonomics": 8,
+            "recoilModifier": -0.21,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul MOE Carbine stock (Foliage Green)": {
+            "ergonomics": 8,
+            "recoilModifier": -0.21,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul MOE Carbine stock (Olive Drab)": {
+            "ergonomics": 8,
+            "recoilModifier": -0.21,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul MOE Carbine stock (Stealth Grey)": {
+            "ergonomics": 8,
+            "recoilModifier": -0.21,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul PRS GEN3 stock (Black)": {
+            "ergonomics": 3,
+            "recoilModifier": -0.24,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul PRS GEN3 stock (Grey)": {
+            "ergonomics": 3,
+            "recoilModifier": -0.24,
+            "conflictingItems": []
+        },
+        "AR-15 MFT BUS stock": {
+            "ergonomics": 2,
+            "recoilModifier": -0.22,
+            "conflictingItems": []
+        },
+        "AR-15 Strike Industries Viper Mod 1 stock": {
+            "ergonomics": 11,
+            "recoilModifier": -0.21,
+            "conflictingItems": []
+        },
+        "AR-15 Vltor EMOD stock": {
+            "ergonomics": 9,
+            "recoilModifier": -0.22,
+            "conflictingItems": []
+        },
+        "AR-15 SB Tactical SBA3 brace": {
+            "ergonomics": 4,
+            "recoilModifier": -0.15,
+            "conflictingItems": []
+        },
+        "AR-15 Daniel Defense Enhanced Collapsible Buttstock (Black)": {
+            "ergonomics": 14,
+            "recoilModifier": -0.2,
+            "conflictingItems": [
+                "AR-15 ADAR 2-15 wooden stock",
+                "AR-15 Hera Arms CQR pistol grip/buttstock"
+            ]
+        },
+        "AR-15 Daniel Defense Enhanced Collapsible Buttstock (FDE)": {
+            "ergonomics": 14,
+            "recoilModifier": -0.2,
+            "conflictingItems": [
+                "AR-15 ADAR 2-15 wooden stock",
+                "AR-15 Hera Arms CQR pistol grip/buttstock"
+            ]
+        },
+        "AR-15 Magpul MOE SL-K buttstock (Coyote Tan)": {
+            "ergonomics": 10,
+            "recoilModifier": -0.22,
+            "conflictingItems": []
+        },
+        "AR-15 FAB Defense GL-CORE buttstock": {
+            "ergonomics": 15,
+            "recoilModifier": -0.19,
+            "conflictingItems": []
+        },
+        "AS VAL Rotor 43 pistol grip & buffer tube": {
+            "ergonomics": 3,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "AS VAL skeleton stock"
+            ]
+        },
+        "AS VAL pistol grip (Plum)": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AS VAL pistol grip (Black)": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AS VAL skeleton stock": {
+            "ergonomics": 10,
+            "recoilModifier": -0.18,
+            "conflictingItems": []
+        },
+        "AK CSS knurled charging handle": {
+            "ergonomics": 3,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AK Zenit RP-1 charging handle": {
+            "ergonomics": 1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Axion Kobra EKP-8-02 reflex sight (Dovetail)": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            ],
+            "conflictingItems": [
+                "SOK-12 Leapers UTG PRO MTU002 Long Top aluminum handguard"
+            ]
+        },
+        "BelOMO PK-AA dovetail reflex sight": {
+            "ergonomics": -4,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": [
+                "Axion Kobra EKP-8-02 reflex sight (Dovetail)",
+                "OKP-7 reflex sight (Dovetail)",
+                "AK Taktika Tula TT01 rear sight rail",
+                "BelOMO PSO-1M2-1 4x24 scope",
+                "BelOMO PSO-1M2 4x24 scope",
+                "NPZ USP-1 Tyulpan 4x scope",
+                "NSPU-M 3.5x dovetail night vision scope",
+                "Axion Kobra dovetail mount",
+                "SVD CAA XD RGL receiver mount",
+                "KMZ 1P59 dovetail mount",
+                "VOMZ Pilad 043-02 dovetail mount",
+                "SVD SAG low profile sidemount",
+                "Zenit B-13 \"Klassika\" dovetail rail platform",
+                "Zenit B-13V \"Klassika\" dovetail rail platform",
+                "AK TDI X47 tactical handguard rail system",
+                "AKS-74U CAA XRSU47SU tactical handguard",
+                "SOK-12 Bravo-18 aluminium handguard",
+                "SOK-12 Leapers UTG PRO MTU002 Long Top aluminum handguard",
+                "SOK-12 Leapers UTG PRO MTU002 Short Top aluminum handguard",
+                "SVD SAG MK1 chassis",
+                "AK AKademia Bastion dust cover",
+                "AK FAB Defense PDC dust cover",
+                "AK TWS Dog Leg Rail dust cover",
+                "AK Zenit B-33 dust cover",
+                "AKS-74U dust cover (6P26 Sb.7)",
+                "AKS-74UB dust cover",
+                "PP-19-01 Vityaz-SN dust cover"
+            ]
+        },
+        "OKP-7 reflex sight (Dovetail)": {
+            "ergonomics": -4,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "NPZ PK1 Obzor dovetail reflex sight": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": [
+                "BelOMO PSO-1 4x24 scope",
+                "BelOMO PSO-1M2-1 4x24 scope",
+                "BelOMO PSO-1M2 4x24 scope",
+                "SVD SAG low profile sidemount",
+                "AK TDI X47 tactical handguard rail system",
+                "AK FAB Defense PDC dust cover",
+                "AK TWS Dog Leg Rail dust cover",
+                "AK AKademia Bastion dust cover",
+                "AK Zenit B-33 dust cover",
+                "SVD SAG MK1 chassis",
+                "AKS-74U CAA XRSU47SU tactical handguard"
+            ]
+        },
+        "NPZ USP-1 Tyulpan 4x scope": {
+            "ergonomics": -6,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    4
+                ]
+            ],
+            "conflictingItems": [
+                "BelOMO PSO-1 4x24 scope",
+                "BelOMO PSO-1M2-1 4x24 scope",
+                "BelOMO PSO-1M2 4x24 scope",
+                "SOK-12 Leapers UTG PRO MTU002 Long Top aluminum handguard",
+                "SOK-12 Leapers UTG PRO MTU002 Short Top aluminum handguard",
+                "AK Zenit B-33 dust cover",
+                "PP-19-01 Vityaz-SN dust cover"
+            ]
+        },
+        "NSPU-M 3.5x dovetail night vision scope": {
+            "ergonomics": -20,
+            "recoilModifier": -0.05,
+            "zoomLevels": [
+                [
+                    3.5
+                ]
+            ],
+            "conflictingItems": [
+                "ELCAN SpecterDR 1x/4x scope",
+                "ELCAN SpecterDR 1x/4x scope (FDE)",
+                "Leupold Mark 4 HAMR 4x24 DeltaPoint hybrid assault scope",
+                "SIG Sauer BRAVO4 4x30 scope",
+                "Axion Kobra EKP-8-18 reflex sight",
+                "OKP-7 reflex sight",
+                "EOTech 553 holographic sight",
+                "EOTech EXPS3 holographic sight (Tan)",
+                "EOTech XPS3-0 holographic sight",
+                "EOTech XPS3-2 holographic sight",
+                "Holosun HS401G5 reflex sight",
+                "SIG Sauer ROMEO8T reflex sight",
+                "Trijicon SRS-02 reflex sight",
+                "Valday PK-120 (1P87) holographic sight",
+                "Valday Krechet reflex sight",
+                "VOMZ Pilad P1x42 Weaver reflex sight",
+                "Vortex Razor AMG UH-1 holographic sight",
+                "Walther MRS reflex sight",
+                "Axion Kobra EKP-8-02 reflex sight (Dovetail)",
+                "OKP-7 reflex sight (Dovetail)",
+                "AK Taktika Tula TT01 rear sight rail",
+                "SOK-12 CSS rear sight rail mount",
+                "Hensoldt FF 4-16x56 34mm riflescope",
+                "BelOMO PSO-1 4x24 scope",
+                "BelOMO PSO-1M2-1 4x24 scope",
+                "BelOMO PSO-1M2 4x24 scope",
+                "Aimpoint LRP mount for CompM4 sights",
+                "JP Enterprises Flat-Top 30mm ring scope mount",
+                "Lobaev Arms 30mm scope mount",
+                "Nightforce Magmount 34mm ring scope mount",
+                "Nightforce Magmount 34mm ring scope mount with Ruggedized Accessory Platform",
+                "Trijicon TA51 sight mount",
+                "UNV DLOC-IRD sight mount",
+                "AKS-74U Zenit B-18 Mount",
+                "Axion Kobra dovetail mount",
+                "VOMZ Pilad 043-02 dovetail mount",
+                "AK Zenit B-33 dust cover",
+                "PP-19-01 Vityaz-SN dust cover"
+            ]
+        },
+        "Axion Kobra dovetail mount": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "ELCAN SpecterDR 1x/4x scope": {
+            "ergonomics": -4,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    4,
+                    1
+                ],
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "ELCAN SpecterDR 1x/4x scope (FDE)": {
+            "ergonomics": -4,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    4,
+                    1
+                ],
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Leupold Mark 4 HAMR 4x24 DeltaPoint hybrid assault scope": {
+            "ergonomics": -3.5,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    4
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Monstrum Tactical Compact Prism Scope 2x32": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    2,
+                    2
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "SIG Sauer BRAVO4 4x30 scope": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    4
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Valday PS-320 1/6x scope": {
+            "ergonomics": -5,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    6,
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Axion Kobra EKP-8-18 reflex sight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "OKP-7 reflex sight": {
+            "ergonomics": -4,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "EOTech 553 holographic sight": {
+            "ergonomics": -2.5,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "EOTech EXPS3 holographic sight (Tan)": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "EOTech HHS-1 hybrid sight": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    3,
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "EOTech HHS-1 hybrid sight (Tan)": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    3,
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "EOTech XPS3-0 holographic sight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "EOTech XPS3-2 holographic sight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Holosun HS401G5 reflex sight": {
+            "ergonomics": -4,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1,
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Leapers UTG reflex sight": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1,
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "SIG Sauer ROMEO8T reflex sight": {
+            "ergonomics": -3.5,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Trijicon SRS-02 reflex sight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Valday PK-120 (1P87) holographic sight": {
+            "ergonomics": -4,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Valday Krechet reflex sight": {
+            "ergonomics": -4.5,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "VOMZ Pilad P1x42 Weaver reflex sight": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1,
+                    1,
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Vortex Razor AMG UH-1 holographic sight": {
+            "ergonomics": -4,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Walther MRS reflex sight": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "NcSTAR ADO P4 Sniper 3-9x42 riflescope": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    3,
+                    9
+                ],
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": [
+                "MPX flip-up front sight",
+                "MPX flip-up rear sight"
+            ]
+        },
+        "FLIR RS-32 2.25-9x 35mm 60Hz thermal riflescope": {
+            "ergonomics": -11,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    2.25,
+                    9
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Torrey Pines Logic T12W 30Hz thermal reflex sight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Aimpoint LRP mount for CompM4 sights": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Aimpoint QRP2 mount for CompM4/PRO sights": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Armasight Vulcan universal base": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Burris AR-P.E.P.R. 30mm ring scope mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Geissele Super Precision 30mm ring scope mount": {
+            "ergonomics": 0.5,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "AR-15 rear sight carry handle"
+            ]
+        },
+        "Geissele Super Precision 30mm ring scope mount (DDC)": {
+            "ergonomics": 0.5,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "AR-15 rear sight carry handle"
+            ]
+        },
+        "IEA Mil-Optics KH/F 34mm one-piece magmount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "JP Enterprises Flat-Top 30mm ring scope mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "KMZ 1P69 Weaver mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "HK 416A5 flip-up rear sight",
+                "HK MP7 flip-up rear sight",
+                "RPK-16 rear sight base",
+                "KAC Folding Micro rear sight",
+                "KAC Folding rear sight",
+                "KRISS Defiance low profile flip-up rear sight",
+                "Magpul MBUS Gen2 flip-up rear sight",
+                "Magpul MBUS Gen2 flip-up rear sight (FDE)",
+                "MCX flip-up rear sight",
+                "MPX flip-up rear sight",
+                "AR-15 Colt A2 rear sight",
+                "AR-15 rear sight carry handle",
+                "SA-58 Holland Type rear sight",
+                "SV-98 rear sight"
+            ]
+        },
+        "Lobaev Arms 30mm scope mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Nightforce Magmount 30mm ring scope mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Nightforce Magmount 34mm ring scope mount": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Nightforce Magmount 34mm ring scope mount with Ruggedized Accessory Platform": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Kiba Arms Short Mount sight adapter": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Recknagel Era-Tac Sunshade mount for Aimpoint T-1 sights": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "AR-15 rear sight carry handle"
+            ]
+        },
+        "Recknagel Era-Tac 30mm ring scope mount": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Recknagel Era-Tac 34mm ring scope mount": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Trijicon TA51 sight mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "UNV DLOC-IRD sight mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Leapers UTG 25mm ring scope mount": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SwampFox Trihawk Prism Scope 3x30": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    3.5
+                ]
+            ],
+            "conflictingItems": [
+                "AR-15 rear sight carry handle",
+                "RPK-16 rear sight base",
+                "AR-15 Colt A2 rear sight"
+            ]
+        },
+        "AI AX-50 34mm scope mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Armasight Zeus universal base": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "AR-15 Colt A2 rear sight",
+                "AR-15 rear sight carry handle"
+            ]
+        },
+        "SIG Sauer ROMEO7 1x30 reflex sight (Prototype)": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "SIG Sauer ECHO1 1-2x30mm 30Hz thermal reflex scope": {
+            "ergonomics": -10,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1,
+                    2,
+                    1,
+                    2
+                ]
+            ],
+            "conflictingItems": [
+                "BelOMO PSO-1M2 4x24 scope",
+                "BelOMO PSO-1 4x24 scope",
+                "KMZ 1P59 dovetail mount",
+                "AR-15 rear sight carry handle"
+            ]
+        },
+        "ELCAN Specter HCO holographic sight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": [
+                "AR-15 rear sight carry handle"
+            ]
+        },
+        "GBRS Aimpoint Hydra Mount Kit (Black)": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "AR-15 rear sight carry handle"
+            ]
+        },
+        "GBRS Aimpoint Hydra Mount Kit (FDE)": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "AR-15 rear sight carry handle"
+            ]
+        },
+        "Wilcox BOSS Xe reflex sight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1,
+                    1,
+                    1,
+                    1
+                ],
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "SIG ALPHA4 30mm ring scope mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SVD CAA XD RGL receiver mount": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "Axion Kobra EKP-8-02 reflex sight (Dovetail)",
+                "OKP-7 reflex sight (Dovetail)",
+                "AK Taktika Tula TT01 rear sight rail",
+                "BelOMO PSO-1 4x24 scope",
+                "BelOMO PSO-1M2-1 4x24 scope",
+                "BelOMO PSO-1M2 4x24 scope",
+                "NPZ USP-1 Tyulpan 4x scope",
+                "NSPU-M 3.5x dovetail night vision scope",
+                "Axion Kobra dovetail mount",
+                "KMZ 1P59 dovetail mount",
+                "VOMZ Pilad 043-02 dovetail mount",
+                "SVD SAG low profile sidemount",
+                "Zenit B-13 \"Klassika\" dovetail rail platform",
+                "Zenit B-13V \"Klassika\" dovetail rail platform"
+            ]
+        },
+        "KMZ 1P59 dovetail mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "BelOMO PSO-1 4x24 scope",
+                "BelOMO PSO-1M2-1 4x24 scope",
+                "BelOMO PSO-1M2 4x24 scope",
+                "SOK-12 Leapers UTG PRO MTU002 Long Top aluminum handguard",
+                "SOK-12 Leapers UTG PRO MTU002 Short Top aluminum handguard",
+                "AK AKademia Bastion dust cover",
+                "AK FAB Defense PDC dust cover",
+                "AK TWS Dog Leg Rail dust cover",
+                "AK Zenit B-33 dust cover",
+                "AKS-74UB dust cover",
+                "PP-19-01 Vityaz-SN dust cover"
+            ]
+        },
+        "NPZ 1P78-1 dovetail mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "BelOMO PK-AA dovetail reflex sight",
+                "BelOMO PSO-1 4x24 scope",
+                "BelOMO PSO-1M2-1 4x24 scope",
+                "BelOMO PSO-1M2 4x24 scope",
+                "SVD SAG low profile sidemount",
+                "AK TDI X47 tactical handguard rail system",
+                "AKS-74U CAA XRSU47SU tactical handguard",
+                "SVD SAG MK1 chassis",
+                "AK AKademia Bastion dust cover",
+                "AK FAB Defense PDC dust cover",
+                "AK TWS Dog Leg Rail dust cover",
+                "AK Zenit B-33 dust cover",
+                "PP-19-01 Vityaz-SN dust cover"
+            ]
+        },
+        "VOMZ Pilad 043-02 dovetail mount": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit B-13 \"Klassika\" dovetail rail platform": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "BelOMO PSO-1 4x24 scope",
+                "BelOMO PSO-1M2-1 4x24 scope",
+                "BelOMO PSO-1M2 4x24 scope"
+            ]
+        },
+        "Zenit B-13V \"Klassika\" dovetail rail platform": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "BelOMO PSO-1 4x24 scope",
+                "BelOMO PSO-1M2-1 4x24 scope",
+                "BelOMO PSO-1M2 4x24 scope",
+                "PP-19-01 Vityaz-SN dust cover"
+            ]
+        },
+        "SAG Bit low profile dovetail sidemount": {
+            "ergonomics": -0.5,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "Axion Kobra EKP-8-02 reflex sight (Dovetail)",
+                "BelOMO PK-AA dovetail reflex sight",
+                "OKP-7 reflex sight (Dovetail)",
+                "BelOMO PSO-1 4x24 scope",
+                "BelOMO PSO-1M2-1 4x24 scope",
+                "BelOMO PSO-1M2 4x24 scope",
+                "NPZ USP-1 Tyulpan 4x scope",
+                "NSPU-M 3.5x dovetail night vision scope",
+                "Axion Kobra dovetail mount",
+                "KMZ 1P59 dovetail mount",
+                "VOMZ Pilad 043-02 dovetail mount",
+                "Zenit B-13 \"Klassika\" dovetail rail platform",
+                "Zenit B-13V \"Klassika\" dovetail rail platform",
+                "AK AKademia Bastion dust cover",
+                "AK FAB Defense PDC dust cover",
+                "AK TWS Dog Leg Rail dust cover",
+                "AK Zenit B-33 dust cover",
+                "SVD SAG low profile sidemount",
+                "SVD SAG MK1 chassis",
+                "SOK-12 Leapers UTG PRO MTU002 Long Top aluminum handguard",
+                "PP-19-01 Vityaz-SN dust cover",
+                "AKS-74U CAA XRSU47SU tactical handguard",
+                "AK TDI X47 tactical handguard rail system",
+                "SVD modernization kit top rail"
+            ]
+        },
+        "Axion Kobra EKP-1S-03 reflex sight (Dovetail)": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            ],
+            "conflictingItems": [
+                "SOK-12 Leapers UTG PRO MTU002 Long Top aluminum handguard",
+                "AK Zenit B-33 dust cover",
+                "AK FAB Defense PDC dust cover",
+                "AK AKademia Bastion dust cover",
+                "AK TWS Dog Leg Rail dust cover",
+                "AK CNC Guns OV GP handguard",
+                "AK TDI X47 tactical handguard rail system",
+                "SVD SAG MK1 chassis",
+                "BelOMO PK-AA dovetail reflex sight",
+                "BelOMO PSO-1 4x24 scope",
+                "BelOMO PSO-1M2 4x24 scope",
+                "BelOMO PSO-1M2-1 4x24 scope",
+                "SVD SAG low profile sidemount",
+                "AKS-74U CAA XRSU47SU tactical handguard"
+            ]
+        },
+        "RS Regulate AK-303M Full Length Lower dovetail mount": {
+            "ergonomics": 2,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "Axion Kobra EKP-8-02 reflex sight (Dovetail)",
+                "BelOMO PK-AA dovetail reflex sight",
+                "OKP-7 reflex sight (Dovetail)",
+                "BelOMO PSO-1 4x24 scope",
+                "BelOMO PSO-1M2-1 4x24 scope",
+                "BelOMO PSO-1M2 4x24 scope",
+                "NPZ USP-1 Tyulpan 4x scope",
+                "NSPU-M 3.5x dovetail night vision scope",
+                "Axion Kobra dovetail mount",
+                "KMZ 1P59 dovetail mount",
+                "VOMZ Pilad 043-02 dovetail mount",
+                "Zenit B-13 \"Klassika\" dovetail rail platform",
+                "Zenit B-13V \"Klassika\" dovetail rail platform",
+                "SVD SAG low profile sidemount",
+                "AK CNC Guns OV GP handguard",
+                "AK TDI X47 tactical handguard rail system",
+                "AKS-74U CAA XRSU47SU tactical handguard",
+                "SVD SAG MK1 chassis"
+            ]
+        },
+        "BelOMO PSO-1 4x24 scope": {
+            "ergonomics": -7,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    4,
+                    4
+                ]
+            ],
+            "conflictingItems": [
+                "SOK-12 Leapers UTG PRO MTU002 Long Top aluminum handguard",
+                "SOK-12 Leapers UTG PRO MTU002 Short Top aluminum handguard",
+                "BelOMO PK-AA dovetail reflex sight",
+                "OKP-7 reflex sight (Dovetail)",
+                "Axion Kobra EKP-8-02 reflex sight (Dovetail)",
+                "VOMZ Pilad 043-02 dovetail mount",
+                "Axion Kobra dovetail mount"
+            ]
+        },
+        "BelOMO PSO-1M2-1 4x24 scope": {
+            "ergonomics": -7,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    4,
+                    4
+                ]
+            ],
+            "conflictingItems": [
+                "Axion Kobra EKP-8-02 reflex sight (Dovetail)",
+                "BelOMO PK-AA dovetail reflex sight",
+                "OKP-7 reflex sight (Dovetail)",
+                "Axion Kobra dovetail mount",
+                "VOMZ Pilad 043-02 dovetail mount",
+                "SOK-12 Leapers UTG PRO MTU002 Long Top aluminum handguard",
+                "SOK-12 Leapers UTG PRO MTU002 Short Top aluminum handguard"
+            ]
+        },
+        "BelOMO PSO-1M2 4x24 scope": {
+            "ergonomics": -7,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    4,
+                    4
+                ]
+            ],
+            "conflictingItems": [
+                "Axion Kobra EKP-8-02 reflex sight (Dovetail)",
+                "BelOMO PK-AA dovetail reflex sight",
+                "OKP-7 reflex sight (Dovetail)",
+                "Axion Kobra dovetail mount",
+                "VOMZ Pilad 043-02 dovetail mount",
+                "SOK-12 Leapers UTG PRO MTU002 Long Top aluminum handguard",
+                "SOK-12 Leapers UTG PRO MTU002 Short Top aluminum handguard"
+            ]
+        },
+        "SVD SAG low profile sidemount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "Axion Kobra EKP-8-02 reflex sight (Dovetail)",
+                "BelOMO PK-AA dovetail reflex sight",
+                "OKP-7 reflex sight (Dovetail)",
+                "BelOMO PSO-1 4x24 scope",
+                "BelOMO PSO-1M2-1 4x24 scope",
+                "BelOMO PSO-1M2 4x24 scope",
+                "NPZ USP-1 Tyulpan 4x scope",
+                "NSPU-M 3.5x dovetail night vision scope",
+                "Axion Kobra dovetail mount",
+                "KMZ 1P59 dovetail mount",
+                "VOMZ Pilad 043-02 dovetail mount",
+                "Zenit B-13 \"Klassika\" dovetail rail platform",
+                "Zenit B-13V \"Klassika\" dovetail rail platform"
+            ]
+        },
+        "VSS/VAL polymer handguard (Plum)": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "VSS/VAL polymer handguard (Black)": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AS VAL 9x39 special assault rifle": {
+            "conflictingItems": []
+        }
+    }
+}

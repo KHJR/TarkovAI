@@ -1,0 +1,62 @@
+{
+    "Tree Structure": {
+        "Pistol Grip": {
+            "Required": true,
+            "Allowed Items": {
+                "PP-91 Kedr polymer pistol grip": {}
+            }
+        },
+        "Muzzle": {
+            "Required": true,
+            "Allowed Items": {
+                "PP-91-01 Kedr-B threaded suppressor adapter": {
+                    "Muzzle": {
+                        "Required": true,
+                        "Allowed Items": {
+                            "PP-91-01 Kedr-B 9x18PM sound suppressor": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Magazine": {
+            "Required": false,
+            "Allowed Items": {
+                "PP-91 \"Kedr\" 9x18PM 20-round magazine": {},
+                "PP-91 \"Kedr\" 9x18PM 30-round magazine": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "PP-91 Kedr polymer pistol grip": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "PP-91-01 Kedr-B 9x18PM sound suppressor": {
+            "ergonomics": -16,
+            "recoilModifier": -0.09,
+            "conflictingItems": []
+        },
+        "PP-91-01 Kedr-B threaded suppressor adapter": {
+            "ergonomics": 0,
+            "recoilModifier": -0.07,
+            "conflictingItems": []
+        },
+        "PP-91 \"Kedr\" 9x18PM 20-round magazine": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "capacity": 20,
+            "conflictingItems": []
+        },
+        "PP-91 \"Kedr\" 9x18PM 30-round magazine": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "capacity": 30,
+            "conflictingItems": []
+        },
+        "PP-91-01 Kedr-B 9x18PM submachine gun": {
+            "conflictingItems": []
+        }
+    }
+}

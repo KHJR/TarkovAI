@@ -1,0 +1,179 @@
+{
+    "Tree Structure": {
+        "Pistol Grip": {
+            "Required": true,
+            "Allowed Items": {
+                "PP-91 Kedr polymer pistol grip": {}
+            }
+        },
+        "Magazine": {
+            "Required": false,
+            "Allowed Items": {
+                "PP-91 \"Kedr\" 9x18PM 20-round magazine": {},
+                "PP-91 \"Kedr\" 9x18PM 30-round magazine": {}
+            }
+        },
+        "Mount": {
+            "Required": false,
+            "Allowed Items": {
+                "PP-91 Kedr Rotor 43 RIS mount": {
+                    "Scope": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "BelOMO PK-06 reflex sight": {},
+                            "Burris FastFire Weaver Base": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FastFire 3 reflex sight": {}
+                                    }
+                                }
+                            },
+                            "DeltaPoint Cross Slot Mount base": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Leupold DeltaPoint Reflex Sight": {}
+                                    }
+                                }
+                            },
+                            "Trijicon RMR low profile mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon RMR reflex sight": {}
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Tactical": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Glock GTL 21 tactical flashlight with laser": {},
+                            "NcSTAR Tactical blue laser LAM-module": {},
+                            "Steiner DBAL-PL tactical device": {},
+                            "Steiner LAS/TAC 2 tactical flashlight": {},
+                            "SureFire X400 Ultra tactical flashlight with laser": {},
+                            "SureFire XC1 tactical flashlight": {},
+                            "Zenit Klesch-2IKS IR illuminator with laser": {},
+                            "Zenit Klesch-2P flashlight with laser": {},
+                            "Zenit Klesch-2U tactical flashlight": {},
+                            "Olight Baldr Pro tactical flashlight with laser": {},
+                            "Olight Baldr Pro tactical flashlight with laser (Tan)": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Item Properties": {
+        "PP-91 Kedr polymer pistol grip": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "PP-91 \"Kedr\" 9x18PM 20-round magazine": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "capacity": 20,
+            "conflictingItems": []
+        },
+        "PP-91 \"Kedr\" 9x18PM 30-round magazine": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "capacity": 30,
+            "conflictingItems": []
+        },
+        "BelOMO PK-06 reflex sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1,
+                    1,
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Burris FastFire Weaver Base": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "DeltaPoint Cross Slot Mount base": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Trijicon RMR low profile mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Glock GTL 21 tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "NcSTAR Tactical blue laser LAM-module": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner DBAL-PL tactical device": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner LAS/TAC 2 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire X400 Ultra tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire XC1 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2IKS IR illuminator with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2P flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2U tactical flashlight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Olight Baldr Pro tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Olight Baldr Pro tactical flashlight with laser (Tan)": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "PP-91 Kedr Rotor 43 RIS mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "PP-91 Kedr 9x18PM submachine gun": {
+            "conflictingItems": []
+        }
+    }
+}

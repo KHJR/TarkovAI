@@ -1,0 +1,225 @@
+{
+    "Tree Structure": {
+        "Mount": {
+            "Required": false,
+            "Allowed Items": {
+                "MP-443 Grach Zenit B-8 mount": {
+                    "Tactical": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "NcSTAR Tactical blue laser LAM-module": {},
+                            "Glock GTL 21 tactical flashlight with laser": {},
+                            "Steiner DBAL-PL tactical device": {},
+                            "Steiner LAS/TAC 2 tactical flashlight": {},
+                            "SureFire X400 Ultra tactical flashlight with laser": {},
+                            "SureFire XC1 tactical flashlight": {},
+                            "Zenit Klesch-2IKS IR illuminator with laser": {},
+                            "Zenit Klesch-2P flashlight with laser": {},
+                            "Zenit Klesch-2U tactical flashlight": {},
+                            "UM Tactical UM3 pistol sight mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "BelOMO PK-06 reflex sight": {},
+                                        "Aimpoint Micro Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Aimpoint Micro H-2 Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "B&T QD NAR mount for Aimpoint ACRO": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint ACRO P-1 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Burris FastFire Weaver Base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Burris FastFire 3 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "DeltaPoint Cross Slot Mount base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Leupold DeltaPoint Reflex Sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR high profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR low profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Tactical": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Glock GTL 21 tactical flashlight with laser": {},
+                                        "NcSTAR Tactical blue laser LAM-module": {},
+                                        "Steiner DBAL-PL tactical device": {},
+                                        "Steiner LAS/TAC 2 tactical flashlight": {},
+                                        "SureFire X400 Ultra tactical flashlight with laser": {},
+                                        "SureFire XC1 tactical flashlight": {},
+                                        "Zenit Klesch-2IKS IR illuminator with laser": {},
+                                        "Zenit Klesch-2P flashlight with laser": {},
+                                        "Olight Baldr Pro tactical flashlight with laser": {},
+                                        "Olight Baldr Pro tactical flashlight with laser (Tan)": {}
+                                    }
+                                }
+                            },
+                            "Olight Baldr Pro tactical flashlight with laser": {},
+                            "Olight Baldr Pro tactical flashlight with laser (Tan)": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Magazine": {
+            "Required": false,
+            "Allowed Items": {
+                "MP-443 Grach 9x19 18-round magazine": {}
+            }
+        },
+        "Pistol Grip": {
+            "Required": true,
+            "Allowed Items": {
+                "MP-443 Grach polymer pistol grip": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "NcSTAR Tactical blue laser LAM-module": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Glock GTL 21 tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner DBAL-PL tactical device": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner LAS/TAC 2 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire X400 Ultra tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire XC1 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2IKS IR illuminator with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2P flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2U tactical flashlight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "UM Tactical UM3 pistol sight mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "SilencerCo Hybrid 46 multi-caliber sound suppressor"
+            ]
+        },
+        "Olight Baldr Pro tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Olight Baldr Pro tactical flashlight with laser (Tan)": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "MP-443 Grach Zenit B-8 mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "MP-443 Grach 9x19 18-round magazine": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "capacity": 18,
+            "conflictingItems": []
+        },
+        "MP-443 Grach polymer pistol grip": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Yarygin MP-443 Grach 9x19 pistol": {
+            "conflictingItems": []
+        }
+    }
+}

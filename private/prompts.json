@@ -1,0 +1,12 @@
+{
+    "layer1": {
+        "systemPrompt": "",
+        "taskPrompt1": ""
+    },
+    "layer2": {
+        "taskPrompt2": ""
+    },
+    "layer3": {
+        "taskPrompt3": ""
+    }
+}

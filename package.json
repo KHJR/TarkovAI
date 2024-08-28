@@ -1,0 +1,16 @@
+{
+  "name": "tarkovai",
+  "version": "1.0.0",
+  "description": "A Tarkov AI that helps players build weapons to their likings.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "graphql-request": "^7.1.0"
+  }
+}

@@ -1,0 +1,94 @@
+{
+    "Tree Structure": {
+        "Barrel": {
+            "Required": true,
+            "Allowed Items": {
+                "KS-23 23x75 510mm barrel": {},
+                "KS-23 23x75 700mm barrel": {}
+            }
+        },
+        "Handguard": {
+            "Required": true,
+            "Allowed Items": {
+                "KS-23M forestock": {}
+            }
+        },
+        "Magazine": {
+            "Required": true,
+            "Allowed Items": {
+                "KS-23M 23x75 3-shell magazine cap": {}
+            }
+        },
+        "Stock": {
+            "Required": true,
+            "Allowed Items": {
+                "KS-23 wooden stock": {},
+                "KS-23M pistol grip": {
+                    "Stock": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "KS-23M wire stock": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Scope": {
+            "Required": false,
+            "Allowed Items": {
+                "KOMZ Rusak reflex sight": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "KS-23 23x75 510mm barrel": {
+            "ergonomics": -4,
+            "recoilModifier": -0.04,
+            "conflictingItems": []
+        },
+        "KS-23 23x75 700mm barrel": {
+            "ergonomics": -10,
+            "recoilModifier": -0.08,
+            "conflictingItems": []
+        },
+        "KS-23M forestock": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "KS-23M 23x75 3-shell magazine cap": {
+            "ergonomics": -6,
+            "recoilModifier": 0,
+            "capacity": 3,
+            "conflictingItems": []
+        },
+        "KS-23 wooden stock": {
+            "ergonomics": 6,
+            "recoilModifier": -0.24,
+            "conflictingItems": []
+        },
+        "KS-23M wire stock": {
+            "ergonomics": 11,
+            "recoilModifier": -0.18,
+            "conflictingItems": []
+        },
+        "KS-23M pistol grip": {
+            "ergonomics": 8,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "KOMZ Rusak reflex sight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "TOZ KS-23M 23x75mm pump-action shotgun": {
+            "conflictingItems": []
+        }
+    }
+}

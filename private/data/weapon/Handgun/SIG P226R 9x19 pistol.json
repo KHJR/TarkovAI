@@ -1,0 +1,907 @@
+{
+    "Tree Structure": {
+        "Barrel": {
+            "Required": true,
+            "Allowed Items": {
+                "P226 9x19 112mm barrel": {},
+                "P226 9x19 threaded barrel": {
+                    "Muzzle": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "P226 TJ's Custom 9x19 compensator": {},
+                            "P226 thread protection cap": {},
+                            "AAC Illusion 9 9x19 sound suppressor": {},
+                            "Alpha Dog Alpha 9 9x19 sound suppressor": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint Micro Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Aimpoint Micro H-2 Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "B&T QD NAR mount for Aimpoint ACRO": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint ACRO P-1 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Burris FastFire Weaver Base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Burris FastFire 3 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "DeltaPoint Cross Slot Mount base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Leupold DeltaPoint Reflex Sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR low profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "SIG Sauer SRD9 9x19 sound suppressor": {},
+                            "SilencerCo Osprey 9 9x19 sound suppressor": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Pistol Grip": {
+            "Required": true,
+            "Allowed Items": {
+                "P226 Axelson Tactical MK25 pistol grip": {},
+                "P226 Hogue G10 Chain Link pistol grip": {},
+                "P226 Hogue Rubberized pistol grip": {},
+                "P226 Emperor Scorpion pistol grip": {},
+                "P226 polymer pistol grip (Black)": {},
+                "P226 Combat pistol grip (FDE)": {},
+                "P226 Stainless Elite Wooden pistol grip": {}
+            }
+        },
+        "Receiver": {
+            "Required": true,
+            "Allowed Items": {
+                "P226 Axelson Tactical MK25 pistol slide": {
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "P226 Meprolight TRU-DOT Night rear sight": {},
+                            "P226 rear sight": {},
+                            "P226 Sight Mount 220-239 rear sight bearing": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FastFire Weaver Base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Burris FastFire 3 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "DeltaPoint Cross Slot Mount base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Leupold DeltaPoint Reflex Sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR low profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "P226 Trijicon RMR mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon RMR reflex sight": {}
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Front Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "P226 Meprolight TRU-DOT Night front sight": {},
+                            "P226 front sight": {}
+                        }
+                    }
+                },
+                "P226 Emperor Scorpion pistol slide": {
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "P226 Meprolight TRU-DOT Night rear sight": {},
+                            "P226 rear sight": {},
+                            "P226 Sight Mount 220-239 rear sight bearing": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FastFire Weaver Base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Burris FastFire 3 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "DeltaPoint Cross Slot Mount base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Leupold DeltaPoint Reflex Sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR low profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "P226 Trijicon RMR mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon RMR reflex sight": {}
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Front Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "P226 Meprolight TRU-DOT Night front sight": {},
+                            "P226 front sight": {}
+                        }
+                    }
+                },
+                "P226 Legion full size pistol slide": {
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "P226 Meprolight TRU-DOT Night rear sight": {},
+                            "P226 rear sight": {},
+                            "P226 Sight Mount 220-239 rear sight bearing": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FastFire Weaver Base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Burris FastFire 3 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "DeltaPoint Cross Slot Mount base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Leupold DeltaPoint Reflex Sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR low profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "P226 Trijicon RMR mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon RMR reflex sight": {}
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Front Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "P226 Meprolight TRU-DOT Night front sight": {},
+                            "P226 front sight": {}
+                        }
+                    }
+                },
+                "P226R MK25 pistol slide": {
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "P226 Meprolight TRU-DOT Night rear sight": {},
+                            "P226 rear sight": {},
+                            "P226 Sight Mount 220-239 rear sight bearing": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FastFire Weaver Base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Burris FastFire 3 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "DeltaPoint Cross Slot Mount base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Leupold DeltaPoint Reflex Sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR low profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "P226 Trijicon RMR mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon RMR reflex sight": {}
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Front Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "P226 Meprolight TRU-DOT Night front sight": {},
+                            "P226 front sight": {}
+                        }
+                    }
+                },
+                "P226 Stainless Elite pistol slide": {
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "P226 Meprolight TRU-DOT Night rear sight": {},
+                            "P226 rear sight": {},
+                            "P226 Sight Mount 220-239 rear sight bearing": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FastFire Weaver Base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Burris FastFire 3 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "DeltaPoint Cross Slot Mount base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Leupold DeltaPoint Reflex Sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR low profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "P226 Trijicon RMR mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon RMR reflex sight": {}
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Front Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "P226 Meprolight TRU-DOT Night front sight": {},
+                            "P226 front sight": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Magazine": {
+            "Required": false,
+            "Allowed Items": {
+                "P226 9x19 20-round extended magazine": {},
+                "P226 9x19 15-round magazine": {}
+            }
+        },
+        "Tactical": {
+            "Required": false,
+            "Allowed Items": {
+                "Glock GTL 21 tactical flashlight with laser": {},
+                "NcSTAR Tactical blue laser LAM-module": {},
+                "Steiner DBAL-PL tactical device": {},
+                "Steiner LAS/TAC 2 tactical flashlight": {},
+                "SureFire X400 Ultra tactical flashlight with laser": {},
+                "SureFire XC1 tactical flashlight": {},
+                "Zenit Klesch-2IKS IR illuminator with laser": {},
+                "Zenit Klesch-2P flashlight with laser": {},
+                "UM Tactical UM3 pistol sight mount": {
+                    "Scope": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "BelOMO PK-06 reflex sight": {},
+                            "Aimpoint Micro Standard Mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint Micro H-2 reflex sight": {},
+                                        "Aimpoint Micro T-1 reflex sight": {},
+                                        "SIG Sauer ROMEO4 reflex sight": {},
+                                        "Aimpoint Micro Spacer High": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Aimpoint Micro H-2 Standard Mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint Micro H-2 reflex sight": {},
+                                        "Aimpoint Micro T-1 reflex sight": {},
+                                        "SIG Sauer ROMEO4 reflex sight": {},
+                                        "Aimpoint Micro Spacer High": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "B&T QD NAR mount for Aimpoint ACRO": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint ACRO P-1 reflex sight": {}
+                                    }
+                                }
+                            },
+                            "Burris FastFire Weaver Base": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FastFire 3 reflex sight": {}
+                                    }
+                                }
+                            },
+                            "DeltaPoint Cross Slot Mount base": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Leupold DeltaPoint Reflex Sight": {}
+                                    }
+                                }
+                            },
+                            "Trijicon RMR high profile mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon RMR reflex sight": {}
+                                    }
+                                }
+                            },
+                            "Trijicon RMR low profile mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon RMR reflex sight": {}
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Tactical": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Glock GTL 21 tactical flashlight with laser": {},
+                            "NcSTAR Tactical blue laser LAM-module": {},
+                            "Steiner DBAL-PL tactical device": {},
+                            "Steiner LAS/TAC 2 tactical flashlight": {},
+                            "SureFire X400 Ultra tactical flashlight with laser": {},
+                            "SureFire XC1 tactical flashlight": {},
+                            "Zenit Klesch-2IKS IR illuminator with laser": {},
+                            "Zenit Klesch-2P flashlight with laser": {},
+                            "Olight Baldr Pro tactical flashlight with laser": {},
+                            "Olight Baldr Pro tactical flashlight with laser (Tan)": {}
+                        }
+                    }
+                },
+                "P226 Bridge sight mount": {
+                    "Scope": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "BelOMO PK-06 reflex sight": {},
+                            "Aimpoint Micro Standard Mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint Micro H-2 reflex sight": {},
+                                        "Aimpoint Micro T-1 reflex sight": {},
+                                        "SIG Sauer ROMEO4 reflex sight": {},
+                                        "Aimpoint Micro Spacer High": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Aimpoint Micro H-2 Standard Mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint Micro H-2 reflex sight": {},
+                                        "Aimpoint Micro T-1 reflex sight": {},
+                                        "SIG Sauer ROMEO4 reflex sight": {},
+                                        "Aimpoint Micro Spacer High": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Burris FastFire Weaver Base": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FastFire 3 reflex sight": {}
+                                    }
+                                }
+                            },
+                            "DeltaPoint Cross Slot Mount base": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Leupold DeltaPoint Reflex Sight": {}
+                                    }
+                                }
+                            },
+                            "Trijicon RMR low profile mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon RMR reflex sight": {}
+                                    }
+                                }
+                            }
+                        }
+                    },
+                    "Tactical": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Glock GTL 21 tactical flashlight with laser": {},
+                            "NcSTAR Tactical blue laser LAM-module": {},
+                            "Steiner DBAL-PL tactical device": {},
+                            "Steiner LAS/TAC 2 tactical flashlight": {},
+                            "SureFire X400 Ultra tactical flashlight with laser": {},
+                            "SureFire XC1 tactical flashlight": {},
+                            "Zenit Klesch-2IKS IR illuminator with laser": {},
+                            "Zenit Klesch-2P flashlight with laser": {},
+                            "Olight Baldr Pro tactical flashlight with laser": {},
+                            "Olight Baldr Pro tactical flashlight with laser (Tan)": {},
+                            "Insight WMX200 tactical flashlight": {}
+                        }
+                    }
+                },
+                "Olight Baldr Pro tactical flashlight with laser": {},
+                "Olight Baldr Pro tactical flashlight with laser (Tan)": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "P226 9x19 112mm barrel": {
+            "ergonomics": -5,
+            "recoilModifier": -0.03,
+            "conflictingItems": []
+        },
+        "P226 TJ's Custom 9x19 compensator": {
+            "ergonomics": -1,
+            "recoilModifier": -0.08,
+            "conflictingItems": [
+                "Glock 17 pistol slide",
+                "Glock Moto Cut pistol slide",
+                "Glock Viper Cut pistol slide",
+                "Glock Lone Wolf AlphaWolf pistol slide",
+                "Glock Polymer80 PS9 pistol slide",
+                "Glock ZEV Tech HEX Gen3 RMR pistol slide",
+                "Glock ZEV Tech HEX Spartan RMR pistol slide"
+            ]
+        },
+        "P226 thread protection cap": {
+            "ergonomics": 1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AAC Illusion 9 9x19 sound suppressor": {
+            "ergonomics": -15,
+            "recoilModifier": -0.05,
+            "conflictingItems": []
+        },
+        "Aimpoint Micro Standard Mount": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Aimpoint Micro H-2 Standard Mount": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "B&T QD NAR mount for Aimpoint ACRO": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "AR-15 rear sight carry handle"
+            ]
+        },
+        "Burris FastFire Weaver Base": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "DeltaPoint Cross Slot Mount base": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Trijicon RMR low profile mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Alpha Dog Alpha 9 9x19 sound suppressor": {
+            "ergonomics": -13,
+            "recoilModifier": -0.06,
+            "conflictingItems": []
+        },
+        "SIG Sauer SRD9 9x19 sound suppressor": {
+            "ergonomics": -15,
+            "recoilModifier": -0.06,
+            "conflictingItems": []
+        },
+        "SilencerCo Osprey 9 9x19 sound suppressor": {
+            "ergonomics": -17,
+            "recoilModifier": -0.08,
+            "conflictingItems": []
+        },
+        "P226 9x19 threaded barrel": {
+            "ergonomics": -4,
+            "recoilModifier": -0.03,
+            "conflictingItems": []
+        },
+        "P226 Axelson Tactical MK25 pistol grip": {
+            "ergonomics": 7,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "P226 Hogue G10 Chain Link pistol grip": {
+            "ergonomics": 12,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "P226 Hogue Rubberized pistol grip": {
+            "ergonomics": 10,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "P226 Emperor Scorpion pistol grip": {
+            "ergonomics": 8,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "P226 polymer pistol grip (Black)": {
+            "ergonomics": 6,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "P226 Combat pistol grip (FDE)": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "P226 Stainless Elite Wooden pistol grip": {
+            "ergonomics": 8,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "P226 Meprolight TRU-DOT Night rear sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "P226 rear sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "P226 Sight Mount 220-239 rear sight bearing": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Trijicon RMR reflex sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "P226 Trijicon RMR mount": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "P226 Meprolight TRU-DOT Night front sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "P226 front sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "P226 Axelson Tactical MK25 pistol slide": {
+            "ergonomics": 4,
+            "recoilModifier": -0.04,
+            "conflictingItems": []
+        },
+        "P226 Emperor Scorpion pistol slide": {
+            "ergonomics": 2,
+            "recoilModifier": -0.03,
+            "conflictingItems": []
+        },
+        "P226 Legion full size pistol slide": {
+            "ergonomics": 2,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "P226R MK25 pistol slide": {
+            "ergonomics": 3,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "P226 Stainless Elite pistol slide": {
+            "ergonomics": 3,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "P226 9x19 20-round extended magazine": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "capacity": 20,
+            "conflictingItems": []
+        },
+        "P226 9x19 15-round magazine": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "capacity": 15,
+            "conflictingItems": []
+        },
+        "Glock GTL 21 tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "NcSTAR Tactical blue laser LAM-module": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner DBAL-PL tactical device": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner LAS/TAC 2 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire X400 Ultra tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire XC1 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2IKS IR illuminator with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2P flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "UM Tactical UM3 pistol sight mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "SilencerCo Hybrid 46 multi-caliber sound suppressor"
+            ]
+        },
+        "BelOMO PK-06 reflex sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1,
+                    1,
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Olight Baldr Pro tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Olight Baldr Pro tactical flashlight with laser (Tan)": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Insight WMX200 tactical flashlight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "P226 Bridge sight mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SIG P226R 9x19 pistol": {
+            "conflictingItems": []
+        }
+    }
+}
