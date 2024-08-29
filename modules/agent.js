@@ -1,9 +1,11 @@
-const { request, gql } = require('graphql-request')
+import { VertexAI } from '@google-cloud/vertexai'
+import { request, gql } from 'graphql-request'
+import fs from 'fs'
 
 class Agent {
-    constructor(projectId=process.env.tarkovAIProjectID, location=process.env.tarkovAILocation, model=process.env.tarkovAIModel) {  
-        const tarkovAI = new tarkovAI({project: projectId, location: location});
-        const model = tarkovAI.getGenerativeModel({ model: model });
+    constructor(projectId=process.env.tarkovAIProjectID, location=process.env.tarkovAILocation, modelID=process.env.tarkovAIModel) {  
+        const tarkovAI = new VertexAI({project: projectId, location: location});
+        const model = tarkovAI.getGenerativeModel({ model: modelID });
 
         this.chat = model.startChat({});
         this.prompts = JSON.parse(fs.readFileSync(`./private/prompts.json`, 'utf8'));
@@ -90,13 +92,13 @@ class Agent {
     }
 
     async build(userPrompt) {
-        const weaponType = this.layer1(userPrompt)
-        const weapon = this.layer2(weaponType)
-        const weaponDataWithPrice = this.getPrice(weapon, weaponType)
-        const [items, explanation] = this.layer3(weaponDataWithPrice, userPrompt)
+        const weaponType = await this.layer1(userPrompt)
+        const weapon = await this.layer2(weaponType)
+        const weaponDataWithPrice = await this.getPrice(weapon, weaponType)
+        const [items, explanation] = await this.layer3(weaponDataWithPrice, userPrompt)
 
         return [items, explanation]
     }
 }
 
-module.exports = { Agent }
+export { Agent }

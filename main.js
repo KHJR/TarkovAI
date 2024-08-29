@@ -1,6 +1,6 @@
-const { Agent } = require('./modules/agent.js')
+import { Agent } from './modules/agent.js'
+import express from 'express'
 
-const express = require('express')
 const app = express()
 
 const PORT = parseInt(process.env.PORT) || 8080
