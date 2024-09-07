@@ -1,0 +1,4 @@
+Considering the prompt from the user, your second task is to choose the base weapon you will use to build the weapon later in the game.
+The data above can help you choose which weapon is most fit for the situation.
+Remember, high ergonomics is good, and low recoil represents better recoil in the game, escape from tarkov.
+When answering, pick one of the weapon (the key of the dictionary) and answer with that words alone. Do not add other explanations or words.

@@ -8,7 +8,12 @@ class Agent {
         const model = tarkovAI.getGenerativeModel({ model: modelID });
 
         this.chat = model.startChat({});
-        this.prompts = JSON.parse(fs.readFileSync(`./private/prompts.json`, 'utf8'));
+        this.prompts = {
+            'systemPrompt': fs.readFileSync(`./private/prompts/systemPrompt.txt`, 'utf8'),
+            'taskPrompt1': fs.readFileSync(`./private/prompts/taskPrompt1.txt`, 'utf8'),
+            'taskPrompt2': fs.readFileSync(`./private/prompts/taskPrompt2.txt`, 'utf8'),
+            'taskPrompt3': fs.readFileSync(`./private/prompts/taskPrompt3.txt`, 'utf8')
+        }
     }
 
     async layer1(userPrompt) {
@@ -16,7 +21,7 @@ class Agent {
 
         const input1 = `
             System Prompt:
-            ${this.prompts.layer1.systemPrompt}
+            ${this.prompts.systemPrompt}
     
             Data:
             ${weaponTypeDesc}
@@ -25,10 +30,11 @@ class Agent {
             ${userPrompt}
     
             Task:
-            ${this.prompts.layer1.taskPrompt1}
+            ${this.prompts.taskPrompt1}
         `
 
         const output1 = (await this.chat.sendMessage(input1)).response
+        console.log(output1)
         const weaponType = JSON.stringify(output1.candidates[0].content.parts[0].text).slice(1, -4)
 
         return weaponType
@@ -41,7 +47,7 @@ class Agent {
             ${weapons}
     
             Task:
-            ${this.prompts.layer2.taskPrompt2}
+            ${this.prompts.taskPrompt2}
         `
         const output2 = (await this.chat.sendMessage(input2)).response
         const weapon = JSON.stringify(output2.candidates[0].content.parts[0].text).slice(1, -4)
@@ -58,7 +64,7 @@ class Agent {
             ${userPrompt}
     
             Task:
-            ${this.prompts.layer3.taskPrompt3}
+            ${this.prompts.taskPrompt3}
         `
     
         const output3 = (await this.chat.sendMessage(input3)).response

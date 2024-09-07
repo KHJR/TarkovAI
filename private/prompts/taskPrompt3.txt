@@ -1,0 +1,11 @@
+Considering the prompt from the user, your last task is to choose all the right attachment to fulfill the request of the user.
+YOU MUST FOLLOW ALL THE REQUEST FROM THE USER.
+
+The data above can help you choose which attachments are the most fit for the situation.
+For this data, positive ergonomics is good, and negative recoil is good in the game, escape from tarkov.
+Inside each items of "Item Properties", there is a list of "conflictingItems". This means that if that item is used in the weapon, then you are not allowed to use the items in the list simultaneously.
+In the tree, if the slot has the property "required" as true, you must pick atleast one item from the allowed items.
+When answering, pick all the attachments and put them in a JSON list and answer with that words alone. Do not add other explanations or words.
+Do not use new line syntax such as \\n, and you do not have to escape the quotation marks, "
+An example response may be:
+["DVL-10 7.62x51 10-round magazine", "AI AXMC upper receiver"]

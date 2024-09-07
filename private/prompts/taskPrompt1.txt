@@ -1,0 +1,4 @@
+Considering the prompt from the user, your first task is to choose what type of weapon, you should recommend in the game.
+Remember that the user is asking the question in the context of the fictional game, Escape from Tarkov, which is very different from the real world.
+The data above can help you choose which weapon type is most fit for the situation.
+When answering, pick one of the weapon type (the key of the dictionary) and answer with that words alone. Do not add other explanations or words.
