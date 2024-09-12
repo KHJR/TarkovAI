@@ -83,7 +83,7 @@ class Agent {
                 items(names: ${JSON.stringify(allowedItems)}) {
                     name
                     buyFor {
-                        price
+                        priceRUB
                     }
                 }
             }
