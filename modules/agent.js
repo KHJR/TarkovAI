@@ -97,6 +97,35 @@ class Agent {
         })
     }
 
+    format(items, weaponType, weapon, weaponData) {
+        let root = {
+            'name': weapon,
+            'type': weaponType,
+        }
+
+        function getChildren(subTree) {
+            let children = []
+
+            for (const [type, value] of Object.entries(subTree)) {
+                for (const allowedItem in value['Allowed Items']) {
+                    if (items.includes(allowedItem)) {
+                        let item = {
+                            'name': allowedItem,
+                            'type': type,
+                        }
+
+                        item.children = getChildren(value['Allowed Items'][allowedItem])
+                        children.push(item)
+                    }
+                }
+            }
+
+            return children
+        }
+        root.children = getChildren(weaponData['Tree Structure'])
+        return root
+    }
+
     async build(userPrompt) {
         const weaponType = await this.layer1(userPrompt)
         const weapon = await this.layer2(weaponType)
@@ -108,3 +137,6 @@ class Agent {
 }
 
 export { Agent }
+
+const agent = new Agent()
+agent.formatTest()
