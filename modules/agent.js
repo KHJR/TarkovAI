@@ -75,7 +75,7 @@ class Agent {
     }
 
     async getPrice(weapon, weaponType) {
-        const weaponData = fs.readFileSync(`./private/data/weapon/${weaponType}/${weapon}.json`, 'utf8');
+        const weaponData = JSON.parse(fs.readFileSync(`./private/data/weapon/${weaponType}/${weapon}.json`, 'utf8'))
         const allowedItems = Object.keys(weaponData)
 
         const query = gql`
