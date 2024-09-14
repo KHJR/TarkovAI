@@ -7,15 +7,15 @@
     box-sizing: border-box;
 }
   
-#tree .branch {
+#tree .branch-tree {
     padding: 5px 0 5px 20px;
 }
   
-#tree .branch:not(:first-child) {
+#tree .branch-tree:not(:first-child) {
     margin-left: 170px;
 }
   
-#tree .branch:not(:first-child):after {
+#tree .branch-tree:not(:first-child):after {
     content: "";
     width: 20px;
     border-top: 3px solid #001976;
@@ -25,13 +25,13 @@
     margin-top: 1px;
 }
   
-.entry {
+.entry-tree {
     position: relative;
     min-height: 100px;
     display: block;
 }
   
-.entry:before {
+.entry-tree:before {
     content: "";
     height: 100%;
     border-left: 3px solid #001976;
@@ -39,12 +39,12 @@
     left: -20px;
 }
   
-.entry:first-child:after {
+.entry-tree:first-child:after {
     height: 10px;
     border-radius: 10px 0 0 0;
 }
   
-.entry:first-child:before {
+.entry-tree:first-child:before {
     width: 10px;
     height: 50%;
     top: 50%;
@@ -52,7 +52,7 @@
     border-radius: 10px 0 0 0;
 }
   
-.entry:after {
+.entry-tree:after {
     content: "";
     width: 20px;
     transition: border 0.5s;
@@ -63,12 +63,12 @@
     margin-top: 1px;
 }
   
-.entry:last-child:before {
+.entry-tree:last-child:before {
     width: 10px;
     height: 50%;
     border-radius: 0 0 0 10px;
 }
-.entry:last-child:after {
+.entry-tree:last-child:after {
     height: 10px;
     border-top: none;
     transition: border 0.5s;
@@ -77,18 +77,18 @@
     margin-top: -9px;
 }
   
-.entry:only-child:after {
+.entry-tree:only-child:after {
     width: 10px;
     height: 0px;
     margin-top: 1px;
     border-radius: 0px;
 }
   
-.entry:only-child:before {
+.entry-tree:only-child:before {
     display: none;
 }
 
-.item {
+.content-tree {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -111,11 +111,11 @@
     transition: all 0.5s;
 }
 
-.name {
+.type-tree {
     font-size: 12px;
     font-weight: 500;
     line-height: 20px;
-    text-align: left;
+    text-align: center;
     width: 100%;
     height: 20px;
     text-overflow: ellipsis;
@@ -124,7 +124,8 @@
     color: #fff;
 }
 
-.item img {
-    max-height: 60px;
-    filter: drop-shadow(0px 0px 10px #ccc);
+.content-tree img {
+    max-width: 140px;
+    max-height: 50px;
+    filter: drop-shadow(0px 0px 5px #fff);
 }
