@@ -51,7 +51,7 @@ function dragElement(element) {
     }
 }
 
-function showPopup() {
+function showPopup(e) {
 	function fill(name, item) {
 		document.getElementById('name-popup').innerText = name
         document.getElementById('image-popup').src = item.image512pxLink;
@@ -68,14 +68,13 @@ function showPopup() {
 		fill(name, item)
 	}
 	else {
-		/*
-		const delay = ms => new Promise(res => setTimeout(res, ms));
 		document.getElementById('name-popup').innerText = '';
 		document.getElementById('image-popup').src = '';
 		document.getElementById('stats-popup').style.opacity = '0%';
 		document.getElementById('right-popup').style.opacity = '0%';
-		*/
 		document.getElementById('content-popup').classList.add('content-shine-popup');
+
+
 		fetch('https://api.tarkov.dev/graphql', {
 			method: 'POST',
 			headers: {
@@ -102,20 +101,15 @@ function showPopup() {
 			popupDataCache[name] = item
 		
 			fill(name, item)
-			/*
-			await delay(3000)
+
 			document.getElementById('stats-popup').style.opacity = '100%';
 			document.getElementById('right-popup').style.opacity = '100%';
-			*/
 			document.getElementById('content-popup').classList.remove('content-shine-popup');
 		});
 	}
 
 	document.getElementById('popup').style.display = 'flex';
+	e.stopPropagation()
 }
 
 dragElement(document.getElementById('popup'));
-
-// Test Code
-document.querySelector('[name="Walther MRS reflex sight"]').onclick = showPopup;
-document.querySelector('[name="KAC PRS/QDC 7.62x51 sound suppressor"]').onclick = showPopup;

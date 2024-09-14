@@ -88,6 +88,8 @@ function createTree(rootTree, itemData) {
 
 		let entry = document.createElement('div')
 		entry.classList.add('entry-tree')
+		entry.setAttribute('name', name)
+		entry.onclick = showPopup
 		let content = document.createElement('div')
 		content.classList.add('content-tree')
 		let typeSpan = document.createElement('span')
