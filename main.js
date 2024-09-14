@@ -9,9 +9,9 @@ app.use(express.json())
 
 app.post('/build', async (req, res) => {
 	try {
-		console.log(req.body.userPrompt)
-		const [items, explanation] = await agent.build(req.body.userPrompt)
+		const [itemTree, items, explanation] = await agent.build(req.body.userPrompt)
 		res.send({
+			itemTree: itemTree,
 			items: items,
 			explanation: explanation
 		});
