@@ -5,12 +5,46 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="index.css" rel="stylesheet">
     <link href="tree.css" rel="stylesheet">
+    <link href="popup.css" rel="stylesheet">
     <title>Document</title>
 </head>
 <body>
     <h1>Hello Tarkov Player! Are you ready to die a million times from a random scav headshot?</h1>
     <div id="tree"></div>
+    <div id="popup">
+        <div id="drag-bar-popup">
+            <button id="close-popup" onclick="document.getElementById('popup').style.display = 'none'"><img src="resources/svg/close.svg" alt=""></button>
+        </div>
+        <h4 id="name-popup"></h4>
+        <div id="content-popup">
+            <div id="left-popup">
+                <div id="image-container-popup">
+                    <img src="" id="image-popup">
+                </div>
+                <div id="stats-popup">
+                    <div class="stat-popup">
+                        <p class="stat-left-popup">Ergonomics</p>
+                        <p id="ergonomics-popup" class="stat-right-popup"></p>
+                    </div>
+                    <div class="stat-popup">
+                        <p class="stat-left-popup">Recoil</p>
+                        <p id="recoil-popup" class="stat-right-popup"></p>
+                    </div>
+                </div>
+            </div>
+            <div id="right-popup">
+                <div id="reason-container-popup">
+                    <h5>Reason</h5>
+                    <p id="reason-popup"></p>
+                </div>
+                <div id="price-container-popup">
+                    <h5 id="price-popup"></h5>
+                </div>
+            </div>
+        </div>
+    </div>
     <script src="index.js"></script>
+    <script src="popup.js"></script>
     <script src="tree.js"></script>
 </body>
 </html>

@@ -1,0 +1,231 @@
+/* IDs */
+#popup {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    width: 30vw;
+    height: 30vh;
+    min-width: 500px;
+    min-height: 300px;
+    background-color: #fff;
+    box-shadow: 0px 0px 10px #333;
+    border-radius: 15px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+#drag-bar-popup {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: end;
+    width: 100%;
+    height: 10%;
+    background-color: #333;
+    box-shadow: 0px 0px 5px #333;
+    cursor: move;
+}
+
+#close-popup {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    height: 20px;
+    border: none;
+    border-radius: 50%;
+    margin: 0 7px;
+    cursor: pointer;
+    user-select: none;
+    transition: box-shadow 0.1s ease;
+}
+
+#close-popup:hover {
+    box-shadow: 0 0px 4px #fff;
+}
+
+#name-popup {
+    font-size: 16px;
+    line-height: 22px;
+    width: 90%;
+    height: 15%;
+    white-space: wrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 5px;
+}
+
+
+#content-popup {
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    height: 85%;
+    position: relative; /* Needed for the pseudo-element positioning */
+    overflow: hidden;
+}
+
+.content-shine-popup::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background: linear-gradient(
+        120deg,
+        #ffffff33 0%,
+        #ffffffcc 50%,
+        #ffffff33 100%
+    );
+    background-size: 200%;
+    animation: shine 3s infinite linear;
+    pointer-events: none; /* So it doesn't interfere with content */
+}
+
+@keyframes shine {
+    0% {
+        background-position: -200%;
+    }
+    100% {
+        background-position: 200%;
+    }
+}
+
+#left-popup {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+}
+
+#image-container-popup {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90%;
+    height: 60%;
+    background: repeating-linear-gradient(
+        135deg,
+        #333,
+        #333 10px,
+        #222 10px,
+        #222 20px
+    );
+    border: #111 2px solid;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px #ccc;
+    overflow: hidden;
+}
+
+#image-popup {
+    max-width: 100%;
+    max-height: 100%;
+    filter: drop-shadow(0px 0px 25px #ccc);
+    pointer-events: none;
+    user-select: none;
+}
+
+#stats-popup {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 90%;
+    height: 30%;
+}
+
+.stat-popup {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 30%;
+    border: #888 1px solid;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px #ccc;
+}
+
+.stat-left-popup {
+    margin-left: 10px;
+}
+
+.stat-right-popup {
+    margin-right: 10px;
+}
+
+#right-popup {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+    height: 100%;
+}
+
+#reason-container-popup {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 90%;
+    height: 70%;
+}
+
+#reason-container-popup h5 {
+    height: 20%;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    margin: 0;
+}
+
+#reason-popup {
+    width: 100%;
+    height: 80%;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 20px;
+    margin: 0;
+    white-space: wrap;
+    overflow-y: scroll;
+}
+
+#reason-popup::-webkit-scrollbar-track {
+    border-radius: 7px;
+    background-color: #F5F5F5;
+}
+#reason-popup::-webkit-scrollbar {
+    background-color: #F5F5F500;
+    width: 7px;
+}
+#reason-popup::-webkit-scrollbar-thumb {
+    -webkit-box-shadow: inset 0 0 6px #0000004d;
+    box-shadow: inset 0 0 6px #0000004d;
+    border-radius: 7px;
+    background-color: #333;
+}
+
+#price-container-popup {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 30%;
+}
+
+#price-popup {
+    font-size: 24px;
+    font-weight: 400;
+    border: #333 1px solid;
+    border-radius: 5px;
+    padding: 10px 20px;
+}
