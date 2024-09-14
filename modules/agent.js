@@ -2,6 +2,68 @@ import { VertexAI } from '@google-cloud/vertexai'
 import { request, gql } from 'graphql-request'
 import fs from 'fs'
 
+const toyItemTree = {
+	'name': 'Mosin 7.62x54R bolt-action rifle (Sniper)',
+	'type': 'Weapon',
+	'children': [
+		{
+			'name': 'Mosin Rifle 7.62x54R 5-round magazine',
+			'type': 'Magazine',
+			'children': []
+		},
+		{
+			'name': 'Mosin Rifle standard stock',
+			'type': 'Stock',
+			'children': []
+		},
+		{
+			'name': 'Mosin Rifle 7.62x54R 730mm regular barrel',
+			'type': 'Barrel',
+			'children': [
+				{
+					'name': 'Mosin Rifle front sight',
+					'type': 'Front Sight',
+					'children': []
+				},
+				{
+					'name': 'Mosin Rifle rear sight',
+					'type': 'Rear Sight',
+					'children': []
+				}
+			]
+		},
+		{
+			'name': 'Mosin Rifle Kochetov mount',
+			'type': 'Mount',
+			'children': [
+				{
+					'name': 'PU 3.5x ring scope mount',
+					'type': 'Mount',
+					'children': [
+						{
+							'name': 'PU 3.5x riflescope',
+							'type': 'Scope',
+							'children': []
+						}
+					]
+				}
+			]
+		}
+	]
+}
+
+const toyItems = [
+    "Mosin 7.62x54R bolt-action rifle (Sniper)",
+    "Mosin Rifle 7.62x54R 5-round magazine",
+    "Mosin Rifle standard stock",
+    "Mosin Rifle 7.62x54R 730mm regular barrel",
+    "Mosin Rifle front sight",
+    "Mosin Rifle rear sight",
+    "Mosin Rifle Kochetov mount",
+    "PU 3.5x ring scope mount",
+    "PU 3.5x riflescope"
+]
+
 class Agent {
     constructor(projectId=process.env.tarkovAIProjectID, location=process.env.tarkovAILocation, modelID=process.env.tarkovAIModel) {  
         const tarkovAI = new VertexAI({project: projectId, location: location});
@@ -98,6 +160,10 @@ class Agent {
     }
 
     format(items, weaponType, weapon, weaponData) {
+        /*
+        Function that gets items as a list, and turn it into a tree structure that can be processed by createTree later on frontend.
+        */
+
         let root = {
             'name': weapon,
             'type': weaponType,
@@ -131,12 +197,10 @@ class Agent {
         const weapon = await this.layer2(weaponType)
         const weaponDataWithPrice = await this.getPrice(weapon, weaponType)
         const [items, explanation] = await this.layer3(weaponDataWithPrice, userPrompt)
+        const itemTree = this.format(items, weaponType, weapon, weaponDataWithPrice)
 
-        return [items, explanation]
+        return [itemTree, items, explanation]
     }
 }
 
 export { Agent }
-
-const agent = new Agent()
-agent.formatTest()

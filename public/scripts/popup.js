@@ -5,7 +5,6 @@ function dragElement(element) {
     document.getElementById('drag-bar-popup').onmousedown = dragMouseDown;
 
     function dragMouseDown(e) {
-        e = e || window.event;
         e.preventDefault();
         // get the mouse cursor position at startup:
         pos3 = e.clientX;
@@ -52,62 +51,14 @@ function dragElement(element) {
 }
 
 function showPopup(e) {
-	function fill(name, item) {
-		document.getElementById('name-popup').innerText = name
-        document.getElementById('image-popup').src = item.image512pxLink;
-        document.getElementById('reason-popup').innerText = item.description;
-        document.getElementById('ergonomics-popup').innerText = item.ergonomicsModifier;
-        document.getElementById('recoil-popup').innerText = item.recoilModifier;
-        document.getElementById('price-popup').innerText = '₽' + item.buyFor[0].priceRUB;
-	}
-
 	const name = this.getAttribute('name');
+	document.getElementById('name-popup').innerText = name
+    document.getElementById('image-popup').src = itemData[name].img;
+    document.getElementById('description-popup').innerText = itemData[name].description;
+    document.getElementById('ergonomics-popup').innerText = itemData[name].ergonomics;
+    document.getElementById('recoil-popup').innerText = itemData[name].recoil;
+    document.getElementById('price-popup').innerText = '₽' + itemData[name].price;
 	
-	if (name in popupDataCache) {
-		const item = popupDataCache[name]
-		fill(name, item)
-	}
-	else {
-		document.getElementById('name-popup').innerText = '';
-		document.getElementById('image-popup').src = '';
-		document.getElementById('stats-popup').style.opacity = '0%';
-		document.getElementById('right-popup').style.opacity = '0%';
-		document.getElementById('content-popup').classList.add('content-shine-popup');
-
-
-		fetch('https://api.tarkov.dev/graphql', {
-			method: 'POST',
-			headers: {
-				'Content-Type': 'application/json',
-				'Accept': 'application/json',
-			},
-			body: JSON.stringify({query: `{
-			items(name: "${name}") {
-						name
-						image512pxLink
-						description
-						ergonomicsModifier
-						recoilModifier
-						buyFor {
-						priceRUB
-					}
-				}
-			}
-			`})
-		})
-		.then(r => r.json())
-		.then(data => {
-			const item = data.data.items[0];
-			popupDataCache[name] = item
-		
-			fill(name, item)
-
-			document.getElementById('stats-popup').style.opacity = '100%';
-			document.getElementById('right-popup').style.opacity = '100%';
-			document.getElementById('content-popup').classList.remove('content-shine-popup');
-		});
-	}
-
 	document.getElementById('popup').style.display = 'flex';
 	e.stopPropagation()
 }
