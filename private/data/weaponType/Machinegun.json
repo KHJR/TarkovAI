@@ -1,0 +1,107 @@
+{
+	"RPK-16 5.45x39 light machine gun": {
+		"weight": 1.5,
+		"ergonomics": 62,
+		"verticalRecoil": 76,
+		"horizontalRecoil": 226,
+		"effectiveDistance": 650,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber545x39",
+		"description": "The RPK-16 5.45x39 light machine gun is a versatile platform capable of various customization options. It features a unique handguard with a dedicated rail, allowing for the attachment of various tactical devices like flashlights and lasers. The handguard also supports a wide variety of optics, including both red dot sights and magnified scopes, enabling accurate engagement at various distances.  While the gun has a dedicated rear sight base, it can also accommodate other rear sight options. The RPK-16 offers a choice between a 15-inch or 22-inch barrel, impacting its handling and range effectiveness. It can be equipped with different muzzle attachments like muzzle brakes and suppressors, modifying its recoil and sound signature.  The RPK-16 can be further customized with different stocks, charging handles, and magazines.  However, the RPK-16 lacks the option for a dedicated underbarrel grenade launcher, limiting its versatility in certain situations. \n"
+	},
+	"Kalashnikov PKM 7.62x54R machine gun": {
+		"weight": 3.852,
+		"ergonomics": -0.5,
+		"verticalRecoil": 99,
+		"horizontalRecoil": 371,
+		"effectiveDistance": 750,
+		"fireRate": 650,
+		"fireModes": [
+			"Full auto"
+		],
+		"caliber": "Caliber762x54R",
+		"description": "The Kalashnikov PKM 7.62x54R machine gun is a powerful weapon capable of delivering a high volume of fire.  It can be equipped with various attachments, including different stocks, grips, and barrels. While the PKM can be modified to improve its ergonomics and reduce recoil, the available attachments have limited impact on these aspects.  The gun's high recoil can be somewhat mitigated by utilizing the Zenit PT-2 \"Klassika\" stock and choosing a suitable muzzle brake.  While the PKM lacks the versatility of some other weapons, it excels in sustained fire and can be used effectively for both close and long-range engagements. It is worth noting that the PKM cannot utilize any optics mounted on the Zenit B-50 16mm top mount.  The PKM offers a powerful and reliable option for players seeking a heavy-hitting machine gun. \n"
+	},
+	"Kalashnikov PKP 7.62x54R infantry machine gun": {
+		"weight": 3.852,
+		"ergonomics": 6,
+		"verticalRecoil": 99,
+		"horizontalRecoil": 368,
+		"effectiveDistance": 750,
+		"fireRate": 650,
+		"fireModes": [
+			"Full auto"
+		],
+		"caliber": "Caliber762x54R",
+		"description": "The Kalashnikov PKP 7.62x54R infantry machine gun is a powerful weapon in Escape from Tarkov, capable of delivering a high volume of firepower. It can be equipped with a variety of attachments, including grips, magazines, stocks, barrels, bipods, handguards, and optics. The gun has two barrel options, the PKP 7.62x54R 658mm barrel and the PKM 7.62x54R 658mm barrel, which both reduce recoil and provide differing levels of ergonomics.  The PKM barrel can be fitted with a muzzle brake, while the PKP barrel is limited in its muzzle options due to the handguard selected.  The gun can also be fitted with various optics, including reflex sights, scopes, and thermal optics, to suit different combat situations.  While the PKP boasts a high rate of fire and large magazine capacity, its ergonomics can be negatively impacted by attachments, requiring careful consideration of the trade-offs.\n"
+	},
+	"Degtyarev RPD 7.62x39 machine gun": {
+		"weight": 2.88,
+		"ergonomics": 22,
+		"verticalRecoil": 79,
+		"horizontalRecoil": 371,
+		"effectiveDistance": 800,
+		"fireRate": 700,
+		"fireModes": [
+			"Full auto"
+		],
+		"caliber": "Caliber762x39",
+		"description": "The Degtyarev RPD 7.62x39 machine gun is a powerful weapon in Escape from Tarkov.  It boasts a high capacity of 100 rounds when equipped with the RPD 7.62x39 \"Buben\" 100-round box magazine.  It can be modified with a wooden stock, a pistol grip, and a handguard, all of which contribute to its ergonomics.  The RPD can be fitted with a 520mm or 350mm barrel, affecting its recoil and ergonomics.  You can choose to add a bipod for stability, but this will reduce the ergonomics slightly.  A barrel thread protector can be attached for additional ergonomics.  The RPD lacks any optical sights but can be equipped with a rear sight for rudimentary aiming.  While the RPD is a formidable weapon, its recoil can be a challenge to manage.  \n"
+	},
+	"Degtyarev RPDN 7.62x39 machine gun": {
+		"weight": 2.94,
+		"ergonomics": 23,
+		"verticalRecoil": 79,
+		"horizontalRecoil": 371,
+		"effectiveDistance": 800,
+		"fireRate": 700,
+		"fireModes": [
+			"Full auto"
+		],
+		"caliber": "Caliber762x39",
+		"description": "The Degtyarev RPDN 7.62x39 machine gun is a powerful weapon in Escape from Tarkov, capable of sustained fire thanks to its high capacity magazine. It benefits from the addition of a stock, handguard, and barrel, all of which are required for use. The wooden stock significantly improves ergonomics, while the 520mm barrel reduces recoil.  Ergonomics can be further improved by equipping the wooden handguard.  However, the RPD lacks any dedicated dovetail mounts for optics, limiting its accuracy at longer ranges.  The RPD can be equipped with a bipod for stability, but the lack of a dedicated mounting slot for optics means you'll need to use a sidemount or adapter. While the RPD is a formidable weapon at close to medium range, its accuracy and effectiveness significantly decrease at longer distances without proper optic setup. \n"
+	},
+	"U.S. Ordnance M60E4 7.62x51 light machine gun": {
+		"weight": 5.763,
+		"ergonomics": 13,
+		"verticalRecoil": 91,
+		"horizontalRecoil": 427,
+		"effectiveDistance": 800,
+		"fireRate": 550,
+		"fireModes": [
+			"Full auto"
+		],
+		"caliber": "Caliber762x51",
+		"description": "The U.S. Ordnance M60E4 7.62x51 light machine gun is a powerful weapon in Escape from Tarkov, capable of delivering sustained fire with its 100-round capacity magazine. Its ergonomics can be significantly improved through modification, with various stocks, handguards, grips, and foregrips available.  The M60E4 boasts a range of barrel options, allowing for customization based on desired performance.  Muzzle attachments, like muzzle brakes and flash hiders, can further reduce recoil and enhance control. While the M60E4 can be outfitted with a bipod for increased stability, it lacks the ability to mount a traditional scope.  Despite this limitation, the M60E4 can be equipped with a variety of sights and tactical devices, providing ample options for aiming and engagement.  Overall, the M60E4 is a versatile weapon that can be customized to fit various playstyles, making it a formidable choice for both close-quarters and long-range encounters. \n"
+	},
+	"U.S. Ordnance M60E6 7.62x51 light machine gun": {
+		"weight": 5.378,
+		"ergonomics": 20,
+		"verticalRecoil": 89,
+		"horizontalRecoil": 417,
+		"effectiveDistance": 800,
+		"fireRate": 550,
+		"fireModes": [
+			"Full auto"
+		],
+		"caliber": "Caliber762x51",
+		"description": "The U.S. Ordnance M60E6 7.62x51 light machine gun is a versatile weapon platform that can be customized with a variety of attachments.  It requires a stock, handguard, and grip, but does not require a magazine. The M60E6 can be equipped with a bipod for added stability during sustained fire. A variety of barrels, including the M60E3 7.62x51 584mm and the M60E4 7.62x51 475mm heavy barrel, can be fitted to the weapon, affecting its recoil and ergonomics.  The M60E6 can accommodate a wide range of scopes, from basic reflex sights to high-powered optics.  However, it is important to note that the M60E6 does not have a standard rail system for mounting accessories. This limitation restricts the range of compatible sights and attachments.  Despite this, the M60E6 remains a capable and customizable weapon with a high rate of fire and substantial damage output. \n"
+	},
+	"U.S. Ordnance M60E6 7.62x51 light machine gun (FDE)": {
+		"weight": 5.378,
+		"ergonomics": 15,
+		"verticalRecoil": 87,
+		"horizontalRecoil": 407,
+		"effectiveDistance": 800,
+		"fireRate": 550,
+		"fireModes": [
+			"Full auto"
+		],
+		"caliber": "Caliber762x51",
+		"description": "The U.S. Ordnance M60E6 7.62x51 light machine gun (FDE) offers a high capacity option with a 100-round assault box magazine.  It features a variety of stock, handguard, and barrel options, allowing for customization. You can increase the ergonomics of this gun with choices like the M60E6 handguard and the M60E6 buttstock. The M60E3 7.62x51 584mm barrel provides a significant reduction in recoil, while shorter barrels provide less recoil but impact ergonomics. You can also choose from various front and rear sights, as well as bipods.  A wide range of scopes can be mounted on this gun, including thermal scopes.  However, the U.S. Ordnance M60E6 7.62x51 light machine gun (FDE) does not have the ability to attach a suppressor directly. \n"
+	}
+}

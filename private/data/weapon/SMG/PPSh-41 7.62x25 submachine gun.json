@@ -1,0 +1,63 @@
+{
+    "Tree Structure": {
+        "Stock": {
+            "Required": true,
+            "Allowed Items": {
+                "PPSh-41 stock": {}
+            }
+        },
+        "Magazine": {
+            "Required": false,
+            "Allowed Items": {
+                "PPSh-41 7.62x25 35-round magazine": {},
+                "PPSh-41 7.62x25 71-round drum magazine": {}
+            }
+        },
+        "Receiver": {
+            "Required": true,
+            "Allowed Items": {
+                "PPSh-41 dust cover": {}
+            }
+        },
+        "Barrel": {
+            "Required": true,
+            "Allowed Items": {
+                "PPSh-41 7.62x25 10.6 inch barrel": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "PPSh-41 stock": {
+            "ergonomics": 28,
+            "recoilModifier": -0.2,
+            "conflictingItems": [
+                "Mosin Rifle Kochetov mount"
+            ]
+        },
+        "PPSh-41 7.62x25 35-round magazine": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "capacity": 35,
+            "conflictingItems": []
+        },
+        "PPSh-41 7.62x25 71-round drum magazine": {
+            "ergonomics": -9,
+            "recoilModifier": 0,
+            "capacity": 71,
+            "conflictingItems": []
+        },
+        "PPSh-41 dust cover": {
+            "ergonomics": 3,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "PPSh-41 7.62x25 10.6 inch barrel": {
+            "ergonomics": -5,
+            "recoilModifier": -0.03,
+            "conflictingItems": []
+        },
+        "PPSh-41 7.62x25 submachine gun": {
+            "conflictingItems": []
+        }
+    }
+}

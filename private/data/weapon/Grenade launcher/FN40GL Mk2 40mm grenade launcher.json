@@ -1,0 +1,435 @@
+{
+    "Tree Structure": {
+        "Pistol Grip": {
+            "Required": true,
+            "Allowed Items": {
+                "AR-15 Colt A2 pistol grip": {},
+                "AR-15 Damage Industries ECS pistol grip (FDE)": {},
+                "AR-15 F1 Firearms Skeletonized Style 1 pistol grip": {},
+                "AR-15 F1 Firearms Skeletonized Style 2 PC pistol grip": {},
+                "AR-15 F1 Firearms Skeletonized Style 2 pistol grip": {},
+                "AR-15 HK Battle Grip pistol grip": {},
+                "Hogue OverMolded Rubber Grip (Black)": {},
+                "Hogue OverMolded Rubber Grip (FDE)": {},
+                "Hogue OverMolded Rubber Grip (Ghillie Earth)": {},
+                "Hogue OverMolded Rubber Grip (Ghillie Green)": {},
+                "Hogue OverMolded Rubber Grip (Olive Drab)": {},
+                "AR-15 Magpul MIAD pistol grip (FDE)": {},
+                "AR-15 Tactical Dynamics Hexgrip pistol grip": {},
+                "AR-15 Tactical Dynamics Skeletonized pistol grip": {},
+                "AR-15 Aeroknox Orion pistol grip": {}
+            }
+        },
+        "Front Sight": {
+            "Required": false,
+            "Allowed Items": {
+                "HK MP7 flip-up front sight": {},
+                "KAC Folding Micro front sight": {},
+                "KAC Folding front sight": {},
+                "Magpul MBUS Gen2 flip-up front sight": {},
+                "Magpul MBUS Gen2 flip-up front sight (FDE)": {},
+                "MPX flip-up front sight": {}
+            }
+        },
+        "Rear Sight": {
+            "Required": false,
+            "Allowed Items": {
+                "HK 416A5 flip-up rear sight": {},
+                "HK MP7 flip-up rear sight": {},
+                "KAC Folding Micro rear sight": {},
+                "KAC Folding rear sight": {},
+                "Magpul MBUS Gen2 flip-up rear sight": {},
+                "Magpul MBUS Gen2 flip-up rear sight (FDE)": {},
+                "MPX flip-up rear sight": {}
+            }
+        },
+        "Scope": {
+            "Required": false,
+            "Allowed Items": {
+                "Milkor M2A1 grenade launcher reflex sight": {
+                    "Scope": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Wilcox RAPTAR ES Tactical Rangefinder": {}
+                        }
+                    },
+                    "Tactical": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Holosun LS321 Tactical device": {},
+                            "L3Harris AN/PEQ-15 tactical device": {},
+                            "L3Harris LA-5B/PEQ tactical device": {},
+                            "Wilcox RAPTAR ES Tactical Rangefinder": {},
+                            "Zenit Perst-3 tactical device": {},
+                            "NcSTAR Tactical blue laser LAM-module": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Tactical": {
+            "Required": false,
+            "Allowed Items": {
+                "Glock GTL 21 tactical flashlight with laser": {},
+                "Holosun LS321 Tactical device": {},
+                "L3Harris AN/PEQ-15 tactical device": {},
+                "L3Harris LA-5B/PEQ tactical device": {},
+                "Insight WMX200 tactical flashlight": {},
+                "NcSTAR Tactical blue laser LAM-module": {},
+                "Olight Baldr Pro tactical flashlight with laser": {},
+                "Olight Baldr Pro tactical flashlight with laser (Tan)": {},
+                "Steiner DBAL-PL tactical device": {},
+                "Steiner LAS/TAC 2 tactical flashlight": {},
+                "SureFire X400 Ultra tactical flashlight with laser": {},
+                "SureFire XC1 tactical flashlight": {},
+                "Zenit Klesch-2IKS IR illuminator with laser": {},
+                "Zenit Klesch-2P flashlight with laser": {},
+                "Zenit Klesch-2U tactical flashlight": {},
+                "Zenit Perst-3 tactical device": {},
+                "Daniel Defense 25mm accessory ring mount": {
+                    "Tactical": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                            "Ultrafire WF-501B flashlight": {}
+                        }
+                    }
+                },
+                "Kiba Arms 25mm accessory ring mount": {
+                    "Tactical": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                            "Ultrafire WF-501B flashlight": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Item Properties": {
+        "AR-15 Colt A2 pistol grip": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 Damage Industries ECS pistol grip (FDE)": {
+            "ergonomics": 5.5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 F1 Firearms Skeletonized Style 1 pistol grip": {
+            "ergonomics": 11,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 F1 Firearms Skeletonized Style 2 PC pistol grip": {
+            "ergonomics": 13,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 F1 Firearms Skeletonized Style 2 pistol grip": {
+            "ergonomics": 12,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 HK Battle Grip pistol grip": {
+            "ergonomics": 6,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Hogue OverMolded Rubber Grip (Black)": {
+            "ergonomics": 9,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Hogue OverMolded Rubber Grip (FDE)": {
+            "ergonomics": 9,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Hogue OverMolded Rubber Grip (Ghillie Earth)": {
+            "ergonomics": 9,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Hogue OverMolded Rubber Grip (Ghillie Green)": {
+            "ergonomics": 9,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Hogue OverMolded Rubber Grip (Olive Drab)": {
+            "ergonomics": 9,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul MIAD pistol grip (FDE)": {
+            "ergonomics": 8,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 Tactical Dynamics Hexgrip pistol grip": {
+            "ergonomics": 7,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 Tactical Dynamics Skeletonized pistol grip": {
+            "ergonomics": 6,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 Aeroknox Orion pistol grip": {
+            "ergonomics": 12,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "HK MP7 flip-up front sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "KAC Folding Micro front sight": {
+            "ergonomics": 1,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "KAC Folding front sight": {
+            "ergonomics": 1,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Magpul MBUS Gen2 flip-up front sight": {
+            "ergonomics": 1,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Magpul MBUS Gen2 flip-up front sight (FDE)": {
+            "ergonomics": 1,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "MPX flip-up front sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "HK 416A5 flip-up rear sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "HK MP7 flip-up rear sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "KAC Folding Micro rear sight": {
+            "ergonomics": 1,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "KAC Folding rear sight": {
+            "ergonomics": 1,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Magpul MBUS Gen2 flip-up rear sight": {
+            "ergonomics": 1,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Magpul MBUS Gen2 flip-up rear sight (FDE)": {
+            "ergonomics": 1,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "MPX flip-up rear sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Wilcox RAPTAR ES Tactical Rangefinder": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Holosun LS321 Tactical device": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "L3Harris AN/PEQ-15 tactical device": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "L3Harris LA-5B/PEQ tactical device": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Perst-3 tactical device": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "NcSTAR Tactical blue laser LAM-module": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Milkor M2A1 grenade launcher reflex sight": {
+            "ergonomics": -6,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Insight AN/PEQ-2 tactical device": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "MAWL-C1+ tactical device": {
+            "ergonomics": -1.5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Glock GTL 21 tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Insight WMX200 tactical flashlight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Olight Baldr Pro tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Olight Baldr Pro tactical flashlight with laser (Tan)": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner DBAL-PL tactical device": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner LAS/TAC 2 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire X400 Ultra tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire XC1 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2IKS IR illuminator with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2P flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2U tactical flashlight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Daniel Defense 25mm accessory ring mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Kiba Arms 25mm accessory ring mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "FN40GL Mk2 40mm grenade launcher": {
+            "conflictingItems": []
+        }
+    }
+}

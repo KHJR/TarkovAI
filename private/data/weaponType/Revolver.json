@@ -1,0 +1,71 @@
+{
+	"MTs-255-12 12ga shotgun": {
+		"weight": 1.1,
+		"ergonomics": 42,
+		"verticalRecoil": 233,
+		"horizontalRecoil": 311,
+		"effectiveDistance": 70,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire",
+			"Double action"
+		],
+		"caliber": "Caliber12g",
+		"description": "The MTs-255-12 12ga shotgun is a versatile weapon capable of utilizing a variety of 12 gauge ammunition, including buckshot, slugs, and flechettes. Its standard configuration includes a 755mm barrel with a rib, wooden stock, and beechwood forestock. While lacking a significant amount of ergonomics, its recoil modifier can be further decreased with the addition of a 12ga choke. Notably, the MTs-255-12 12ga shotgun can be equipped with a variety of reflex sights and laser aiming devices, providing players with greater accuracy and target acquisition capabilities. However, its lack of a traditional rail system limits the availability of compatible optics. Furthermore, the MTs-255-12 12ga shotgun cannot be outfitted with longer barrels, significantly restricting its range. While a capable close-to-medium range weapon, its limited customization options hinder its effectiveness at greater distances. \n"
+	},
+	"Chiappa Rhino 50DS .357 revolver": {
+		"weight": 0.685,
+		"ergonomics": 81,
+		"verticalRecoil": 383,
+		"horizontalRecoil": 280,
+		"effectiveDistance": 70,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire",
+			"Double action"
+		],
+		"caliber": "Caliber9x33R",
+		"description": "The Chiappa Rhino 50DS .357 revolver is a powerful sidearm that can be customized to fit your needs. It has a 6-round cylinder and accepts various .357 Magnum ammunition types.  While it doesn't offer any options for optics, you can equip it with a red fiber optic or standard rear and front sight for improved accuracy. The ergonomic score can be improved by selecting either the plastic or wooden pistol grip, with the plastic option providing a higher bonus. You can also attach various tactical lights and lasers for added visibility and target acquisition, but they do come with a small ergonomic penalty. However, the Chiappa Rhino lacks any attachment points for accessories like suppressors or stocks, limiting its versatility compared to other handguns.  Overall, the Chiappa Rhino 50DS .357 revolver is a potent close-range weapon, offering a balance of firepower and customizable features for various playstyles. \n"
+	},
+	"Chiappa Rhino 200DS 9x19 revolver": {
+		"weight": 0.5,
+		"ergonomics": 96,
+		"verticalRecoil": 306,
+		"horizontalRecoil": 200,
+		"effectiveDistance": 70,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire",
+			"Double action"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The Chiappa Rhino 200DS 9x19 revolver is a pistol with a 6-round cylinder capacity. You can choose between a plastic or wooden pistol grip, affecting the weapon's ergonomics.  A red fiber optic or standard front sight is available, but both only offer a 1x zoom level. The weapon doesn't offer any options for increasing its recoil modifier. It can be loaded with various 9x19mm rounds, including FMJ, AP, and tracer rounds. You can improve the weapon's ergonomics by choosing the plastic pistol grip over the wooden one. The Chiappa Rhino 200DS 9x19 revolver lacks any modular attachments like rails or scopes, limiting its customization options. However, it's a reliable sidearm with a decent base ergonomics value. \n"
+	},
+	"Milkor M32A1 MSGL 40mm grenade launcher": {
+		"weight": 3.3,
+		"ergonomics": 23.5,
+		"verticalRecoil": 190,
+		"horizontalRecoil": 448,
+		"effectiveDistance": 70,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber40x46",
+		"description": "The Milkor M32A1 MSGL 40mm grenade launcher is a powerful weapon capable of launching various 40mm grenades.  It has a dedicated cylinder for holding the grenades, with a capacity of 0.  While it cannot be equipped with a stock or a foregrip, you can attach a reflex sight to it for improved aiming.  Furthermore, you can equip the Milkor M32A1 MSGL with tactical attachments, such as a laser or a flashlight.  The weapon does not have any built-in aiming features, making it reliant on external optics.  Ergonomics is negatively affected by the grenade launcher, but it can be partially mitigated by using a Wilcox RAPTAR ES Tactical Rangefinder.  Recoil modifier is not impacted by the Milkor M32A1 MSGL, suggesting that its recoil remains unchanged regardless of attachments.  Overall, the Milkor M32A1 MSGL is a specialized weapon designed for area denial and suppressing enemy positions. \n"
+	},
+	"RSh-12 12.7x55 revolver": {
+		"weight": 1.86,
+		"ergonomics": 40,
+		"verticalRecoil": 483,
+		"horizontalRecoil": 333,
+		"effectiveDistance": 70,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire",
+			"Double action"
+		],
+		"caliber": "Caliber127x55",
+		"description": "The RSh-12 12.7x55 revolver is a powerful firearm capable of utilizing a variety of 12.7x55mm rounds. It comes equipped with a pistol grip that provides positive ergonomics, enhancing handling and control. The revolver can be fitted with a magazine, holding 5 rounds at a time. While it lacks the option for a traditional stock, it can accommodate a selection of tactical attachments, including lasers and flashlights, for enhanced targeting and visibility. However, due to its design limitations, the RSh-12 cannot mount any optics, restricting its effective range and precision. It also suffers a slight recoil penalty when fired, requiring careful aim and control. Despite these limitations, the RSh-12 remains a formidable weapon, particularly in close to medium-range engagements. \n"
+	}
+}

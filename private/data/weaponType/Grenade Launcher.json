@@ -1,0 +1,80 @@
+{
+	"FN40GL Mk2 40mm grenade launcher": {
+		"weight": 2.92,
+		"ergonomics": 56.5,
+		"verticalRecoil": 230,
+		"horizontalRecoil": 460,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber40x46",
+		"description": "The FN40GL Mk2 40mm grenade launcher is a versatile weapon in Escape from Tarkov. It can be equipped with a variety of attachments, including pistol grips, front sights, rear sights, scopes, and tactical devices.  The launcher can be customized to improve its ergonomics and recoil control, though its limited attachment options prevent significant improvements. The FN40GL Mk2 can be fitted with a Milkor M2A1 grenade launcher reflex sight, offering a 1x zoom, but it cannot be paired with other scopes. While the launcher is capable of mounting various tactical devices, such as flashlights and lasers, it lacks the option for a dedicated scope mount. The FN40GL Mk2's primary function is to launch 40mm grenades, and it is not designed for engaging in close-quarters combat. It's a powerful tool for area denial, but its effectiveness depends heavily on its user's tactical awareness and grenade choice. \n"
+	},
+	"ZiD SP-81 26x75 signal pistol": {
+		"weight": 0.6,
+		"ergonomics": null,
+		"verticalRecoil": null,
+		"horizontalRecoil": null,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber26x75",
+		"description": "The ZiD SP-81 26x75 signal pistol is a unique firearm in Escape from Tarkov. It is a signal pistol, meaning it cannot be used to fire regular ammunition. Instead, it fires flare projectiles, which are useful for signaling or distracting enemies. Due to its limited functionality, it cannot be modified with any attachments like optics, stocks, or suppressors. This makes it a specialized tool rather than a primary weapon. While it lacks the power and versatility of conventional firearms, it can be a valuable asset in certain situations, especially when used strategically to gain an advantage or escape a dangerous encounter. The signal pistol is a niche weapon in Tarkov, best utilized for its specialized purpose rather than as a primary combat weapon. \n"
+	},
+	"RSP-30 reactive signal cartridge (Green)": {
+		"weight": 0.19,
+		"ergonomics": null,
+		"verticalRecoil": null,
+		"horizontalRecoil": null,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber26x75",
+		"description": "The RSP-30 reactive signal cartridge (Green) is a versatile item in Escape from Tarkov, designed for customization.  It does not have any conflicting items, meaning you can freely attach it to other accessories. Unfortunately, the provided data does not reveal any information regarding the RSP-30's impact on weapon performance.  It does not affect recoil, ergonomics, or other weapon characteristics.  Therefore, it's likely a purely cosmetic item, offering no tactical advantages.  It's important to note that the data provided only covers the RSP-30's compatibility and does not reflect its potential gameplay effects. The RSP-30 serves as an aesthetic addition without any functional benefit, making its value entirely based on personal preference. \n"
+	},
+	"ROP-30 reactive flare cartridge (White)": {
+		"weight": 0.19,
+		"ergonomics": null,
+		"verticalRecoil": null,
+		"horizontalRecoil": null,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber26x75",
+		"description": "The ROP-30 reactive flare cartridge (White) is an item that can be attached to firearms in Escape from Tarkov. It does not have any conflicting items, meaning it can be used with other attachments. However, the available data does not reveal any specific information regarding its functionality or impact on weapon performance. There is no mention of its effect on recoil, ergonomics, or any other weapon characteristics.  Therefore, we can conclude that the ROP-30 reactive flare cartridge (White) likely serves a purpose unrelated to weapon modification. It may be used for signaling, illumination, or other tactical functions. Without further data, we cannot definitively determine its specific capabilities. \n"
+	},
+	"RSP-30 reactive signal cartridge (Red)": {
+		"weight": 0.19,
+		"ergonomics": null,
+		"verticalRecoil": null,
+		"horizontalRecoil": null,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber26x75",
+		"description": "The RSP-30 reactive signal cartridge (Red) is a simple item with no attachments or modifications. It does not affect the weapon's ergonomics, recoil, or any other performance characteristics.  It's primarily used for signaling your location to other players or AI, potentially attracting allies or enemies.  The RSP-30 is a non-lethal item and does not cause any damage.  It is not a weapon, and therefore cannot be fired.  There are no special abilities or unique interactions associated with the RSP-30, and it serves solely as a signaling device. \n"
+	},
+	"RSP-30 reactive signal cartridge (Yellow)": {
+		"weight": 0.19,
+		"ergonomics": null,
+		"verticalRecoil": null,
+		"horizontalRecoil": null,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber26x75",
+		"description": "The RSP-30 reactive signal cartridge (Yellow) is an item in Escape from Tarkov.  It does not have any conflicting items. It has no specific attachments or modifications listed in the provided data. The RSP-30 does not affect the ergonomics or recoil of the weapon to which it is attached.  It does not have any special capabilities or changes to the weapon's characteristics.  The provided data suggests that the RSP-30 is likely a consumable item with a specific function in the game. However, the exact function is not detailed in the provided information. \n"
+	}
+}

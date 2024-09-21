@@ -1,0 +1,43 @@
+{
+    "Tree Structure": {
+        "Barrel": {
+            "Required": true,
+            "Allowed Items": {
+                "MP-43-1C 12ga 510mm barrel": {},
+                "MP-43-1C 12ga 725mm barrel": {},
+                "MP-43 12ga 750mm barrel": {}
+            }
+        },
+        "Stock": {
+            "Required": false,
+            "Allowed Items": {
+                "MP-43-1C buttpad": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "MP-43-1C 12ga 510mm barrel": {
+            "ergonomics": -5,
+            "recoilModifier": -0.05,
+            "conflictingItems": []
+        },
+        "MP-43-1C 12ga 725mm barrel": {
+            "ergonomics": -9,
+            "recoilModifier": -0.12,
+            "conflictingItems": []
+        },
+        "MP-43 12ga 750mm barrel": {
+            "ergonomics": -11,
+            "recoilModifier": -0.14,
+            "conflictingItems": []
+        },
+        "MP-43-1C buttpad": {
+            "ergonomics": 4,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "MP-43-1C 12ga double-barrel shotgun": {
+            "conflictingItems": []
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "Tree Structure": {
+        "Barrel": {
+            "Required": true,
+            "Allowed Items": {
+                "MP-43 12ga sawed-off 310mm barrel": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "MP-43 12ga sawed-off 310mm barrel": {
+            "ergonomics": 3,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "MP-43 12ga sawed-off double-barrel shotgun": {
+            "conflictingItems": []
+        }
+    }
+}

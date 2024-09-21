@@ -1,0 +1,173 @@
+{
+    "Tree Structure": {
+        "Magazine": {
+            "Required": true,
+            "Allowed Items": {
+                "Chiappa Rhino .357 6-round cylinder": {
+                    "Chamber": {
+                        "Required": false,
+                        "Allowed Items": {
+                            ".357 Magnum FMJ": {},
+                            ".357 Magnum HP": {},
+                            ".357 Magnum JHP": {},
+                            ".357 Magnum SP": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Rear Sight": {
+            "Required": false,
+            "Allowed Items": {
+                "Chiappa Rhino Red Fiber Optic rear sight": {},
+                "Chiappa Rhino rear sight": {}
+            }
+        },
+        "Front Sight": {
+            "Required": false,
+            "Allowed Items": {
+                "Chiappa Rhino Red Fiber Optic front sight": {},
+                "Chiappa Rhino front sight": {}
+            }
+        },
+        "Pistol Grip": {
+            "Required": true,
+            "Allowed Items": {
+                "Chiappa Rhino plastic pistol grip": {},
+                "Chiappa Rhino wooden pistol grip": {}
+            }
+        },
+        "Tactical": {
+            "Required": false,
+            "Allowed Items": {
+                "Glock GTL 21 tactical flashlight with laser": {},
+                "NcSTAR Tactical blue laser LAM-module": {},
+                "Steiner DBAL-PL tactical device": {},
+                "Steiner LAS/TAC 2 tactical flashlight": {},
+                "SureFire X400 Ultra tactical flashlight with laser": {},
+                "SureFire XC1 tactical flashlight": {},
+                "Zenit Klesch-2IKS IR illuminator with laser": {},
+                "Zenit Klesch-2P flashlight with laser": {},
+                "Olight Baldr Pro tactical flashlight with laser": {},
+                "Olight Baldr Pro tactical flashlight with laser (Tan)": {},
+                "Insight WMX200 tactical flashlight": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "Chiappa Rhino .357 6-round cylinder": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "capacity": 6,
+            "conflictingItems": []
+        },
+        "Chiappa Rhino Red Fiber Optic rear sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Chiappa Rhino rear sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Chiappa Rhino Red Fiber Optic front sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Chiappa Rhino front sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Chiappa Rhino plastic pistol grip": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Chiappa Rhino wooden pistol grip": {
+            "ergonomics": 3,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Glock GTL 21 tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "NcSTAR Tactical blue laser LAM-module": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner DBAL-PL tactical device": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner LAS/TAC 2 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire X400 Ultra tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire XC1 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2IKS IR illuminator with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2P flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Olight Baldr Pro tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Olight Baldr Pro tactical flashlight with laser (Tan)": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Insight WMX200 tactical flashlight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Chiappa Rhino 50DS .357 revolver": {
+            "conflictingItems": []
+        }
+    }
+}

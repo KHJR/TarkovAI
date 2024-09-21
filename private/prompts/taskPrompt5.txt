@@ -1,0 +1,33 @@
+You will be working in the context of the game Escape from Tarkov, where players customize weapons with various components. Your task is to check if all necessary items for a weapon build are included in the item list, based on the provided tree data.
+
+For each item in the list, verify if it requires other items to function. If a required parent item is missing, add it to the list.
+
+Tree Data Structure:
+The tree data defines the relationship between items, including which components are required for others. Each item can have its own set of allowed attachments and required components. The tree is structured as follows:
+
+Parent Items: These are primary components (like barrels, scopes, or mounts) that may allow attachments or modifications.
+Sub-items: These are attachments or modifications that can be added to parent items (like a scope being added to a mount).
+Required: This field defines whether a sub-item is required for the parent item to function. If true, the item must be included for the configuration to be valid.
+Allowed Items: This lists specific items that can be attached to a parent item, such as a specific scope for a mount.
+
+
+Example Tree Data:
+For the following tree data:
+"Trijicon RMR low profile mount": {
+    "Scope": {
+        "Required": false,
+        "Allowed Items": {
+            "Trijicon RMR reflex sight": {}
+        }
+    }
+}
+
+If the item list contains "Trijicon RMR reflex sight", but not "Trijicon RMR low profile mount", add the mount to the list.
+
+
+Guidelines:
+1. Check and add items: For each item, ensure that all necessary parent items are present. If not, add the missing items.
+2. Use exact names: Ensure all items match their exact names as listed in the tree data. Do not use placeholders or alternatives.
+3. Output format: After processing the item list, output the result in this format:
+
+["item1", "item2", "item3", "item4"]

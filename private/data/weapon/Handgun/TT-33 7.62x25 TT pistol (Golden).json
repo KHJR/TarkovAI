@@ -1,0 +1,110 @@
+{
+    "Tree Structure": {
+        "Barrel": {
+            "Required": true,
+            "Allowed Items": {
+                "TT 7.62x25 116mm barrel": {},
+                "TT 7.62x25 121mm homespun threaded barrel": {
+                    "Muzzle": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "TT 7.62x25 makeshift sound suppressor": {}
+                        }
+                    }
+                },
+                "TT 7.62x25 116mm gilded barrel": {}
+            }
+        },
+        "Pistol Grip": {
+            "Required": true,
+            "Allowed Items": {
+                "TT Hogue-like rubber grip": {},
+                "TT PM-Laser TT-206 side grips with laser sight": {},
+                "TT Razor Arms rubber grip": {},
+                "TT ornated side grips": {},
+                "TT side grips": {}
+            }
+        },
+        "Magazine": {
+            "Required": false,
+            "Allowed Items": {
+                "TT 7.62x25 tt-105 8-round magazine": {}
+            }
+        },
+        "Muzzle": {
+            "Required": false,
+            "Allowed Items": {
+                "TT PM-Laser DTK-TT muzzle brake-compensator": {}
+            }
+        },
+        "Tactical": {
+            "Required": false,
+            "Allowed Items": {
+                "TT DLP Tactical Precision LAM-module": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "TT 7.62x25 116mm barrel": {
+            "ergonomics": -4,
+            "recoilModifier": -0.03,
+            "conflictingItems": []
+        },
+        "TT 7.62x25 121mm homespun threaded barrel": {
+            "ergonomics": -5,
+            "recoilModifier": -0.0325,
+            "conflictingItems": []
+        },
+        "TT 7.62x25 116mm gilded barrel": {
+            "ergonomics": -4,
+            "recoilModifier": -0.03,
+            "conflictingItems": []
+        },
+        "TT Hogue-like rubber grip": {
+            "ergonomics": 8,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "TT PM-Laser TT-206 side grips with laser sight": {
+            "ergonomics": 2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "TT Razor Arms rubber grip": {
+            "ergonomics": 13,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "TT ornated side grips": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "TT side grips": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "TT 7.62x25 tt-105 8-round magazine": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "capacity": 8,
+            "conflictingItems": []
+        },
+        "TT PM-Laser DTK-TT muzzle brake-compensator": {
+            "ergonomics": -1,
+            "recoilModifier": -0.08,
+            "conflictingItems": [
+                "TT 7.62x25 makeshift sound suppressor"
+            ]
+        },
+        "TT DLP Tactical Precision LAM-module": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "TT-33 7.62x25 TT pistol (Golden)": {
+            "conflictingItems": []
+        }
+    }
+}

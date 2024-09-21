@@ -1,0 +1,124 @@
+{
+	"TOZ Simonov SKS 7.62x39 carbine": {
+		"weight": 0.82,
+		"ergonomics": 42,
+		"verticalRecoil": 126,
+		"horizontalRecoil": 292,
+		"effectiveDistance": 400,
+		"fireRate": 40,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x39",
+		"description": "The TOZ Simonov SKS 7.62x39 carbine is a semi-automatic rifle that can be modified with a variety of attachments. Players can choose from several stocks, including the SKS FAB Defense UAS chassis which offers a significant reduction in recoil. Ergonomics can also be improved by installing a variety of pistol grips like the AK Magpul MOE pistol grip (Black).  The SKS can be outfitted with a scope mount, such as the SKS Leapers UTG PRO MTU017 receiver cover mount, allowing players to attach scopes like the ELCAN SpecterDR 1x/4x scope.  The carbine can also be equipped with a muzzle device like the SKS Hexagon 7.62x39 sound suppressor, which significantly reduces noise but also negatively impacts ergonomics.  The SKS is limited by its semi-automatic firing mode, which restricts players to a single shot per trigger pull.  However, its high damage output and moderate rate of fire make it a formidable weapon in close- to medium-range engagements.  \n"
+	},
+	"AS VAL 9x39 special assault rifle": {
+		"weight": 1.092,
+		"ergonomics": 58,
+		"verticalRecoil": 54,
+		"horizontalRecoil": 184,
+		"effectiveDistance": 400,
+		"fireRate": 700,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x39",
+		"description": "The AS VAL 9x39 special assault rifle is a unique weapon in Escape from Tarkov. It features an integrated suppressor, which significantly reduces its recoil and makes it extremely quiet. This weapon is known for its high rate of fire, which can be further increased with the proper attachments.  However, the AS VAL's ergonomics can be negatively impacted by many attachments. You have the option to add a variety of optics, foregrips, and tactical devices, but keep in mind that the gun has a limited selection of mounts available. It's important to choose the right combination of attachments to optimize its performance without sacrificing too much in terms of ergonomics. Additionally, the AS VAL cannot be fitted with underbarrel grenade launchers due to the lack of compatible handguards. \n"
+	},
+	"Molot Arms Simonov OP-SKS 7.62x39 carbine": {
+		"weight": 0.82,
+		"ergonomics": 42,
+		"verticalRecoil": 126,
+		"horizontalRecoil": 292,
+		"effectiveDistance": 400,
+		"fireRate": 40,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x39",
+		"description": "The Molot Arms Simonov OP-SKS 7.62x39 carbine is a semi-automatic rifle capable of utilizing various attachments for customization. The stock can be replaced with several options, including the SKS FAB Defense UAS chassis, which offers a significant increase in ergonomics (+12) and reduces recoil (-0.27).  The OP-SKS wooden stock provides a minimal reduction in recoil (-0.11) but at the cost of ergonomics (-6). Other stocks offer a range of ergonomics and recoil reduction values. \n\nThe OP-SKS 7.62x39 520mm barrel provides a minimal reduction in recoil (-0.08) but decreases ergonomics (-8). However, this barrel can be fitted with a variety of mounts, allowing for the attachment of reflex sights, holographic sights, and even thermal scopes.  The SKS can accommodate various magazines, including a 75-round drum magazine for increased ammunition capacity.  However, the SKS lacks the ability to use traditional AK-style attachments, such as standard AK-style foregrips, due to its unique design.  \n"
+	},
+	"Molot Arms VPO-101 Vepr-Hunter 7.62x51 carbine": {
+		"weight": 2.092,
+		"ergonomics": 50,
+		"verticalRecoil": 117,
+		"horizontalRecoil": 456,
+		"effectiveDistance": 400,
+		"fireRate": 600,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x51",
+		"description": "The Molot Arms VPO-101 Vepr-Hunter 7.62x51 carbine is a versatile weapon platform capable of accepting a variety of attachments. It features a mandatory gas block that can only be fitted with the VPO-101 Vepr-Hunter gas tube. The receiver slot is optional and can be outfitted with the VPO-101 Vepr-Hunter dust cover for a slight ergonomics boost.  The rear sight can be replaced with the AK Taktika Tula TT01 rear sight rail, which allows for the mounting of various optics.  The carbine has a mandatory stock slot, offering options for the VPO-101 Vepr-Hunter stock or the VPO-101 Vepr-Hunter SVD-style stock, both providing positive ergonomics and recoil reduction. Additionally, the weapon can accommodate a variety of optics through the mount slot, including reflex sights, holographic sights, and even thermal scopes. The weapon can also be fitted with a muzzle brake-compensator for recoil reduction, although the ergonomics impact is significant. While the Vepr-Hunter is a powerful weapon, it cannot accept standard AK magazines. Players must use the VPO-101 Vepr-Hunter 7.62x51 10-round magazine or the VPO-101 Vepr-Hunter 7.62x51 5-round magazine. \n"
+	},
+	"Tokarev AVT-40 7.62x54R automatic rifle": {
+		"weight": 1.069,
+		"ergonomics": 15,
+		"verticalRecoil": 114,
+		"horizontalRecoil": 439,
+		"effectiveDistance": 400,
+		"fireRate": 750,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber762x54R",
+		"description": "The Tokarev AVT-40 7.62x54R automatic rifle is a weapon that requires customization to function. It necessitates a stock, barrel, and receiver, allowing for the attachment of a muzzle brake, front sight, and rear sight. The SVT-40 7.62x54R 625mm barrel significantly reduces recoil, but also negatively impacts ergonomics. While the AVT-40 wooden stock slightly improves ergonomics and reduces recoil, it doesn't offer significant enhancements. Adding a muzzle brake further mitigates recoil but comes with a minor ergonomics penalty. The rifle can be equipped with either a 10-round or a 15-round magazine, impacting ergonomics depending on the choice. The AVT-40 lacks any built-in optics, requiring the player to rely on iron sights or external optics for aiming. This rifle can benefit from attachments that improve its ergonomics and recoil control, but it remains a weapon with inherent limitations compared to other rifles in the game. \n"
+	},
+	"Tokarev SVT-40 7.62x54R rifle": {
+		"weight": 1.075,
+		"ergonomics": 18,
+		"verticalRecoil": 114,
+		"horizontalRecoil": 439,
+		"effectiveDistance": 400,
+		"fireRate": 50,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x54R",
+		"description": "The Tokarev SVT-40 7.62x54R rifle is a semi-automatic rifle that requires a stock, barrel, and receiver to be functional. The SVT-40 7.62x54R 625mm barrel offers a -0.1 recoil modifier, but decreases ergonomics by -7.  The AVT-40 wooden stock offers +6 ergonomics and -0.18 recoil modifier.  Players can further customize the rifle with a muzzle brake and optional front and rear sights.  The SVT-40 Tokarev PU mount allows for the attachment of a PU 3.5x riflescope, which provides a zoom level of 3.5x and further decreases ergonomics by -5.  The SVT-40 can use either a 15-round or a 10-round magazine, with the 15-round magazine providing a larger capacity but decreasing ergonomics by -8 compared to the 10-round magazine's -5. However, the rifle lacks any other optics mounting options besides the PU mount, limiting its potential for customizing sight and magnification. \n"
+	},
+	"KBP 9A-91 9x39 compact assault rifle": {
+		"weight": 0.92,
+		"ergonomics": 77,
+		"verticalRecoil": 86,
+		"horizontalRecoil": 218,
+		"effectiveDistance": 400,
+		"fireRate": 700,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x39",
+		"description": "The KBP 9A-91 9x39 compact assault rifle offers a unique blend of stealth and firepower. Its primary advantage lies in its ability to be equipped with a sound suppressor, effectively silencing its shots. The rifle can be further customized with a variety of optics, including reflex sights, scopes, and even a night vision scope, providing versatility in various combat scenarios. Ergonomics can be significantly improved by attaching a top-folding stock, boosting the weapon's handling and aim stability. However, the rifle's limited magazine capacity of 20 rounds requires careful ammunition management. While it boasts a decent recoil modifier, its compactness limits the use of certain handguards, particularly those with extended rails. Additionally, the 9A-91 9x39 barrel has a fixed handguard, preventing the attachment of other handguard options. \n"
+	},
+	"KBP VSK-94 9x39 rifle": {
+		"weight": 0.92,
+		"ergonomics": 54,
+		"verticalRecoil": 62,
+		"horizontalRecoil": 157,
+		"effectiveDistance": 400,
+		"fireRate": 700,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x39",
+		"description": "The KBP VSK-94 9x39 rifle is a semi-automatic sniper rifle with a unique design, featuring a suppressor integrated into the barrel. Its stock significantly boosts ergonomics by 5 points and reduces recoil by 28%.  The rifle can utilize a variety of optics, including reflex sights, PSO scopes, and night vision scopes.  While the rifle boasts good ergonomics, its potential for customization is limited compared to other firearms in Escape from Tarkov. Notably, the VSK-94 cannot be equipped with a standard Picatinny rail for mounting accessories. The rifle's integrated suppressor enhances stealth but can be replaced with other muzzle attachments if desired.  The VSK-94's design emphasizes precision and quietness, making it well-suited for stealthy engagements and long-range shots. \n"
+	},
+	"SR-3M 9x39 compact assault rifle": {
+		"weight": 1.41,
+		"ergonomics": 70,
+		"verticalRecoil": 59,
+		"horizontalRecoil": 204,
+		"effectiveDistance": 400,
+		"fireRate": 900,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x39",
+		"description": "The SR-3M 9x39 compact assault rifle can be equipped with a sound suppressor, a dust cover, a magazine, a pistol grip, a stock, a charging handle, a mount, a handguard, a foregrip, and tactical devices.  The most significant ergonomic improvement comes from the SR-3M polymer handguard, which increases ergonomics by 7 and reduces recoil slightly. The AS VAL Rotor 43 pistol grip and buffer tube enhances ergonomics while also allowing the attachment of a stock.  The AS VAL skeleton stock significantly improves ergonomics and recoil reduction. The SR-3M railed polymer handguard allows for the attachment of several tactical devices, such as flashlights, lasers, and reflex sights. However, there is no option for a bipod, limiting the SR-3M's capabilities for long-range engagements. The SR-3M's compact size and customizable attachments make it a versatile weapon, suitable for both close and medium-range combat. \n"
+	}
+}

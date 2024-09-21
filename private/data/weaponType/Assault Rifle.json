@@ -1,0 +1,572 @@
+{
+	"Colt M4A1 5.56x45 assault rifle": {
+		"weight": 0.38,
+		"ergonomics": 52,
+		"verticalRecoil": 84,
+		"horizontalRecoil": 243,
+		"effectiveDistance": 500,
+		"fireRate": 800,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber556x45NATO",
+		"description": "The Colt M4A1 5.56x45 assault rifle offers a solid foundation for customization.  It allows for a variety of handguards, including the popular Daniel Defense RIS II and KAC URX series, enabling you to attach various accessories like lights and lasers. You can choose from a selection of barrels ranging from 13.7 inches to 20 inches, each impacting the gun's overall length, handling, and recoil. The M4A1's receiver can be modified with a diverse range of optics, from reflex sights to powerful scopes, allowing you to tailor your sight picture. You can select from various pistol grips, some offering improved ergonomics, to enhance comfort and control. The weapon can also be fitted with a M203 underbarrel grenade launcher, adding another dimension to its tactical capabilities. However, the M4A1 does have its limitations. For instance, it cannot be equipped with a suppressor or a muzzle brake that would reduce recoil significantly. Additionally, the weapon's stock is limited to the standard AR-15 carbine buffer tube, which may not be ideal for all players.\n"
+	},
+	"Kalashnikov AK-74N 5.45x39 assault rifle": {
+		"weight": 2.092,
+		"ergonomics": 44,
+		"verticalRecoil": 85,
+		"horizontalRecoil": 229,
+		"effectiveDistance": 650,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber545x39",
+		"description": "The Kalashnikov AK-74N 5.45x39 assault rifle is a versatile weapon platform in Escape from Tarkov. It can be significantly modded to improve its ergonomics and recoil control. A variety of handguards, including the Krebs Custom UFM KeyMod handguard, the Strike Industries TRAX 1 handguard, and the TDI X47 tactical handguard rail system, can be attached for increased customization. Different sights, like the EOTech 553 holographic sight, can be mounted for improved accuracy.  The AK-74N supports various muzzle attachments, including suppressors, to reduce noise and improve accuracy. The AK-74N lacks the ability to accept underbarrel grenade launchers. This limitation prevents the use of attachments like the GP-25 Kostyor 40mm underbarrel grenade launcher. However, its flexibility in other areas makes it a strong choice for a variety of combat roles. \n"
+	},
+	"Kalashnikov AKS-74U 5.45x39 assault rifle": {
+		"weight": 1.809,
+		"ergonomics": 64,
+		"verticalRecoil": 94,
+		"horizontalRecoil": 266,
+		"effectiveDistance": 300,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber545x39",
+		"description": "The Kalashnikov AKS-74U 5.45x39 assault rifle is a compact weapon with the ability to be customized with various attachments.  You can significantly improve its ergonomics through attachments like the Magpul MOE pistol grip or the Zenit RK-3 pistol grip, which both offer an ergonomics boost of 12.  Reducing recoil is also achievable with the addition of a stock like the Zenit PT-3 \"Klassika\" stock, contributing a -0.27 recoil modifier.  For increased magazine capacity, the AK-74 5.45x39 6L26 45-round magazine offers a 45-round capacity, though at the cost of a -8 ergonomics penalty.  You can further customize the weapon with different handguards, foregrips, and tactical devices, allowing for a wide range of configurations to suit your playstyle.  Despite its customizability, the AKS-74U cannot mount a scope without adding a railed dust cover.  The lack of a standard Picatinny rail on the receiver limits the mounting options, potentially impacting its effectiveness at longer ranges. \n"
+	},
+	"Kalashnikov AKS-74UN 5.45x39 assault rifle": {
+		"weight": 1.85,
+		"ergonomics": 64,
+		"verticalRecoil": 94,
+		"horizontalRecoil": 266,
+		"effectiveDistance": 300,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber545x39",
+		"description": "The Kalashnikov AKS-74UN 5.45x39 assault rifle is a versatile weapon with numerous customization options. You can significantly enhance its ergonomics by equipping a variety of pistol grips like the AK Magpul MOE pistol grip (Black) or the AK TangoDown Battle Grip pistol grip.  The gun can also be fitted with various stocks, charging handles, and magazines, offering a range of handling and capacity choices. While the AKS-74UN can be equipped with a variety of sights and optics, its lack of a standard Picatinny rail limits the options for tactical accessories. Muzzle brakes and suppressors are also available for the AKS-74UN,  allowing for a reduction in recoil and noise, further enhancing its effectiveness in combat. However, the AKS-74UN cannot be fitted with a suppressor that is compatible with other guns, limiting its versatility.  Overall, the AKS-74UN is a solid weapon with a good balance of customization options, making it adaptable to different playstyles and combat situations. \n"
+	},
+	"Kalashnikov AKS-74UB 5.45x39 assault rifle": {
+		"weight": 1.85,
+		"ergonomics": 41,
+		"verticalRecoil": 93,
+		"horizontalRecoil": 263,
+		"effectiveDistance": 300,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber545x39",
+		"description": "The Kalashnikov AKS-74UB 5.45x39 assault rifle is a compact and versatile weapon with several customization options.  Ergonomics can be improved with a variety of pistol grips, with the AK Custom Arms AGS-74 PRO + Sniper Kit pistol grip offering the highest ergonomics score of 14. The weapon can be fitted with a variety of stocks, including the AKS-74 metal skeletonized stock (6P21 Sb.5) which provides a recoil modifier of -0.21, reducing recoil.  A charging handle can be added for smoother operation, with the AK Zenit RP-1 charging handle providing the lowest ergonomics penalty.  Various magazines are available, with the AK-74 5.45x39 6L18 45-round magazine offering the highest capacity of 45 rounds. Muzzle devices such as the AK-74 thread type JMac Customs RRD-4C multi-caliber muzzle brake can be attached, offering a recoil modifier of -0.13, further reducing recoil.  The AKS-74UB can also be equipped with a variety of sights and optics, including thermal and night vision options, mounted via a railed dust cover. However, it is important to note that the AKS-74UB lacks the ability to utilize underbarrel attachments such as grenade launchers. \n"
+	},
+	"Kalashnikov AKM 7.62x39 assault rifle": {
+		"weight": 2.092,
+		"ergonomics": 40,
+		"verticalRecoil": 109,
+		"horizontalRecoil": 276,
+		"effectiveDistance": 400,
+		"fireRate": 600,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber762x39",
+		"description": "The Kalashnikov AKM 7.62x39 assault rifle is a versatile weapon platform capable of being customized with a variety of attachments. The AKM can be equipped with a gas block, underbarrel grenade launcher, muzzle device, pistol grip, receiver, rear sight, stock, and magazine.  The gun's ergonomics can be significantly improved by adding a handguard, like the AK Krebs Custom UFM KeyMod handguard, which also allows for the attachment of tactical devices and scopes.  The AKM can utilize a variety of scopes, including reflex sights, holographic sights, and even thermal optics, depending on the chosen handguard.  The AKM's recoil can be reduced by attaching muzzle devices such as the AKM 7.62x39 muzzle brake-compensator (6P1 0-14) or the AKM thread type JMac Customs RRD-4C 7.62x39 muzzle brake.  The AKM's ergonomics and recoil can be further optimized by replacing the standard stock with a more ergonomic option like the AKM/AK-74 Hera Arms CQR47 pistol grip/buttstock or the AKM/AK-74 Magpul Zhukov-S stock. However, the AKM cannot be equipped with a bipod, limiting its potential for long-range accuracy.\n"
+	},
+	"Molot Arms VPO-136 Vepr-KM 7.62x39 carbine": {
+		"weight": 2.092,
+		"ergonomics": 55,
+		"verticalRecoil": 110,
+		"horizontalRecoil": 280,
+		"effectiveDistance": 400,
+		"fireRate": 600,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x39",
+		"description": "The Molot Arms VPO-136 Vepr-KM 7.62x39 carbine is a versatile weapon with multiple customization options.  It requires a pistol grip, but you can choose from a variety of grips to enhance ergonomics. The Vepr-KM also features a gas tube and handguard slot, allowing you to equip different options for improved ergonomics and recoil reduction.  The \"AK TROY Full Length Rail handguard & gas tube combo\" significantly reduces recoil and provides a substantial boost to ergonomics.  However, the gun cannot be equipped with a foregrip, limiting its potential for close-quarters combat. Additionally, the Vepr-KM can be fitted with a variety of muzzle devices, including a thread protector for a cleaner look or a sound suppressor for stealthy play.   This carbine offers a solid balance between firepower and maneuverability. \n"
+	},
+	"Molot Arms VPO-209 .366 TKM carbine": {
+		"weight": 2.092,
+		"ergonomics": 56,
+		"verticalRecoil": 120,
+		"horizontalRecoil": 301,
+		"effectiveDistance": 300,
+		"fireRate": 600,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber366TKM",
+		"description": "The Molot Arms VPO-209 .366 TKM carbine is a unique firearm in Escape from Tarkov, chambered in the uncommon .366 TKM caliber. It can be customized with a variety of attachments, including a gas block, handguard, pistol grip, and stock. While the base weapon has limited ergonomics, it can be significantly improved through modding, with handguards like the \"AK Vezhlivyy Strelok VS-24 + VS-33c handguard & gas tube combo\" adding a significant 14 points to ergonomics. The carbine also supports the addition of a 40mm underbarrel grenade launcher, the \"GP-25 Kostyor,\" which comes with a substantial negative impact on ergonomics but can be valuable for crowd control.  The weapon also allows the attachment of a muzzle device, offering options such as the \"Rotor 43 .366 TKM muzzle brake-compensator\" for reduced recoil. It's important to note that while the carbine is capable of supporting a variety of optics, it cannot utilize any dovetail mounted sights or scopes. However, players can attach a wide range of reflex sights and even thermal optics for various engagement scenarios.  \n"
+	},
+	"Kalashnikov AKMS 7.62x39 assault rifle": {
+		"weight": 2.092,
+		"ergonomics": 47,
+		"verticalRecoil": 110,
+		"horizontalRecoil": 280,
+		"effectiveDistance": 400,
+		"fireRate": 600,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber762x39",
+		"description": "The Kalashnikov AKMS 7.62x39 assault rifle is a versatile weapon platform in Escape from Tarkov, allowing for a wide range of modifications.  The AKMS offers various handguard options, including the popular Magpul MOE AKM handguard,  which features M-LOK slots for attaching accessories.  It also supports a variety of optics, including reflex sights, holographic sights, and even thermal sights, depending on the chosen handguard.  Ergonomics can be improved by selecting handguards and pistol grips with higher ergonomics values, while recoil can be mitigated through the use of muzzle brakes and compensators.  The AKMS can be further customized with underbarrel grenade launchers, such as the GP-25 Kostyor,  but this significantly decreases ergonomics.  The AKMS is a reliable and adaptable weapon, but it cannot fire certain types of ammunition, such as 5.45x39.  Ultimately, the AKMS's effectiveness hinges on the player's ability to choose and configure attachments to optimize the weapon for their desired use case. \n"
+	},
+	"Kalashnikov AKMN 7.62x39 assault rifle": {
+		"weight": 2.152,
+		"ergonomics": 41,
+		"verticalRecoil": 109,
+		"horizontalRecoil": 277,
+		"effectiveDistance": 400,
+		"fireRate": 600,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber762x39",
+		"description": "The Kalashnikov AKMN 7.62x39 assault rifle offers a wide range of customization options, allowing players to tailor the weapon to their preferred playstyle. It can be equipped with various handguards, including the Krebs Custom UFM KeyMod and the Magpul MOE AKM, which provide M-LOK and KeyMod mounting points for additional accessories. Ergonomics can be significantly improved by choosing a modern handguard and pistol grip, such as the Krebs Custom UFM KeyMod and the AKM/AK-74 Hera Arms CQR47 pistol grip/buttstock.  Recoil can be effectively reduced by utilizing a muzzle brake, with options like the AKM 7.62x39 muzzle brake-compensator (6P1 0-14) and the AKM thread type JMac Customs RRD-4C 7.62x39 muzzle brake providing notable recoil reduction.  The AKMN can also be fitted with a GP-25 Kostyor 40mm underbarrel grenade launcher for additional firepower, although this will significantly decrease ergonomics.  While the AKMN can be modified for improved ergonomics and recoil control, it is limited in its ability to suppress sound effectively due to the lack of dedicated sound suppressors for its 7.62x39 caliber.\n"
+	},
+	"Kalashnikov AKS-74N 5.45x39 assault rifle": {
+		"weight": 2.092,
+		"ergonomics": 52,
+		"verticalRecoil": 86,
+		"horizontalRecoil": 232,
+		"effectiveDistance": 650,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber545x39",
+		"description": "The Kalashnikov AKS-74N 5.45x39 assault rifle is a versatile platform with several customization options. It can be equipped with a variety of handguards, including the Krebs Custom UFM KeyMod handguard, the Strike Industries TRAX 1 handguard, and the TDI X47 tactical handguard rail system. These handguards allow for the attachment of different scopes, tactical devices, and mounts, further enhancing the rifle's capabilities. Notably, the AKS-74N can be fitted with the GP-25 Kostyor 40mm underbarrel grenade launcher, expanding its offensive potential. However, the grenade launcher significantly reduces the weapon's ergonomics. The AKS-74N can also be modified with various muzzle devices, such as muzzle brakes and sound suppressors, to improve recoil control and noise suppression. Although the AKS-74N offers a range of customization options, it lacks the ability to mount a bipod.\n"
+	},
+	"Kalashnikov AKMSN 7.62x39 assault rifle": {
+		"weight": 2.092,
+		"ergonomics": 47,
+		"verticalRecoil": 112,
+		"horizontalRecoil": 284,
+		"effectiveDistance": 400,
+		"fireRate": 600,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber762x39",
+		"description": "The Kalashnikov AKMSN 7.62x39 assault rifle is a versatile platform with a wide range of customization options. You can enhance its ergonomics by equipping a variety of handguards, pistol grips, and stocks, with the  \"AK Vezhlivyy Strelok VS-24 + VS-33c handguard & gas tube combo\" providing the greatest increase in ergonomics (+14).  The weapon offers a significant recoil reduction potential, with various muzzle attachments available. Notably, the \"AKM thread type JMac Customs RRD-4C 7.62x39 muzzle brake\" achieves a notable recoil reduction (-0.14).  However, the AKMSN cannot be equipped with a 40mm underbarrel grenade launcher due to conflicting item restrictions. The gun can be fitted with a variety of optics, allowing for both close-range and long-range engagements.  You can mount a reflex sight directly onto the receiver for quick target acquisition, or utilize a scope mount for longer-range precision. Although a 30mm scope mount can be attached, it's worth noting that the available 30mm scopes aren't particularly well suited for the AKMSN.  Ultimately, the AKMSN's customization options offer a significant degree of control over its handling and performance, allowing players to tailor the weapon to their preferred playstyle. \n"
+	},
+	"Kalashnikov AK-74M 5.45x39 assault rifle": {
+		"weight": 2.392,
+		"ergonomics": 49,
+		"verticalRecoil": 84,
+		"horizontalRecoil": 226,
+		"effectiveDistance": 650,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber545x39",
+		"description": "The Kalashnikov AK-74M 5.45x39 assault rifle offers a range of customization options for players seeking to optimize its performance in Escape from Tarkov.  The AK-74M can be equipped with various handguards, including the Krebs Custom UFM KeyMod handguard, Strike Industries TRAX 1 handguard, and the TDI X47 tactical handguard rail system, each providing different levels of ergonomics and recoil reduction.  A foregrip can be added to any handguard featuring a KeyMod or M-LOK interface, enhancing control and stability during firing.  The AK-74M also supports a variety of optics, including reflex sights like the Aimpoint Micro T-1 and holographic sights like the EOTech EXPS3, allowing for precise target acquisition at different ranges.  A GP-25 Kostyor 40mm underbarrel grenade launcher can be mounted for additional firepower, although it significantly impacts the weapon's ergonomics.  The AK-74M can also be fitted with various muzzle devices, including muzzle brakes and sound suppressors, to minimize recoil and enhance sound suppression.  While the AK-74M provides ample opportunities for customization, it is important to note that the addition of certain attachments, particularly the grenade launcher, can drastically reduce ergonomics and potentially hinder the weapon's handling.  \n"
+	},
+	"Kalashnikov AK-101 5.56x45 assault rifle": {
+		"weight": 2.392,
+		"ergonomics": 51,
+		"verticalRecoil": 70,
+		"horizontalRecoil": 204,
+		"effectiveDistance": 650,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber556x45NATO",
+		"description": "The Kalashnikov AK-101 5.56x45 assault rifle offers a solid platform for customization, though it's limited in its ability to enhance ergonomics. The AK-101 requires a gas block, with the AK Kiba Arms VDM CS gas tube offering a slightly better ergonomic advantage. This gas tube also mandates a handguard, with the AK Krebs Custom UFM KeyMod handguard being the most ergonomic option.  The AK-101 can be equipped with a variety of scopes, including the Aimpoint Micro H-2 reflex sight, the EOTech 553 holographic sight, and the Trijicon SRS-02 reflex sight.  A tactical device, like the L3Harris LA-5B/PEQ tactical device, can be attached to the handguard for added functionality.  The AK-101 also allows for the use of a foregrip, with the Zenit RK-1 tactical foregrip on a B-25U mount offering the most ergonomic benefits. However, it's important to note that the AK-101 cannot be fitted with an underbarrel grenade launcher.  Despite its limitations, the AK-101 can be a versatile and reliable weapon with the right modifications, providing a balance of ergonomics and recoil reduction. \n"
+	},
+	"Kalashnikov AK-102 5.56x45 assault rifle": {
+		"weight": 1.992,
+		"ergonomics": 54,
+		"verticalRecoil": 76,
+		"horizontalRecoil": 215,
+		"effectiveDistance": 650,
+		"fireRate": 600,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber556x45NATO",
+		"description": "The Kalashnikov AK-102 5.56x45 assault rifle offers a range of customization options for players seeking to enhance its performance in Escape from Tarkov.  The AK-102 allows for the attachment of a variety of foregrips, scopes, and tactical devices, including lasers and flashlights.  The weapon can be further modified with a handguard of your choice, offering options for both aesthetics and functionality.  While the AK-102 supports the use of muzzle brakes and compensators, it lacks the ability to utilize sound suppressors.  Ergonomics can be moderately increased through the use of certain handguards, pistol grips, and charging handles.  The weapon's recoil can be significantly reduced by attaching a muzzle brake, with the AK-74 thread type JMac Customs RRD-4C muzzle brake offering the most notable recoil reduction.  Ultimately, the AK-102 is a versatile platform that can be tailored to suit individual player preferences and combat styles. \n"
+	},
+	"Kalashnikov AK-103 7.62x39 assault rifle": {
+		"weight": 2.392,
+		"ergonomics": 51,
+		"verticalRecoil": 96,
+		"horizontalRecoil": 264,
+		"effectiveDistance": 650,
+		"fireRate": 600,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber762x39",
+		"description": "The Kalashnikov AK-103 7.62x39 assault rifle is a versatile platform with various customization options. It allows for a gas block, handguard, pistol grip, and stock to be modified. The AK-103 can be fitted with a variety of optics, including reflex sights, holographic sights, and even thermal scopes. It also supports the addition of a 40mm underbarrel grenade launcher, enhancing its versatility.  While the AK-103 lacks a dedicated side mount for optics, it can be fitted with a side mount adapter for greater modularity.  Ergonomics can be increased by modding the handguard and pistol grip, and the weapon's recoil can be significantly reduced by attaching a muzzle brake or sound suppressor.  Note that equipping a grenade launcher will drastically decrease ergonomics while adding a substantial recoil reduction. \n"
+	},
+	"Kalashnikov AK-104 7.62x39 assault rifle": {
+		"weight": 1.992,
+		"ergonomics": 54,
+		"verticalRecoil": 101,
+		"horizontalRecoil": 277,
+		"effectiveDistance": 650,
+		"fireRate": 600,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber762x39",
+		"description": "The Kalashnikov AK-104 7.62x39 assault rifle is a versatile platform offering a range of customization options.  You can choose from a variety of handguards, foregrips, and scopes, including the AK 5.45 Design Aggressor handguard, Magpul MOE AKM handguard, and  Zenit B-10 Handguard.  The AK-104 can be fitted with a muzzle brake or sound suppressor, such as the AK Zenit DTK-1 muzzle brake-compensator or the AKM PBS-1 sound suppressor.  Ergonomics can be significantly improved by selecting an ergonomic pistol grip, like the AK Aeroknox Scorpius pistol grip or the AK Magpul MOE pistol grip (Black).  The AK-104's recoil can be reduced by utilizing a muzzle brake or compensator.  However, the AK-104 does not have any special capabilities or characteristics.  While it offers a good degree of customization, the AK-104 is limited in its ability to achieve extremely high ergonomics or significantly reduce recoil. \n"
+	},
+	"Kalashnikov AK-105 5.45x39 assault rifle": {
+		"weight": 1.992,
+		"ergonomics": 54,
+		"verticalRecoil": 86,
+		"horizontalRecoil": 267,
+		"effectiveDistance": 650,
+		"fireRate": 600,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber545x39",
+		"description": "The Kalashnikov AK-105 5.45x39 assault rifle is a versatile weapon platform within Escape from Tarkov. It can be customized with a variety of handguards, including the AK 5.45 Design Aggressor handguard and the AK CAA RS47 handguard, each offering unique mounting options for optics and tactical accessories. The AK-105 can be equipped with a range of foregrips, providing improved control and stability during firefights. The weapon supports a variety of optics, from reflex sights like the Axion Kobra EKP-8-18 and EOTech XPS3-0 to scopes like the SIG Sauer BRAVO4 4x30. Ergonomics can be improved through modifications, such as the AK Aeroknox Scorpius pistol grip, but substantial improvements are limited by the weapon's default design.  The AK-105 also allows for the attachment of a muzzle brake or suppressor, enhancing recoil reduction and sound suppression. Despite its customizability, the AK-105 cannot utilize underbarrel grenade launchers (UBGLs) due to its design limitations.  Overall, the AK-105 is a strong firearm in Escape from Tarkov, offering a balance of customizability and effectiveness. \n"
+	},
+	"DS Arms SA-58 7.62x51 assault rifle": {
+		"weight": 1.46,
+		"ergonomics": 55,
+		"verticalRecoil": 134,
+		"horizontalRecoil": 292,
+		"effectiveDistance": 900,
+		"fireRate": 700,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber762x51",
+		"description": "The DS Arms SA-58 7.62x51 assault rifle is a versatile weapon platform in Escape from Tarkov. It offers a variety of customization options, allowing players to tailor the gun to their specific needs. The SA-58 can be equipped with different handguards, including KeyMod and M-LOK versions, providing ample space for mounting accessories. The handguards can accommodate various tactical devices like flashlights, lasers, and IR illuminators. A wide range of scopes and optics, including reflex sights, holographic sights, and even thermal scopes, can be mounted on the SA-58, enhancing its accuracy and target acquisition capabilities.  The SA-58 is also compatible with a variety of stocks and buffer tubes, allowing for customization of the gun's length and ergonomics. Players can further improve the weapon's ergonomics with different pistol grips, significantly enhancing the overall handling and comfort.  The SA-58, however, cannot be equipped with a standard carrying handle due to the design of its receiver. \n"
+	},
+	"HK 416A5 5.56x45 assault rifle": {
+		"weight": 0.52,
+		"ergonomics": 55,
+		"verticalRecoil": 85,
+		"horizontalRecoil": 243,
+		"effectiveDistance": 500,
+		"fireRate": 850,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber556x45NATO",
+		"description": "The HK 416A5 5.56x45 assault rifle is a versatile weapon with a wide array of customization options. It can be configured with a variety of barrels ranging from 10.6 to 20 inches in length, allowing for different ranges and handling characteristics. The handguard can be swapped for KeyMod or M-LOK rails, enabling attachment of various tactical accessories.  \n\nThe rifle supports both traditional and modern sights, including red dots, holographic sights, and even thermal scopes. It allows for the use of a bipod for increased stability during long-range engagements. The stock can be customized with a wide selection of options, including collapsible and adjustable stocks for optimal ergonomics and cheek weld.\n\nThe HK 416A5 5.56x45 is capable of significant recoil reduction through the use of muzzle brakes and compensators. However, it is important to note that the rifle lacks the ability to mount a traditional carry handle.  \n"
+	},
+	"Kalashnikov AK-74 5.45x39 assault rifle": {
+		"weight": 1.992,
+		"ergonomics": 43,
+		"verticalRecoil": 85,
+		"horizontalRecoil": 229,
+		"effectiveDistance": 650,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber545x39",
+		"description": "The Kalashnikov AK-74 5.45x39 assault rifle is a versatile platform offering customization options for various playstyles. It can be fitted with a variety of handguards, including KeyMod and M-LOK rails, providing ample space for mounting accessories. The AK-74 can accommodate underbarrel grenade launchers, specifically the GP-25 Kostyor, for additional offensive capabilities. Ergonomics can be significantly improved through various grip and stock options, increasing handling and control.  While the AK-74 can be fitted with a range of optics, including reflex, holographic, and even thermal sights, its rear sight can only be swapped for a rail attachment or a rear sight device.  Several muzzle brake and sound suppressor options are available, offering recoil reduction and sound dampening.  While the AK-74 is capable of accepting various magazines, including drum magazines, its high capacity options are limited to 45 and 60 round magazines. \n"
+	},
+	"Kalashnikov AKS-74 5.45x39 assault rifle": {
+		"weight": 1.992,
+		"ergonomics": 51,
+		"verticalRecoil": 86,
+		"horizontalRecoil": 232,
+		"effectiveDistance": 650,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber545x39",
+		"description": "The Kalashnikov AKS-74 5.45x39 assault rifle is a versatile weapon platform with a variety of customization options. The gun can be fitted with a gas block, handguard, scope, tactical device, and mount. Players can significantly improve ergonomics by choosing specific handguards and pistol grips, while also reducing recoil through various muzzle attachments.  The AKS-74 can be equipped with a 40mm underbarrel grenade launcher, providing additional offensive capability.  However, the grenade launcher significantly reduces ergonomics and introduces conflicting attachment limitations.  The AKS-74 does not have any inherent ability to use night vision optics, but players can mount them through compatible adapters.  Overall, the AKS-74 is a powerful weapon with a wide range of customization possibilities that cater to various playstyles. \n"
+	},
+	"ADAR 2-15 5.56x45 carbine": {
+		"weight": 0.4,
+		"ergonomics": 60,
+		"verticalRecoil": 84,
+		"horizontalRecoil": 241,
+		"effectiveDistance": 500,
+		"fireRate": 800,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber556x45NATO",
+		"description": "The ADAR 2-15 5.56x45 carbine is a versatile weapon in Escape from Tarkov, offering a good balance of customization and performance. It allows for a wide range of handguards, barrels, and stocks, each impacting the gun's ergonomics and recoil. You can significantly improve its ergonomics through various grip and stock attachments, achieving a maximum score of 20 with the Hera Arms CQR pistol grip/buttstock.  Adding a suppressor, such as the AAC 762-SDN-6, will reduce its recoil and enhance stealth. The ADAR 2-15 can accommodate a variety of optics, including scopes and reflex sights, allowing for precise aiming at different ranges. The carbine can also be fitted with a 40mm underbarrel grenade launcher, expanding its tactical capabilities. While the ADAR 2-15 offers a good range of customization, it's important to note that it lacks the ability to fire larger calibers, limiting its effectiveness against heavily armored targets. \n"
+	},
+	"Desert Tech MDR 5.56x45 assault rifle": {
+		"weight": 2.8,
+		"ergonomics": 75,
+		"verticalRecoil": 62,
+		"horizontalRecoil": 203,
+		"effectiveDistance": 500,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber556x45NATO",
+		"description": "The Desert Tech MDR 5.56x45 assault rifle offers players a flexible platform for customizing their combat experience. It can be outfitted with a variety of attachments, including different handguards, barrels, scopes, and magazines. The MDR handguard can be outfitted with M-LOK rails and tactical devices for mounting lights, lasers, and other accessories. The 16-inch barrel is compatible with a selection of muzzle devices, including flash hiders, muzzle brakes, and sound suppressors. While the MDR is capable of accepting a variety of optics, the lack of a built-in rail for mounting scopes limits its flexibility compared to other rifles. The MDR can be equipped with magazines ranging from 10 to 100 rounds, impacting both ergonomics and maneuverability. Players can tailor the MDR to suit their preferred playstyle, but its lack of a standard Picatinny rail might require the use of adapters for some optics. \n"
+	},
+	"ASh-12 12.7x55 assault rifle": {
+		"weight": 5.1,
+		"ergonomics": 59,
+		"verticalRecoil": 106,
+		"horizontalRecoil": 353,
+		"effectiveDistance": 650,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber127x55",
+		"description": "The ASh-12 12.7x55 assault rifle is a powerful weapon in Escape from Tarkov, capable of delivering devastating damage at close range. It can be equipped with either a 10 or 20-round magazine, allowing players to choose between increased capacity and lighter weight. Players can further customize the ASh-12 by attaching a muzzle brake-compensator or sound suppressor, offering a trade-off between recoil reduction and sound suppression. The weapon can be fitted with a variety of foregrips, including the Stark SE-5 Express Forward foregrip, which provides excellent ergonomics. Although the ASh-12 lacks an integrated rear sight, it can be equipped with a rear sight carry handle, offering a choice of optics compatibility. Players can choose from a variety of scopes, including the ELCAN SpecterDR 1x/4x scope, to enhance accuracy at longer ranges. The ASh-12, however, cannot be equipped with any underbarrel grenade launchers, limiting its versatility in combat. \n"
+	},
+	"Lone Star TX-15 DML 5.56x45 carbine": {
+		"weight": 0.31,
+		"ergonomics": 34,
+		"verticalRecoil": 56,
+		"horizontalRecoil": 161,
+		"effectiveDistance": 500,
+		"fireRate": 800,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber556x45NATO",
+		"description": "The Lone Star TX-15 DML 5.56x45 carbine is a versatile platform with a variety of customization options. It can be fitted with a variety of handguards, stocks, and optics.  The gun can be equipped with a 40mm underbarrel grenade launcher for added firepower. It has several options for barrels, allowing players to fine-tune its range and performance. The carbine can be fitted with a suppressor for stealthy engagements. Players can increase ergonomics through the choice of stock and pistol grip, which can improve recoil control.  The TX-15 DML is a reliable weapon for both close-quarters and long-range combat, but it cannot be used for any other purpose. \n"
+	},
+	"Desert Tech MDR 7.62x51 assault rifle": {
+		"weight": 2.95,
+		"ergonomics": 75,
+		"verticalRecoil": 110,
+		"horizontalRecoil": 289,
+		"effectiveDistance": 500,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber762x51",
+		"description": "The Desert Tech MDR 7.62x51 assault rifle can be customized with a variety of attachments, including different handguards, barrels, and optics.  The handguards offer a good ergonomic boost, while the barrel can be equipped with a variety of muzzle devices to reduce recoil and improve accuracy.  The MDR can accept a wide range of optics, from reflex sights and holographic sights to thermal scopes, allowing for versatility in different combat scenarios.  However, the weapon's default ergonomics are relatively low, and its magazine capacity is limited to 10 rounds with the standard magazine.  The weapon cannot be fitted with a carry handle, which is a common feature on many other assault rifles in the game.  Players can choose from different magazines, with the 25-round Lancer magazine providing the highest capacity but at the cost of reduced ergonomics.  Despite its limitations, the MDR offers a unique balance of customization and performance, making it a viable option for players who prefer a more specialized weapon. \n"
+	},
+	"SIG MCX .300 Blackout assault rifle": {
+		"weight": 0.4,
+		"ergonomics": 63,
+		"verticalRecoil": 81,
+		"horizontalRecoil": 225,
+		"effectiveDistance": 500,
+		"fireRate": 800,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber762x35",
+		"description": "The SIG MCX .300 Blackout assault rifle is a versatile weapon with various customization options.  You can choose from a selection of handguards, stocks, barrels, and optics to tailor it to your playstyle.  The MCX boasts a KeyMod handguard system, allowing you to attach various rails and accessories.  You have the option of equipping it with a folding or telescoping stock, offering compact storage and a personalized feel.  The MCX accepts a variety of magazines, with the highest capacity being 100 rounds.  While the base weapon offers decent ergonomics, this can be further boosted by installing specific grips and stocks.  However, due to the nature of the .300 BLK cartridge, the MCX is limited in its effective range compared to other assault rifles.  Overall, the SIG MCX .300 Blackout assault rifle is a capable firearm, allowing for a high degree of customization and adaptability for various combat scenarios. \n"
+	},
+	"CMMG Mk47 Mutant 7.62x39 assault rifle": {
+		"weight": 0.51,
+		"ergonomics": 62.5,
+		"verticalRecoil": 103,
+		"horizontalRecoil": 256,
+		"effectiveDistance": 500,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber762x39",
+		"description": "The CMMG Mk47 Mutant is a 7.62x39 assault rifle offering a moderate level of customization. It allows for the attachment of a variety of handguards, barrels, stocks, pistol grips, and magazines. Ergonomics can be significantly increased by using a skeletonized pistol grip, a handguard like the R11 RSASS, and a PDW stock.  The Mk47 Mutant can be equipped with a variety of optics, including scopes and reflex sights, providing flexibility for different combat scenarios.  However, it is important to note that the gun cannot accommodate thermal scopes. While the Mk47 Mutant's base recoil is already manageable, adding a muzzle brake like the AR-10 Fortis RED Brake can further reduce recoil.   The gun's ability to accept different magazines allows players to choose between various capacity options, with a maximum capacity of 75 rounds. \n"
+	},
+	"FN SCAR-H 7.62x51 assault rifle (FDE)": {
+		"weight": 0.85,
+		"ergonomics": 45.5,
+		"verticalRecoil": 105,
+		"horizontalRecoil": 263,
+		"effectiveDistance": 500,
+		"fireRate": 600,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber762x51",
+		"description": "The FN SCAR-H 7.62x51 assault rifle (FDE) is a versatile weapon with multiple customization options.  You can equip it with a variety of pistol grips, ranging in ergonomics from 5 to 15, offering a good degree of control over the weapon.  It has three barrel length options: 13, 16, and 20 inches, each offering different ergonomics and recoil modifiers.  The 13 inch barrel offers the best maneuverability, while the 20 inch barrel provides greater accuracy and range. The SCAR-H can be fitted with a variety of scopes and optics, including red dots, holographic sights, and thermal scopes.  The rifle can also be outfitted with tactical devices like lasers and flashlights, further enhancing its capabilities in close-quarters combat and low-light conditions.  However, the SCAR-H cannot be equipped with a foregrip.  Despite its limitations, the FN SCAR-H 7.62x51 assault rifle (FDE) remains a powerful and customizable weapon with a wide range of applications.\n"
+	},
+	"FN SCAR-H 7.62x51 assault rifle": {
+		"weight": 0.85,
+		"ergonomics": 36,
+		"verticalRecoil": 99,
+		"horizontalRecoil": 246,
+		"effectiveDistance": 500,
+		"fireRate": 600,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber762x51",
+		"description": "The FN SCAR-H 7.62x51 assault rifle in Escape from Tarkov can be customized with a variety of attachments, including different pistol grips, barrels, sights, and stocks. The gun's ergonomics can be significantly improved by choosing a pistol grip with a high ergonomics value, such as the AR-15 Naroh Arms GRAL-S pistol grip. The SCAR-H can also be equipped with a variety of optics, including scopes, red dot sights, and holographic sights.  While the gun can be fitted with a sound suppressor, the game mechanics do not reflect real-world physics, so the SCAR-H's sound suppression is not as effective in the game as it would be in real life. The SCAR-H's recoil can be reduced by choosing a barrel with a negative recoil modifier, such as the FN SCAR-H 7.62x51 upper receiver.  The SCAR-H has limited magazine options, currently only allowing for 20-round magazines.  The SCAR-H can also be equipped with a variety of tactical devices, such as flashlights and lasers, which can enhance the gun's overall functionality. \n"
+	},
+	"FN SCAR-L 5.56x45 assault rifle": {
+		"weight": 0.7,
+		"ergonomics": 41,
+		"verticalRecoil": 66,
+		"horizontalRecoil": 206,
+		"effectiveDistance": 500,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber556x45NATO",
+		"description": "The FN SCAR-L 5.56x45 assault rifle is a versatile weapon platform with a wide range of customization options.  It can be equipped with various barrels, ranging from a compact 10-inch to a standard 18-inch barrel.  The SCAR-L accepts STANAG magazines, allowing for a variety of capacity choices from 10 to 100 rounds.  The SCAR-L offers flexibility with both flip-up and folding sights, including options for both front and rear sights.  Additionally, the SCAR-L can be equipped with a variety of tactical devices, including flashlights, lasers, and thermal optics.  The SCAR-L can be modded to improve its ergonomics, with several pistol grip options that can boost its ergonomics significantly.  The SCAR-L's recoil can be reduced through various muzzle devices, including flash hiders and muzzle brakes.  Despite its customization potential, the SCAR-L lacks the ability to mount scopes directly to the upper receiver, requiring the use of mounts for compatibility. \n"
+	},
+	"FN SCAR-L 5.56x45 assault rifle (FDE)": {
+		"weight": 0.7,
+		"ergonomics": 47.5,
+		"verticalRecoil": 68,
+		"horizontalRecoil": 212,
+		"effectiveDistance": 500,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber556x45NATO",
+		"description": "The FN SCAR-L 5.56x45 assault rifle (FDE) is a versatile weapon with several customization options.  It can be fitted with a variety of sights, including holographic, reflex, and thermal, and can be equipped with various mounts to accommodate these optics. The rifle also offers multiple barrel choices, ranging from 10 to 18 inches in length, allowing for customization based on preferred engagement range.  The SCAR-L supports various muzzle devices, including flash hiders, compensators, and suppressors, providing players with options to manage recoil, conceal their position, and reduce the sound signature.  While the weapon can be fitted with various magazines, ranging from 10-round to 100-round capacity, the ergonomics are negatively impacted by larger magazines.  The SCAR-L can be further customized with different stocks, charging handles, and pistol grips, offering a degree of control over ergonomics and recoil. Notably, the SCAR-L cannot be equipped with a carrying handle, limiting its compatibility with some optics. \n"
+	},
+	"HK G36 5.56x45 assault rifle": {
+		"weight": 0.8,
+		"ergonomics": 49.5,
+		"verticalRecoil": 70,
+		"horizontalRecoil": 196,
+		"effectiveDistance": 500,
+		"fireRate": 750,
+		"fireModes": [
+			"Single fire",
+			"Burst fire",
+			"Full auto"
+		],
+		"caliber": "Caliber556x45NATO",
+		"description": "The HK G36 5.56x45 assault rifle in Escape from Tarkov offers a good balance of ergonomics and recoil control. It can be significantly enhanced by fitting a polymer stock, which increases ergonomics and reduces recoil.  Various handguard options allow for customization, with the 4-vent handguard providing the highest ergonomics and the 6-vent handguard offering a bipod attachment point.  The G36 can utilize both STANAG and HK magazines, though it's limited by the STANAG magwell's incompatibility with the HK G36 5.56x45 30-round magazine. The G36 can be outfitted with a variety of optics, including red dots, scopes, and thermal sights. The G36 features a carry handle slot for mounting a Hensoldt scope with a top rail for additional optic attachments.  It's important to note that the G36 cannot be equipped with a muzzle device and a suppressor simultaneously, limiting its potential for sound suppression. \n"
+	},
+	"Rifle Dynamics RD-704 7.62x39 assault rifle": {
+		"weight": 2.1,
+		"ergonomics": 65.5,
+		"verticalRecoil": 104,
+		"horizontalRecoil": 241,
+		"effectiveDistance": 650,
+		"fireRate": 600,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber762x39",
+		"description": "The Rifle Dynamics RD-704 7.62x39 assault rifle features a unique railed gas block and gas tube combo, allowing for various tactical and mounting options. You can customize its ergonomics by equipping a foregrip, with the Magpul M-LOK AFG series providing a significant boost. The RD-704 offers a wide array of muzzle attachments, including compensators and flash hiders, which can reduce recoil. Notably, it also supports various sound suppressors, like the AAC 762-SDN-6 and SIG Sauer SRD762Ti, further enhancing its stealth capabilities. The RD-704 is compatible with a variety of AK-style stocks and pistol grips, including the Hera Arms CQR47 and Magpul Zhukov-S, providing both ergonomic and cosmetic options.  While the RD-704 has several mounting options, it lacks a standard Picatinny rail on the dust cover, limiting its compatibility with some popular optics. Despite its versatility, the RD-704 is not designed for high-magnification scope setups, as it only supports certain dovetail mounts. \n"
+	},
+	"SAG AK-545 5.45x39 carbine": {
+		"weight": 2.392,
+		"ergonomics": 76,
+		"verticalRecoil": 64,
+		"horizontalRecoil": 184,
+		"effectiveDistance": 650,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber545x39",
+		"description": "The SAG AK-545 5.45x39 carbine is a versatile weapon that can be customized to suit various combat situations.  It features a railed dust cover, allowing for the mounting of optics and other accessories. Its handguard is the AK-545 SAG Mk.3, offering a significant ergonomics boost and a recoil reduction.  The gun accepts a variety of foregrips, including vertical and angled options, enhancing control and stability. You can add tactical devices, such as lasers and flashlights, to the handguard for increased situational awareness. The carbine can be equipped with a variety of sights, including reflex sights, holographic sights, and even thermal optics. While the carbine lacks a standard rear sight, it can be fitted with an AK-545 SAG rear sight, providing a basic aiming solution. It also accepts various stocks, offering customization for comfort and recoil reduction. Remember that the SAG AK-545 5.45x39 carbine cannot be fitted with a standard AK-74 stock, limiting the available stock options. \n"
+	},
+	"SAG AK-545 Short 5.45x39 carbine": {
+		"weight": 2.192,
+		"ergonomics": 77,
+		"verticalRecoil": 61,
+		"horizontalRecoil": 178,
+		"effectiveDistance": 650,
+		"fireRate": 650,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber545x39",
+		"description": "The SAG AK-545 Short 5.45x39 carbine offers a variety of customization options, allowing players to tailor it to their preferred playstyle.  It's mandatory to equip a gas block, with the AK-545 SAG Mk. 2.1 gas tube being the only available option. This choice is followed by the AK-545 SAG Mk. 3 handguard, providing a solid foundation for further attachments.  The handguard allows for optional foregrips and mounts, enabling the addition of various tactical accessories.  For increased ergonomics, consider adding a pistol grip such as the AK Aeroknox Scorpius or the AK Custom Arms AGS-74 PRO + Sniper Kit pistol grip. The carbine features a dedicated buffer tube for mounting stocks, allowing for various stock choices to optimize maneuverability and recoil control.  While the SAG AK-545 Short can be equipped with a variety of optics, including thermal scopes, it lacks the ability to mount a suppressor directly, limiting its stealth capabilities. Despite this limitation, the carbine provides a solid platform for building a versatile and effective weapon for both close and medium-range engagements. \n"
+	},
+	"Steyr AUG A1 5.56x45 assault rifle": {
+		"weight": 1.49,
+		"ergonomics": 66,
+		"verticalRecoil": 77,
+		"horizontalRecoil": 230,
+		"effectiveDistance": 500,
+		"fireRate": 715,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber556x45NATO",
+		"description": "The Steyr AUG A1 5.56x45 assault rifle is a versatile weapon with a range of modding options. You can choose between a 20-inch or 16-inch barrel, with the 20-inch barrel offering better range but less maneuverability. The AUG A1 allows for the attachment of various muzzle devices, including flash hiders and sound suppressors, which can significantly reduce recoil and muzzle flash. You can also add a vertical foregrip to improve handling and control. While the AUG A1 can be equipped with optics, its scope options are limited, with only a 1.5x optic sight and an M1 mount being directly available.  The AUG A1 is primarily designed for short-to-medium-range engagements, with its 16-inch barrel providing sufficient accuracy for most situations. However, its maximum effective range is still considerable due to its powerful 5.56x45 caliber.  Remember that the AUG A1's ergonomics can be improved through the addition of attachments, but it's important to balance this with the desired recoil reduction.  Overall, the AUG A1 is a reliable and effective weapon in Escape from Tarkov, providing players with a solid base for building a customized and capable combat loadout. \n"
+	},
+	"Steyr AUG A3 5.56x45 assault rifle": {
+		"weight": 1.51,
+		"ergonomics": 72,
+		"verticalRecoil": 74,
+		"horizontalRecoil": 214,
+		"effectiveDistance": 500,
+		"fireRate": 715,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber556x45NATO",
+		"description": "The Steyr AUG A3 5.56x45 assault rifle offers a variety of customization options, allowing players to tailor it to their specific needs. The gun can be equipped with various magazines, ranging from a compact 10-round magazine to a larger 42-round magazine, impacting ergonomics and overall capacity. It can be paired with either an A1 or A3 charging handle, providing a slight boost to ergonomics. Players have the choice of two barrel lengths, 16 and 20 inches, each offering different performance characteristics and muzzle attachment options. A vertical foregrip can be added for improved control, and a wide array of muzzle devices are available, including flash hiders, muzzle brakes, and sound suppressors. While the AUG A3 lacks a traditional rail system for mounting optics, it offers dedicated mounts for optics, including a 1.5x optic sight and a high or low sight mount compatible with various scopes and reflex sights.  The AUG A3  cannot be equipped with traditional Picatinny rails for attaching accessories. \n"
+	},
+	"Kalashnikov AK-12 5.45x39 assault rifle": {
+		"weight": 2.392,
+		"ergonomics": 57,
+		"verticalRecoil": 68,
+		"horizontalRecoil": 205,
+		"effectiveDistance": 800,
+		"fireRate": 700,
+		"fireModes": [
+			"Single fire",
+			"Full auto",
+			"Burst fire"
+		],
+		"caliber": "Caliber545x39",
+		"description": "The Kalashnikov AK-12 5.45x39 assault rifle offers a solid foundation for customization. Its ergonomics can be significantly improved with the addition of an AK Aeroknox Scorpius pistol grip, granting a +12 bonus. The AK-12 handguard provides a base ergonomics score of +8, allowing for the attachment of various tactical equipment.  You can equip a muzzle brake or a sound suppressor, with the sound suppressor offering a greater recoil reduction at the cost of a lower ergonomics score.   The AK-12 boasts a variety of stock options, providing customization for personal preference. While underbarrel grenade launchers can be fitted, they significantly impact ergonomics.  The AK-12 can accommodate a variety of magazines, including the 60-round 6L31 magazine, which provides a large capacity at the cost of ergonomics. However, the AK-12 does not support a side rail for attaching additional accessories. \n"
+	},
+	"SIG MCX SPEAR 6.8x51 assault rifle": {
+		"weight": 0.4,
+		"ergonomics": 33,
+		"verticalRecoil": 65,
+		"horizontalRecoil": 186,
+		"effectiveDistance": 500,
+		"fireRate": 800,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber68x51",
+		"description": "The SIG MCX SPEAR 6.8x51 assault rifle is a versatile weapon in Escape from Tarkov. It offers a range of customization options, including a choice of pistol grips, magazines, and scopes. The MCX SPEAR features a 6.8x51 upper receiver, which contributes to its overall ergonomics. The rifle can be fitted with a variety of tactical devices, including flashlights, lasers, and IR illuminators. While the weapon has several customization options, it lacks a traditional stock, requiring the use of adapters and buffer tubes to accommodate stocks. Its overall ergonomics can be significantly enhanced by modding, particularly through the use of high-ergonomics pistol grips and stocks. The MCX SPEAR is capable of utilizing various sound suppressors, further enhancing its stealth capabilities. The weapon's recoil can be reduced through the use of a sound suppressor and the adjustable gas piston, improving its accuracy and control. \n"
+	}
+}

@@ -1,0 +1,86 @@
+{
+    "Tree Structure": {
+        "Magazine": {
+            "Required": false,
+            "Allowed Items": {
+                "APS 9x18PM 20-round magazine": {}
+            }
+        },
+        "Stock": {
+            "Required": false,
+            "Allowed Items": {
+                "APB detachable wire stock": {}
+            }
+        },
+        "Pistol Grip": {
+            "Required": true,
+            "Allowed Items": {
+                "APS bakelite side-pieces": {}
+            }
+        },
+        "Front Sight": {
+            "Required": false,
+            "Allowed Items": {
+                "APS front sight": {}
+            }
+        },
+        "Rear Sight": {
+            "Required": false,
+            "Allowed Items": {
+                "APB rear sight": {},
+                "APS rear sight": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "APS 9x18PM 20-round magazine": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "capacity": 20,
+            "conflictingItems": []
+        },
+        "APB detachable wire stock": {
+            "ergonomics": 0,
+            "recoilModifier": -0.27,
+            "conflictingItems": []
+        },
+        "APS bakelite side-pieces": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "APS front sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "APB rear sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "APS rear sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Stechkin APS 9x18PM machine pistol": {
+            "conflictingItems": []
+        }
+    }
+}

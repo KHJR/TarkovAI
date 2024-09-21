@@ -1,0 +1,21 @@
+{
+    "Tree Structure": {
+        "Magazine": {
+            "Required": true,
+            "Allowed Items": {
+                "Toy gun 20x1mm 20-round magazine": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "Toy gun 20x1mm 20-round magazine": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "capacity": 20,
+            "conflictingItems": []
+        },
+        "20x1mm toy gun": {
+            "conflictingItems": []
+        }
+    }
+}

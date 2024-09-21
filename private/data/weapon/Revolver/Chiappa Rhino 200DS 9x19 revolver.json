@@ -1,0 +1,80 @@
+{
+    "Tree Structure": {
+        "Magazine": {
+            "Required": true,
+            "Allowed Items": {
+                "Chiappa Rhino 9x19 6-round cylinder": {
+                    "Chamber": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "9x19mm PBP gzh": {},
+                            "9x19mm Green Tracer": {},
+                            "9x19mm PSO gzh": {},
+                            "9x19mm Pst gzh": {},
+                            "9x19mm AP 6.3": {},
+                            "9x19mm Luger CCI": {},
+                            "9x19mm QuakeMaker": {},
+                            "9x19mm RIP": {},
+                            "9x19mm FMJ M882": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Front Sight": {
+            "Required": false,
+            "Allowed Items": {
+                "Chiappa Rhino Red Fiber Optic front sight": {},
+                "Chiappa Rhino front sight": {}
+            }
+        },
+        "Pistol Grip": {
+            "Required": true,
+            "Allowed Items": {
+                "Chiappa Rhino plastic pistol grip": {},
+                "Chiappa Rhino wooden pistol grip": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "Chiappa Rhino 9x19 6-round cylinder": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "capacity": 6,
+            "conflictingItems": []
+        },
+        "Chiappa Rhino Red Fiber Optic front sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Chiappa Rhino front sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Chiappa Rhino plastic pistol grip": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Chiappa Rhino wooden pistol grip": {
+            "ergonomics": 3,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Chiappa Rhino 200DS 9x19 revolver": {
+            "conflictingItems": []
+        }
+    }
+}

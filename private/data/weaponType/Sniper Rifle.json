@@ -1,0 +1,106 @@
+{
+	"SV-98 7.62x54R bolt-action sniper rifle": {
+		"weight": 1.5,
+		"ergonomics": 26,
+		"verticalRecoil": 188,
+		"horizontalRecoil": 533,
+		"effectiveDistance": 1000,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x54R",
+		"description": "The SV-98 is a bolt-action sniper rifle that can be heavily customized with various attachments. It's known for its high damage output and long range capabilities. Players can choose between a wooden stock or a CNC Guns OV-SV98 chassis for enhanced ergonomics and recoil reduction. The chassis offers the option of a KeyMod handguard for mounting various accessories like tactical lights and lasers. The SV-98 can be further enhanced with a muzzle brake-compensator or sound suppressor for reduced recoil and noise suppression.  While the SV-98 is a powerful sniper rifle, it does come with some limitations.  The base SV-98 has a very low ergonomics rating, impacting handling and accuracy. The weapon lacks any integrated optics, requiring players to equip a scope for effective targeting. \n"
+	},
+	"Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle": {
+		"weight": 1.12,
+		"ergonomics": 52,
+		"verticalRecoil": 69,
+		"horizontalRecoil": 363,
+		"effectiveDistance": 1000,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x51",
+		"description": "The Lobaev Arms DVL-10 7.62x51 bolt-action sniper rifle can be modified with a variety of attachments, including a scope, a barrel, a magazine, and a stock.  The DVL-10 can be fitted with a variety of optics, including the ELCAN SpecterDR 1x/4x scope and the Leupold Mark 4 HAMR 4x24 DeltaPoint hybrid assault scope. The DVL-10 has two barrel options, the DVL-10 7.62x51 500mm barrel, or the DVL-10 M2 7.62x51 660mm barrel.  These barrels allow for different muzzle devices, and the longer barrel offers more accuracy and recoil reduction. The DVL-10 is compatible with the DVL-10 7.62x51 10-round magazine, providing a decent amount of ammunition for a sniper rifle. The DVL-10 can benefit from a stock, specifically the DVL-10 Lobaev Arms stock.  This stock can improve ergonomics and recoil, making it easier to control and shoot the rifle. The DVL-10 can also be fitted with a bipod, such as the Harris HBR Bipod, for stability and precision. However, the DVL-10 lacks the ability to utilize any kind of handguard, limiting its tactical functionality. \n"
+	},
+	"Mosin 7.62x54R bolt-action rifle (Sniper)": {
+		"weight": 0.8,
+		"ergonomics": 13,
+		"verticalRecoil": 202,
+		"horizontalRecoil": 614,
+		"effectiveDistance": 1000,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x54R",
+		"description": "The Mosin 7.62x54R bolt-action rifle (Sniper) is a powerful weapon capable of significant customization. It requires a stock, with options like the ProMag Archangel OPFOR PRS chassis offering the highest ergonomics (40) and recoil reduction (-0.27).  The barrel is also mandatory, with the 730mm regular barrel providing the most versatility in terms of sight attachments. The rifle supports various muzzle devices, including muzzle brakes and sound suppressors, with the Mosin Rifle Bramit suppressor offering the best recoil reduction (-0.07) at the cost of ergonomics (-20).  It can be equipped with optics like the ELCAN SpecterDR 1x/4x scope, granting both close-range and long-range capabilities.  However, the Mosin Sniper can only accept magazines with a maximum capacity of 10 rounds due to its stock limitations. While a bipod can be attached, its impact on the weapon's performance is minimal. \n"
+	},
+	"Mosin 7.62x54R bolt-action rifle (Infantry)": {
+		"weight": 0.76,
+		"ergonomics": 12,
+		"verticalRecoil": 202,
+		"horizontalRecoil": 614,
+		"effectiveDistance": 1000,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x54R",
+		"description": "The Mosin 7.62x54R bolt-action rifle (Infantry) is a versatile weapon that can be customized for a variety of combat scenarios. The rifle requires a stock, with options ranging from the standard stock to the ProMag Archangel OPFOR PRS chassis, which provides the greatest ergonomics boost.  The rifle can be fitted with various barrels, including the Carbine 7.62x54R 514mm barrel, which offers a recoil reduction, or the sawed-off 220mm threaded barrel, allowing for the attachment of a suppressor. It can accommodate up to 10-round magazines, providing a significant increase in capacity compared to the default 5-round magazine.  The rifle can also be equipped with a bipod for improved stability, and a pistol grip for enhanced control.  However, the Mosin cannot be fitted with a Kochetov mount, limiting its ability to utilize certain optics.  Despite its limitations, the Mosin 7.62x54R bolt-action rifle (Infantry) remains a powerful and customizable weapon in Escape from Tarkov.\n"
+	},
+	"Remington Model 700 7.62x51 bolt-action sniper rifle": {
+		"weight": 0.55,
+		"ergonomics": 37,
+		"verticalRecoil": 149,
+		"horizontalRecoil": 502,
+		"effectiveDistance": 1000,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x51",
+		"description": "The Remington Model 700 7.62x51 bolt-action sniper rifle is a powerful weapon in Escape from Tarkov, capable of delivering precise long-range shots. It offers a variety of customization options, allowing players to tailor the weapon to their specific needs. The weapon can be fitted with a range of stocks, including the AB Arms MOD*X GEN 3 chassis, which significantly improves ergonomics and recoil reduction. Various handguards, like the M700 AB Arms MOD*X GEN 3 KeyMod handguard, can be attached to further enhance ergonomics and allow for additional tactical attachments. Players can choose from a selection of barrels, with the 20 inch threaded barrel being a popular choice due to its balance of accuracy and maneuverability. Muzzle devices, such as muzzle brakes and suppressors, can be mounted to the barrel, impacting recoil and sound suppression. The Remington Model 700 supports a wide range of optics, including high-powered scopes like the Leupold Mark 4 LR 6.5-20x50 30mm riflescope, allowing for long-range target acquisition. However, the weapon lacks the ability to attach a foregrip, limiting its versatility in close-quarters combat. \n"
+	},
+	"Molot Arms VPO-215 Gornostay .366 TKM bolt-action rifle": {
+		"weight": 0.55,
+		"ergonomics": 51,
+		"verticalRecoil": 130,
+		"horizontalRecoil": 316,
+		"effectiveDistance": 1000,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber366TKM",
+		"description": "The VPO-215 Gornostay is a bolt-action rifle chambered in .366 TKM, offering a unique niche in Escape from Tarkov. It has a single 4-round magazine option, which can limit its fire rate, but enhances its stealth capabilities. The Gornostay features a required wooden stock, offering a significant boost to ergonomics. Its barrel accepts either a thread protector or a muzzle brake-compensator, allowing players to customize its recoil control and handling. While the Gornostay's base ergonomics are decent, the addition of a scope can significantly decrease this value. The Gornostay allows for a wide range of optic attachments, including various scopes, reflex sights, and even thermal scopes. However, the Gornostay cannot accept a traditional rear sight, limiting its ability to use iron sights. Despite its limitations, the VPO-215 Gornostay is a versatile weapon capable of long-range engagements and stealthy play. \n"
+	},
+	"ORSIS T-5000M 7.62x51 bolt-action sniper rifle": {
+		"weight": 0.842,
+		"ergonomics": 72,
+		"verticalRecoil": 94,
+		"horizontalRecoil": 380,
+		"effectiveDistance": 1000,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x51",
+		"description": "The ORSIS T-5000M 7.62x51 bolt-action sniper rifle is a powerful weapon in Escape from Tarkov. It has a high base ergonomics score of 16, which can be further boosted to 27 with the optimal attachments. This can lead to smoother recoil control and faster aiming speeds. You can choose from a variety of muzzle devices to minimize recoil, with the AR-10 Delta-Tek DTK-AR10 7.62x51 muzzle brake offering the most effective recoil reduction.  The ORSIS T-5000M 7.62x51 bolt-action sniper rifle  can be equipped with a range of scopes, including the ELCAN SpecterDR 1x/4x scope, the Leupold Mark 4 HAMR 4x24 DeltaPoint hybrid assault scope, and the Valday PS-320 1/6x scope. The gun also features a long barrel, giving it impressive range, but at the cost of maneuverability. However, the ORSIS T-5000M 7.62x51 bolt-action sniper rifle is limited to a maximum magazine capacity of 5 rounds.  \n"
+	},
+	"Accuracy International AXMC .338 LM bolt-action sniper rifle": {
+		"weight": 0.55,
+		"ergonomics": 25,
+		"verticalRecoil": 285,
+		"horizontalRecoil": 593,
+		"effectiveDistance": 1000,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber86x70",
+		"description": "The Accuracy International AXMC .338 LM bolt-action sniper rifle is a powerful weapon capable of significant damage at long ranges.  It offers a variety of customization options, allowing players to tailor the weapon to their specific needs. Ergonomics can be significantly enhanced through modding, with the addition of the AI AXMC AX KeySlot 16 inch handguard and the AI AXMC padded handguard grip. Recoil can also be reduced by equipping the AI AXMC AX buttstock. The weapon can be equipped with a variety of sights, including both optical and holographic options, providing flexibility for different engagement distances.  The AI AXMC .338 LM bolt-action sniper rifle can be fitted with a suppressor to reduce noise and muzzle flash, enhancing stealth and reducing detection. However, the weapon does have a limited magazine capacity of 10 rounds, necessitating frequent reloading, and lacks the ability to accept standard AR-15 magazines. \n"
+	}
+}

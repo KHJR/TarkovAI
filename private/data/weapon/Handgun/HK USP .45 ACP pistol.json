@@ -1,0 +1,443 @@
+{
+    "Tree Structure": {
+        "Barrel": {
+            "Required": true,
+            "Allowed Items": {
+                "HK USP .45 ACP barrel": {},
+                "HK USP Tactical .45 ACP threaded barrel": {
+                    "Muzzle": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "SilencerCo Omega 45k Piston Mount adapter": {
+                                "Muzzle": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "SilencerCo Omega 45k .45 ACP sound suppressor": {}
+                                    }
+                                }
+                            },
+                            "HK USP Tactical thread protector": {}
+                        }
+                    }
+                },
+                "HK USP Expert .45 ACP barrel": {},
+                "HK USP Elite .45 ACP barrel": {},
+                "HK USP Match .45 ACP barrel": {}
+            }
+        },
+        "Receiver": {
+            "Required": true,
+            "Allowed Items": {
+                "HK USP Elite .45 ACP pistol slide": {
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "HK USP rear sight": {},
+                            "HK USP Tactical rear sight": {}
+                        }
+                    },
+                    "Front Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "HK USP front sight": {},
+                            "HK USP Tactical front sight": {}
+                        }
+                    }
+                },
+                "HK USP Expert .45 ACP pistol slide": {
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "HK USP rear sight": {},
+                            "HK USP Tactical rear sight": {}
+                        }
+                    },
+                    "Front Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "HK USP front sight": {},
+                            "HK USP Tactical front sight": {}
+                        }
+                    }
+                },
+                "HK USP Match .45 ACP pistol slide": {
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "HK USP Red Dot sight mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FastFire 3 reflex sight": {}
+                                    }
+                                }
+                            },
+                            "HK USP rear sight": {},
+                            "HK USP Tactical rear sight": {}
+                        }
+                    },
+                    "Front Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "HK USP front sight": {},
+                            "HK USP Tactical front sight": {}
+                        }
+                    }
+                },
+                "HK USP Tactical .45 ACP pistol slide": {
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "HK USP Red Dot sight mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FastFire 3 reflex sight": {}
+                                    }
+                                }
+                            },
+                            "HK USP rear sight": {},
+                            "HK USP Tactical rear sight": {}
+                        }
+                    },
+                    "Front Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "HK USP front sight": {},
+                            "HK USP Tactical front sight": {}
+                        }
+                    }
+                },
+                "HK USP .45 ACP pistol slide": {
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "HK USP Red Dot sight mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FastFire 3 reflex sight": {}
+                                    }
+                                }
+                            },
+                            "HK USP rear sight": {},
+                            "HK USP Tactical rear sight": {}
+                        }
+                    },
+                    "Front Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "HK USP front sight": {},
+                            "HK USP Tactical front sight": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Magazine": {
+            "Required": false,
+            "Allowed Items": {
+                "HK USP .45 ACP 12-round magazine": {},
+                "HK USP Tactical .45 ACP 12-round magazine": {}
+            }
+        },
+        "Trigger": {
+            "Required": true,
+            "Allowed Items": {
+                "HK USP trigger": {}
+            }
+        },
+        "Hammer": {
+            "Required": true,
+            "Allowed Items": {
+                "HK USP hammer": {}
+            }
+        },
+        "Catch": {
+            "Required": true,
+            "Allowed Items": {
+                "HK USP slide lock": {}
+            }
+        },
+        "Mount": {
+            "Required": false,
+            "Allowed Items": {
+                "HK USP .45 ACP Elite compensator": {},
+                "HK USP .45 ACP Match compensator": {
+                    "Tactical": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Glock GTL 21 tactical flashlight with laser": {},
+                            "NcSTAR Tactical blue laser LAM-module": {},
+                            "Steiner DBAL-PL tactical device": {},
+                            "Steiner LAS/TAC 2 tactical flashlight": {},
+                            "SureFire X400 Ultra tactical flashlight with laser": {},
+                            "SureFire XC1 tactical flashlight": {},
+                            "Zenit Klesch-2IKS IR illuminator with laser": {},
+                            "Zenit Klesch-2P flashlight with laser": {},
+                            "Olight Baldr Pro tactical flashlight with laser": {},
+                            "Olight Baldr Pro tactical flashlight with laser (Tan)": {}
+                        }
+                    }
+                },
+                "HK USP rail adapter": {
+                    "Tactical": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Glock GTL 21 tactical flashlight with laser": {},
+                            "NcSTAR Tactical blue laser LAM-module": {},
+                            "Steiner DBAL-PL tactical device": {},
+                            "Steiner LAS/TAC 2 tactical flashlight": {},
+                            "SureFire X400 Ultra tactical flashlight with laser": {},
+                            "SureFire XC1 tactical flashlight": {},
+                            "Olight Baldr Pro tactical flashlight with laser": {},
+                            "Olight Baldr Pro tactical flashlight with laser (Tan)": {}
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "Item Properties": {
+        "HK USP .45 ACP barrel": {
+            "ergonomics": -4,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "SilencerCo Omega 45k Piston Mount adapter": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "M1911 Anarchy Outdoors .45 ACP muzzle brake"
+            ]
+        },
+        "HK USP Tactical thread protector": {
+            "ergonomics": 1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "HK USP Tactical .45 ACP threaded barrel": {
+            "ergonomics": -3,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "HK USP Expert .45 ACP barrel": {
+            "ergonomics": -4,
+            "recoilModifier": -0.025,
+            "conflictingItems": []
+        },
+        "HK USP Elite .45 ACP barrel": {
+            "ergonomics": -6,
+            "recoilModifier": -0.03,
+            "conflictingItems": []
+        },
+        "HK USP Match .45 ACP barrel": {
+            "ergonomics": -7,
+            "recoilModifier": -0.04,
+            "conflictingItems": []
+        },
+        "HK USP rear sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "HK USP Tactical rear sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "HK USP front sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "HK USP Tactical front sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "HK USP Elite .45 ACP pistol slide": {
+            "ergonomics": 2,
+            "recoilModifier": -0.04,
+            "conflictingItems": [
+                "HK USP .45 ACP Match compensator",
+                "HK USP .45 ACP barrel",
+                "HK USP Tactical .45 ACP threaded barrel",
+                "HK USP Expert .45 ACP barrel",
+                "HK USP Match .45 ACP barrel"
+            ]
+        },
+        "HK USP Expert .45 ACP pistol slide": {
+            "ergonomics": 3,
+            "recoilModifier": -0.02,
+            "conflictingItems": [
+                "HK USP .45 ACP Match compensator",
+                "HK USP .45 ACP barrel",
+                "HK USP Tactical .45 ACP threaded barrel"
+            ]
+        },
+        "Burris FastFire 3 reflex sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "HK USP Red Dot sight mount": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": [
+                "HK USP Elite .45 ACP pistol slide",
+                "HK USP Expert .45 ACP pistol slide"
+            ]
+        },
+        "HK USP Match .45 ACP pistol slide": {
+            "ergonomics": 3,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "HK USP Tactical .45 ACP pistol slide": {
+            "ergonomics": 3,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "HK USP .45 ACP pistol slide": {
+            "ergonomics": 3,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "HK USP .45 ACP 12-round magazine": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "capacity": 12,
+            "conflictingItems": []
+        },
+        "HK USP Tactical .45 ACP 12-round magazine": {
+            "ergonomics": 1,
+            "recoilModifier": 0,
+            "capacity": 12,
+            "conflictingItems": []
+        },
+        "HK USP trigger": {
+            "ergonomics": 2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "HK USP hammer": {
+            "ergonomics": 2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "HK USP slide lock": {
+            "ergonomics": 2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "HK USP .45 ACP Elite compensator": {
+            "ergonomics": -8,
+            "recoilModifier": -0.1,
+            "conflictingItems": [
+                "SilencerCo Omega 45k Piston Mount adapter",
+                "HK USP .45 ACP barrel",
+                "HK USP Tactical .45 ACP threaded barrel",
+                "HK USP Expert .45 ACP barrel"
+            ]
+        },
+        "Glock GTL 21 tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "NcSTAR Tactical blue laser LAM-module": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner DBAL-PL tactical device": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner LAS/TAC 2 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire X400 Ultra tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire XC1 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2IKS IR illuminator with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2P flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Olight Baldr Pro tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Olight Baldr Pro tactical flashlight with laser (Tan)": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "HK USP .45 ACP Match compensator": {
+            "ergonomics": -12,
+            "recoilModifier": -0.15,
+            "conflictingItems": [
+                "SilencerCo Omega 45k Piston Mount adapter",
+                "HK USP .45 ACP barrel",
+                "HK USP Tactical .45 ACP threaded barrel",
+                "HK USP Expert .45 ACP barrel"
+            ]
+        },
+        "HK USP rail adapter": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "HK USP .45 ACP pistol": {
+            "conflictingItems": []
+        }
+    }
+}

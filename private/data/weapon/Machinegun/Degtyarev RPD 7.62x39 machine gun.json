@@ -1,0 +1,120 @@
+{
+    "Tree Structure": {
+        "Magazine": {
+            "Required": false,
+            "Allowed Items": {
+                "RPD 7.62x39 \"Buben\" 100-round box": {}
+            }
+        },
+        "Stock": {
+            "Required": true,
+            "Allowed Items": {
+                "RPD wooden stock": {
+                    "Grip": {
+                        "Required": true,
+                        "Allowed Items": {
+                            "RPD wooden pistol grip": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Barrel": {
+            "Required": true,
+            "Allowed Items": {
+                "RPD 7.62x39 520mm barrel": {
+                    "Bipod": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "RPD bipod": {}
+                        }
+                    },
+                    "Muzzle": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "RPD barrel thread protector": {}
+                        }
+                    }
+                },
+                "RPD 7.62x39 sawed-off 350mm barrel": {
+                    "Muzzle": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "RPD barrel thread protector": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Handguard": {
+            "Required": true,
+            "Allowed Items": {
+                "RPD wooden handguard": {}
+            }
+        },
+        "Rear Sight": {
+            "Required": false,
+            "Allowed Items": {
+                "RPD rear sight": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "RPD 7.62x39 \"Buben\" 100-round box": {
+            "ergonomics": -25,
+            "recoilModifier": 0,
+            "capacity": 100,
+            "conflictingItems": []
+        },
+        "RPD wooden pistol grip": {
+            "ergonomics": 2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "RPD wooden stock": {
+            "ergonomics": 16,
+            "recoilModifier": -0.22,
+            "conflictingItems": []
+        },
+        "RPD bipod": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "Zenit RK-1 tactical foregrip on B-25U mount"
+            ]
+        },
+        "RPD barrel thread protector": {
+            "ergonomics": 2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "RPD 7.62x39 520mm barrel": {
+            "ergonomics": -11,
+            "recoilModifier": -0.04,
+            "conflictingItems": []
+        },
+        "RPD 7.62x39 sawed-off 350mm barrel": {
+            "ergonomics": -3,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "RPD wooden handguard": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "RPD rear sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Degtyarev RPD 7.62x39 machine gun": {
+            "conflictingItems": []
+        }
+    }
+}

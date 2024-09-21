@@ -1,0 +1,337 @@
+{
+    "Tree Structure": {
+        "Barrel": {
+            "Required": true,
+            "Allowed Items": {
+                "Desert Eagle L5 .50 AE 127mm barrel": {
+                    "Front Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Desert Eagle front sight": {}
+                        }
+                    },
+                    "Scope": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Aimpoint Micro Standard Mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint Micro H-2 reflex sight": {},
+                                        "Aimpoint Micro T-1 reflex sight": {},
+                                        "SIG Sauer ROMEO4 reflex sight": {},
+                                        "Aimpoint Micro Spacer High": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Aimpoint Micro H-2 Standard Mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint Micro H-2 reflex sight": {},
+                                        "Aimpoint Micro T-1 reflex sight": {},
+                                        "SIG Sauer ROMEO4 reflex sight": {},
+                                        "Aimpoint Micro Spacer High": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Aimpoint LRP mount for CompM4 sights": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint PRO reflex sight": {},
+                                        "Aimpoint CompM4 reflex sight": {},
+                                        "Aimpoint Standard Spacer": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint PRO reflex sight": {},
+                                                    "Aimpoint CompM4 reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Aimpoint QRP2 mount for CompM4/PRO sights": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint PRO reflex sight": {},
+                                        "Aimpoint CompM4 reflex sight": {},
+                                        "Aimpoint Standard Spacer": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint PRO reflex sight": {},
+                                                    "Aimpoint CompM4 reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "B&T QD NAR mount for Aimpoint ACRO": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint ACRO P-1 reflex sight": {}
+                                    }
+                                }
+                            },
+                            "Burris FastFire Weaver Base": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FastFire 3 reflex sight": {}
+                                    }
+                                }
+                            },
+                            "DeltaPoint Cross Slot Mount base": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Leupold DeltaPoint Reflex Sight": {}
+                                    }
+                                }
+                            },
+                            "SIG Sauer ROMEO sight mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint Micro H-2 reflex sight": {},
+                                        "Aimpoint Micro T-1 reflex sight": {},
+                                        "SIG Sauer ROMEO4 reflex sight": {}
+                                    }
+                                }
+                            },
+                            "Trijicon RMR low profile mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon RMR reflex sight": {}
+                                    }
+                                }
+                            },
+                            "Trijicon RMR high profile mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon RMR reflex sight": {}
+                                    }
+                                }
+                            },
+                            "BelOMO PK-06 reflex sight": {},
+                            "UNV DLOC-IRD sight mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon REAP-IR thermal scope": {
+                                            "Tactical": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon REAP-IR scope eyecup": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "ELCAN Specter HCO holographic sight": {},
+                            "Monstrum Tactical Compact Prism Scope 2x32": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Grip": {
+            "Required": true,
+            "Allowed Items": {
+                "Desert Eagle Hogue Rubber Grip": {},
+                "Desert Eagle Hogue Rubber Grip with finger grooves": {}
+            }
+        },
+        "Receiver": {
+            "Required": true,
+            "Allowed Items": {
+                "Desert Eagle L5 .50 AE pistol slide": {
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Desert Eagle rear sight": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Magazine": {
+            "Required": false,
+            "Allowed Items": {
+                "Desert Eagle .50 AE 7-round magazine": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "Desert Eagle front sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": [
+                "ELCAN Specter HCO holographic sight"
+            ]
+        },
+        "Aimpoint Micro Standard Mount": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Aimpoint Micro H-2 Standard Mount": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Aimpoint LRP mount for CompM4 sights": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Aimpoint QRP2 mount for CompM4/PRO sights": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "B&T QD NAR mount for Aimpoint ACRO": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": [
+                "AR-15 rear sight carry handle"
+            ]
+        },
+        "Burris FastFire Weaver Base": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "DeltaPoint Cross Slot Mount base": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SIG Sauer ROMEO sight mount": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Trijicon RMR low profile mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Trijicon RMR high profile mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "BelOMO PK-06 reflex sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1,
+                    1,
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "UNV DLOC-IRD sight mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "ELCAN Specter HCO holographic sight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": [
+                "AR-15 rear sight carry handle"
+            ]
+        },
+        "Monstrum Tactical Compact Prism Scope 2x32": {
+            "ergonomics": -3,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    2,
+                    2
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Desert Eagle L5 .50 AE 127mm barrel": {
+            "ergonomics": -2,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "Desert Eagle Hogue Rubber Grip": {
+            "ergonomics": 4,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Desert Eagle Hogue Rubber Grip with finger grooves": {
+            "ergonomics": 6,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Desert Eagle rear sight": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Desert Eagle L5 .50 AE pistol slide": {
+            "ergonomics": 3,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Desert Eagle .50 AE 7-round magazine": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "capacity": 7,
+            "conflictingItems": []
+        },
+        "Magnum Research Desert Eagle L5 .50 AE pistol": {
+            "conflictingItems": []
+        }
+    }
+}

@@ -1,0 +1,13 @@
+Your task is to choose the appropriate attachments for the in-game gear based on the user’s request, ensuring that each one offers benefits in ergonomics and recoil reduction according to Escape from Tarkov’s in-game mechanics.
+
+When answering, return a list containing the chosen attachments. After providing the JSON list, include an explanation of why each attachment and base item was chosen, highlighting how they improve performance within the game (e.g., ergonomics, recoil control, or other in-game stats).
+
+Answer it into this format shown below:
+{
+    "attachments": ["DVL-10 7.62x51 10-round magazine", "AI AXMC upper receiver"]
+    "explanation": "The DVL-10 magazine was chosen for its compatibility with the AI AXMC upper receiver, offering a balance of compactness for faster reloads and low recoil within the game."
+}
+
+Make sure explanation is in one paragraph
+
+Ensure the attachments are chosen according to the user’s requirements and explained with reference to Escape from Tarkov's game mechanics.

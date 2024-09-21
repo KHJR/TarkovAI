@@ -1,0 +1,50 @@
+{
+    "Tree Structure": {
+        "Magazine": {
+            "Required": false,
+            "Allowed Items": {
+                "PM 9x18PM 84-round makeshift drum magazine": {},
+                "PM 9x18PM 90-93 8-round magazine": {}
+            }
+        },
+        "Muzzle": {
+            "Required": false,
+            "Allowed Items": {
+                "PB 9x18PM sound suppressor": {}
+            }
+        },
+        "Grip": {
+            "Required": true,
+            "Allowed Items": {
+                "PB bakelite side grips": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "PM 9x18PM 84-round makeshift drum magazine": {
+            "ergonomics": -18,
+            "recoilModifier": 0,
+            "capacity": 84,
+            "conflictingItems": []
+        },
+        "PM 9x18PM 90-93 8-round magazine": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "capacity": 8,
+            "conflictingItems": []
+        },
+        "PB 9x18PM sound suppressor": {
+            "ergonomics": -21,
+            "recoilModifier": -0.08,
+            "conflictingItems": []
+        },
+        "PB bakelite side grips": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "PB 9x18PM silenced pistol": {
+            "conflictingItems": []
+        }
+    }
+}

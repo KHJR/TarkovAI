@@ -1,0 +1,311 @@
+{
+    "Tree Structure": {
+        "Magazine": {
+            "Required": false,
+            "Allowed Items": {
+                "PM 9x18PM 84-round makeshift drum magazine": {},
+                "PM 9x18PM 90-93 8-round magazine": {}
+            }
+        },
+        "Muzzle": {
+            "Required": false,
+            "Allowed Items": {
+                "SilencerCo Hybrid 46 Direct Thread Mount adapter": {
+                    "Muzzle": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "SilencerCo Hybrid 46 multi-caliber sound suppressor": {}
+                        }
+                    }
+                },
+                "AAC Illusion 9 9x19 sound suppressor": {},
+                "Alpha Dog Alpha 9 9x19 sound suppressor": {
+                    "Scope": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Aimpoint Micro Standard Mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint Micro H-2 reflex sight": {},
+                                        "Aimpoint Micro T-1 reflex sight": {},
+                                        "SIG Sauer ROMEO4 reflex sight": {},
+                                        "Aimpoint Micro Spacer High": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "Aimpoint Micro H-2 Standard Mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint Micro H-2 reflex sight": {},
+                                        "Aimpoint Micro T-1 reflex sight": {},
+                                        "SIG Sauer ROMEO4 reflex sight": {},
+                                        "Aimpoint Micro Spacer High": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            },
+                            "B&T QD NAR mount for Aimpoint ACRO": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Aimpoint ACRO P-1 reflex sight": {}
+                                    }
+                                }
+                            },
+                            "Burris FastFire Weaver Base": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Burris FastFire 3 reflex sight": {}
+                                    }
+                                }
+                            },
+                            "DeltaPoint Cross Slot Mount base": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Leupold DeltaPoint Reflex Sight": {}
+                                    }
+                                }
+                            },
+                            "Trijicon RMR low profile mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Trijicon RMR reflex sight": {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "SIG Sauer SRD9 9x19 sound suppressor": {},
+                "SilencerCo Osprey 9 9x19 sound suppressor": {}
+            }
+        },
+        "Receiver": {
+            "Required": true,
+            "Allowed Items": {
+                "PM pistol slide": {
+                    "Rear Sight": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "PM rear sight": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Grip": {
+            "Required": true,
+            "Allowed Items": {
+                "PM FAB Defense PM-G pistol grip": {},
+                "PM Tactic Kit pistol grip": {
+                    "Tactical": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "SureFire XC1 tactical flashlight": {},
+                            "UM Tactical UM3 pistol sight mount": {
+                                "Scope": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "BelOMO PK-06 reflex sight": {},
+                                        "Aimpoint Micro Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "Aimpoint Micro H-2 Standard Mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint Micro H-2 reflex sight": {},
+                                                    "Aimpoint Micro T-1 reflex sight": {},
+                                                    "SIG Sauer ROMEO4 reflex sight": {},
+                                                    "Aimpoint Micro Spacer High": {
+                                                        "Scope": {
+                                                            "Required": false,
+                                                            "Allowed Items": {
+                                                                "Aimpoint Micro H-2 reflex sight": {},
+                                                                "Aimpoint Micro T-1 reflex sight": {},
+                                                                "SIG Sauer ROMEO4 reflex sight": {}
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "B&T QD NAR mount for Aimpoint ACRO": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Aimpoint ACRO P-1 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Burris FastFire Weaver Base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Burris FastFire 3 reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "DeltaPoint Cross Slot Mount base": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Leupold DeltaPoint Reflex Sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR high profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        },
+                                        "Trijicon RMR low profile mount": {
+                                            "Scope": {
+                                                "Required": false,
+                                                "Allowed Items": {
+                                                    "Trijicon RMR reflex sight": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                },
+                                "Tactical": {
+                                    "Required": false,
+                                    "Allowed Items": {
+                                        "Glock GTL 21 tactical flashlight with laser": {},
+                                        "NcSTAR Tactical blue laser LAM-module": {},
+                                        "Steiner DBAL-PL tactical device": {},
+                                        "Steiner LAS/TAC 2 tactical flashlight": {},
+                                        "SureFire X400 Ultra tactical flashlight with laser": {},
+                                        "SureFire XC1 tactical flashlight": {},
+                                        "Zenit Klesch-2IKS IR illuminator with laser": {},
+                                        "Zenit Klesch-2P flashlight with laser": {},
+                                        "Olight Baldr Pro tactical flashlight with laser": {},
+                                        "Olight Baldr Pro tactical flashlight with laser (Tan)": {}
+                                    }
+                                }
+                            }
+                        }
+                    }
+                },
+                "PM bakelite grip": {},
+                "PM FAB Defense PM-G pistol grip (Olive Drab)": {},
+                "PM PM-Laser grip with laser sight": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "PM 9x18PM 84-round makeshift drum magazine": {
+            "ergonomics": -18,
+            "recoilModifier": 0,
+            "capacity": 84,
+            "conflictingItems": []
+        },
+        "PM 9x18PM 90-93 8-round magazine": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "capacity": 8,
+            "conflictingItems": []
+        },
+        "SilencerCo Hybrid 46 Direct Thread Mount adapter": {
+            "ergonomics": 0,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AAC Illusion 9 9x19 sound suppressor": {
+            "ergonomics": -15,
+            "recoilModifier": -0.05,
+            "conflictingItems": []
+        },
+        "Alpha Dog Alpha 9 9x19 sound suppressor": {
+            "ergonomics": -13,
+            "recoilModifier": -0.06,
+            "conflictingItems": []
+        },
+        "SIG Sauer SRD9 9x19 sound suppressor": {
+            "ergonomics": -15,
+            "recoilModifier": -0.06,
+            "conflictingItems": []
+        },
+        "SilencerCo Osprey 9 9x19 sound suppressor": {
+            "ergonomics": -17,
+            "recoilModifier": -0.08,
+            "conflictingItems": []
+        },
+        "PM pistol slide": {
+            "ergonomics": 1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "PM FAB Defense PM-G pistol grip": {
+            "ergonomics": 10,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "PM Tactic Kit pistol grip": {
+            "ergonomics": 12,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "PM bakelite grip": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "PM FAB Defense PM-G pistol grip (Olive Drab)": {
+            "ergonomics": 10,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "PM PM-Laser grip with laser sight": {
+            "ergonomics": 7,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Makarov PM (t) 9x18PM pistol": {
+            "conflictingItems": []
+        }
+    }
+}

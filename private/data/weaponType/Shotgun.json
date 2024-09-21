@@ -1,0 +1,161 @@
+{
+	"MP-133 12ga pump-action shotgun": {
+		"weight": 1.1,
+		"ergonomics": 45,
+		"verticalRecoil": 290,
+		"horizontalRecoil": 381,
+		"effectiveDistance": 70,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber12g",
+		"description": "The MP-133 12ga pump-action shotgun offers a range of customization options, allowing players to tailor it to their preferred playstyle. The shotgun can be fitted with various barrels ranging from 510mm to 750mm, influencing both ergonomics and recoil. A rib can be added to certain barrels, further enhancing ergonomics. Players can choose from different forestocks, including a custom plastic forestock with rails that allows for the attachment of foregrips and tactical accessories.  A variety of foregrips, from vertical to angled, can be mounted for better control and comfort.  The MP-133 also supports a wide variety of reflex sights, allowing players to choose their preferred aiming style. Additionally, the shotgun can be equipped with a selection of tactical devices, including flashlights and laser sights, for enhanced situational awareness. However, it's important to note that the MP-133 cannot be equipped with a standard scope, limiting its long-range capabilities. \n"
+	},
+	"MP-43-1C 12ga double-barrel shotgun": {
+		"weight": 1.88,
+		"ergonomics": 39,
+		"verticalRecoil": 240,
+		"horizontalRecoil": 355,
+		"effectiveDistance": 100,
+		"fireRate": 900,
+		"fireModes": [
+			"Single fire",
+			"Double-Tap"
+		],
+		"caliber": "Caliber12g",
+		"description": "The MP-43-1C 12ga double-barrel shotgun is a powerful close-range weapon in Escape from Tarkov. It can be customized with various barrels, each offering different benefits.  The 510mm barrel provides a balanced combination of ergonomics and recoil control, while the longer 725mm and 750mm barrels offer even greater recoil reduction at the cost of handling.  A buttpad can be attached to improve ergonomics, further enhancing the weapon's handling. However, the MP-43-1C 12ga double-barrel shotgun lacks the ability to be fitted with optics or other accessories. This limits its effectiveness at longer ranges.  Ultimately, the MP-43-1C 12ga double-barrel shotgun is a potent choice for close-quarters engagements, but its lack of versatility restricts its effectiveness in other situations. \n"
+	},
+	"MP-153 12ga semi-automatic shotgun": {
+		"weight": 1.2,
+		"ergonomics": 35,
+		"verticalRecoil": 230,
+		"horizontalRecoil": 313,
+		"effectiveDistance": 70,
+		"fireRate": 40,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber12g",
+		"description": "The MP-153 12ga semi-automatic shotgun is a versatile weapon that can be customized with a variety of attachments. The shotgun has four different barrel lengths, ranging from 610mm to 750mm, each affecting ergonomics and recoil. It can be equipped with a variety of muzzle devices, including muzzle brakes and suppressors, as well as different chokes. The MP-153 can be fitted with a reflex sight or a holographic sight, and its stock can be upgraded to improve ergonomics and recoil. While the MP-153 boasts a variety of customization options, it lacks the ability to mount a scope.  The shotgun is limited to a maximum of eight rounds in the magazine, although different magazines can be used to reduce the weight and improve ergonomics.  Overall, the MP-153 is a potent shotgun with impressive customization potential, but its lack of scope capability restricts its long-range potential. \n"
+	},
+	"Saiga-12K ver.10 12ga semi-automatic shotgun": {
+		"weight": 2.622,
+		"ergonomics": 57,
+		"verticalRecoil": 226,
+		"horizontalRecoil": 400,
+		"effectiveDistance": 70,
+		"fireRate": 40,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber12g",
+		"description": "The Saiga-12K ver.10 12ga semi-automatic shotgun is a versatile weapon platform with various customization options. It requires a handguard, which significantly impacts ergonomics and recoil. You can choose from several handguards, including the SOK-12 Custom Guns Type-340 handguard, which offers the highest ergonomics bonus of 10, and the SOK-12 Bravo-18 aluminium handguard, providing the largest recoil reduction of -0.03.  The gun also accepts a variety of muzzle attachments, including muzzle brakes for reduced recoil and sound suppressors for increased stealth.  You can significantly enhance the gun's handling with different pistol grips, with the AK Aeroknox Scorpius pistol grip being the most ergonomic option.  While the gun has a dedicated stock slot, it can also be fitted with a buffer tube for compatibility with various AR-15 stocks, expanding customization options.  The Saiga-12K ver.10 12ga semi-automatic shotgun comes with a standard rear sight, but can be fitted with a rear sight rail mount for mounting optics.  However, it cannot use any Picatinny rail-mounted attachments directly, requiring adapters for compatibility.  \n"
+	},
+	"TOZ-106 20ga bolt-action shotgun": {
+		"weight": 1.3,
+		"ergonomics": 73,
+		"verticalRecoil": 504,
+		"horizontalRecoil": 445,
+		"effectiveDistance": 70,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber20g",
+		"description": "The TOZ-106 20ga bolt-action shotgun is a versatile weapon capable of mounting a variety of optics and attachments. It can be fitted with a dovetail mount, allowing for the use of various reflex sights, holographic sights, and scopes.  The TOZ-106 can also be equipped with a rail scope mount, providing even more options for optics.  Additionally, the TOZ-106 can be fitted with different stocks, including a custom cut Mosin stock that significantly reduces recoil.  The TOZ-106 can use 2, 4, or 5 shot magazines, influencing the ergonomics and capacity of the weapon. While the TOZ-106 can be customized with various optics and attachments, it lacks iron sights, limiting its effectiveness in close-quarters combat. The TOZ-106 20ga bolt-action shotgun is a solid choice for players seeking a weapon with customizable features and effective long-range capabilities, but its lack of iron sights necessitates careful consideration of its potential uses. \n"
+	},
+	"Remington Model 870 12ga pump-action shotgun": {
+		"weight": 1.1,
+		"ergonomics": 49,
+		"verticalRecoil": 278,
+		"horizontalRecoil": 330,
+		"effectiveDistance": 70,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber12g",
+		"description": "The Remington Model 870 12ga pump-action shotgun offers a variety of customization options for players in Escape from Tarkov.  The weapon can be equipped with different barrels, handguards, magazines, and stocks, each affecting its ergonomics and recoil. Players can choose from various barrels, including the 508mm barrel with a fixed sight, which offers a substantial recoil reduction. The handguard options include the FAB Defense PR-870 forestock, which provides ample space for mounting tactical accessories and foregrips. The M870 can be fitted with different magazines, allowing players to adjust the capacity according to their needs. The Magpul SGA polymer stock significantly reduces recoil, while the Mesa Tactical LEO stock adapter provides compatibility with a wide range of AR-15 stocks and pistol grips. While the shotgun offers versatility in customization, it lacks the ability to mount optics directly on the receiver.  Furthermore, the 508mm barrel significantly impacts ergonomics, making it difficult to handle, particularly when paired with a foregrip. The M870 is capable of mounting a variety of sights, including reflex sights and holographic sights, however, it is limited by the lack of compatibility with scopes. Despite its limitations, the Remington Model 870 remains a powerful and reliable shotgun option for players seeking close-to-medium range firepower in Escape from Tarkov. \n"
+	},
+	"TOZ KS-23M 23x75mm pump-action shotgun": {
+		"weight": 1.5,
+		"ergonomics": 33,
+		"verticalRecoil": 318,
+		"horizontalRecoil": 409,
+		"effectiveDistance": 70,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber23x75",
+		"description": "The TOZ KS-23M 23x75mm pump-action shotgun is a powerful weapon capable of devastating close-range encounters. Its unique 23x75mm gauge delivers a high damage output and a wide spread pattern, making it effective against multiple targets. You can customize the KS-23M with a variety of attachments including barrels, handguards, magazines, and stocks. The 510mm and 700mm barrels offer different recoil and ergonomics trade-offs.  The KS-23M forestock improves ergonomics, while the 3-shell magazine cap increases the weapon's capacity to three rounds.  The stock options include a wooden stock for recoil reduction and a pistol grip with a wire stock for increased ergonomics.  The KS-23M can be further enhanced with a reflex sight for improved accuracy. However, due to its large size and low rate of fire, the KS-23M struggles in medium-to-long range engagements. \n"
+	},
+	"Mossberg 590A1 12ga pump-action shotgun": {
+		"weight": 1.1,
+		"ergonomics": 52,
+		"verticalRecoil": 299,
+		"horizontalRecoil": 351,
+		"effectiveDistance": 70,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber12g",
+		"description": "The Mossberg 590A1 12ga pump-action shotgun is a versatile weapon with multiple customization options. It can be fitted with various stocks, handguards, and mounts for improved ergonomics and recoil control.  The inclusion of a Magpul MOE forestock can significantly enhance ergonomics, while a Magpul SGA stock provides a substantial recoil reduction. The weapon can be equipped with various optics, including reflex sights and scopes, allowing for precise aiming at different ranges. The Mossberg 590A1 can also be fitted with tactical accessories such as flashlights and lasers for improved visibility and target engagement. However, the weapon cannot be equipped with any type of iron sights beyond ghost rings. The Mossberg 590A1 is limited to a maximum capacity of 8 rounds, regardless of modifications.  Despite these limitations, the Mossberg 590A1 is a powerful and reliable shotgun capable of effectively engaging targets at close to medium range. \n"
+	},
+	"MP-155 12ga semi-automatic shotgun": {
+		"weight": 1.1,
+		"ergonomics": 51,
+		"verticalRecoil": 249,
+		"horizontalRecoil": 334,
+		"effectiveDistance": 70,
+		"fireRate": 40,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber12g",
+		"description": "The MP-155 12ga semi-automatic shotgun offers a solid base for customization, with options for enhancing its ergonomics and recoil control. The Ultima polymer forestock and stock significantly improve ergonomics, while the walnut stock provides the greatest recoil reduction. The gun can accommodate various magazines, with the 8-shell magazine providing the highest capacity. It is also possible to attach a variety of optics, including red dots, scopes, and even thermal sights, allowing for diverse engagement scenarios.  However, it's important to note that the gun lacks any built-in mounting points for sights, requiring the use of dedicated rail mounts. Additionally, the MP-155 can be equipped with tactical accessories such as flashlights and lasers, providing additional functionality in specific situations. However, the gun lacks a built-in rail system, requiring a rail mount to accommodate these accessories. \n"
+	},
+	"MP-18 7.62x54R single-shot rifle": {
+		"weight": 0.76,
+		"ergonomics": 42,
+		"verticalRecoil": 206,
+		"horizontalRecoil": 527,
+		"effectiveDistance": 100,
+		"fireRate": 10,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x54R",
+		"description": "The MP-18 7.62x54R single-shot rifle is a basic firearm in Escape from Tarkov. It offers a high-powered 7.62x54R round but sacrifices versatility due to its single-shot nature. The weapon's ergonomics can be improved with various handguard and stock options. Players can choose between polymer and wooden handguards and stocks, affecting the weapon's ergonomics and overall feel. The MP-18 can be equipped with a variety of scopes, including reflex sights, holographic sights, and even thermal optics.  It can be fitted with a sight mount, allowing for a wider range of optic choices.  Despite the availability of optics, the MP-18 is limited by its single-shot mechanism, forcing players to reload after each shot. While the weapon can be upgraded with accessories, it remains a simple and somewhat specialized weapon. \n"
+	},
+	"Benelli M3 Super 90 12ga dual-mode shotgun": {
+		"weight": 1.22,
+		"ergonomics": 63,
+		"verticalRecoil": 242,
+		"horizontalRecoil": 428,
+		"effectiveDistance": 70,
+		"fireRate": 60,
+		"fireModes": [
+			"Single fire",
+			"Semi-auto"
+		],
+		"caliber": "Caliber12g",
+		"description": "The Benelli M3 Super 90 is a versatile shotgun in Escape from Tarkov, offering various customization options.  Its ergonomics can be improved by attaching the Benelli M3 forend, which provides a significant boost of 8 points. The stock can be modified with either the telescopic stock or the Mesa Tactical Urbino stock, both offering a substantial reduction in recoil.  While the shotgun can accommodate a variety of optics, including reflex sights, holographic sights, and even thermal scopes, it lacks the ability to utilize standard iron sights.   A variety of magazines are available, with the Toni System 13-shell magazine providing the highest capacity, although it does conflict with some muzzle attachments. Players can further enhance the shotgun by adding a muzzle device, but these can come with trade-offs in terms of ergonomics.  The Benelli M3 Super 90 is a strong choice for both close-range and mid-range engagements in Escape from Tarkov, offering flexibility and customization to fit different playstyles. \n"
+	},
+	"MP-43 12ga sawed-off double-barrel shotgun": {
+		"weight": 1.3,
+		"ergonomics": 53,
+		"verticalRecoil": 279,
+		"horizontalRecoil": 413,
+		"effectiveDistance": 100,
+		"fireRate": 900,
+		"fireModes": [
+			"Single fire",
+			"Double-Tap"
+		],
+		"caliber": "Caliber12g",
+		"description": "The MP-43 12ga sawed-off double-barrel shotgun is a basic firearm with limited customization options in Escape from Tarkov. It requires a barrel to be functional, with the only available option being the \"MP-43 12ga sawed-off 310mm barrel.\" This barrel provides a modest boost to ergonomics with a value of 3, but does not affect recoil. The shotgun cannot be further modified beyond the mandatory barrel attachment. It lacks any additional slots for attachments like sights, grips, or stocks. While the shotgun is simple and straightforward to use, its lack of customization limits its effectiveness in combat. Its recoil remains unaffected by any attachments, potentially hindering accuracy and control, especially at longer ranges. \n"
+	}
+}

@@ -1,0 +1,107 @@
+{
+	"VSS Vintorez 9x39 special sniper rifle": {
+		"weight": 1.088,
+		"ergonomics": 56,
+		"verticalRecoil": 51,
+		"horizontalRecoil": 173,
+		"effectiveDistance": 400,
+		"fireRate": 700,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x39",
+		"description": "The VSS Vintorez is a special sniper rifle in Escape from Tarkov that utilizes the unique 9x39mm cartridge. Its integrated suppressor significantly reduces recoil, making it highly controllable. The weapon has a fixed stock which cannot be modified, though it does contribute to reducing recoil. The VSS Vintorez has a limited amount of customization options, primarily focused on optics and magazines. You can choose from a variety of sights, including the BelOMO PSO-1, NPZ USP-1 Tyulpan, and the NSPU-M night vision scope. Magazine choices include the standard 10-round, the 20-round Plum magazine, or the 30-round magazine. While the VSS Vintorez offers a good balance of suppression and accuracy, its ergonomics can be improved through the use of a dust cover and a charging handle. \n"
+	},
+	"Remington R11 RSASS 7.62x51 marksman rifle": {
+		"weight": 1.72,
+		"ergonomics": 37,
+		"verticalRecoil": 84,
+		"horizontalRecoil": 188,
+		"effectiveDistance": 900,
+		"fireRate": 700,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x51",
+		"description": "The Remington R11 RSASS 7.62x51 marksman rifle is a powerful firearm capable of engaging targets at long ranges in Escape from Tarkov. It features a dedicated marksman handguard, allowing for the attachment of various optics, tactical devices, and foregrips. The RSASS handguard provides moderate ergonomics and minimal recoil reduction, enhancing stability and control. The rifle can be further customized with different stocks, buffer tubes, and magazines. It can accept a wide range of optics, including reflex sights, holographic sights, and traditional scopes, catering to a variety of engagement styles. The RSASS does not have a dedicated front sight, limiting its versatility in close-quarters combat scenarios. However, it can accommodate a front sight if an appropriate gas block is installed. Ultimately, the Remington R11 RSASS 7.62x51 marksman rifle offers a strong combination of long-range accuracy and customization options, making it a valuable tool for experienced Tarkov players. \n"
+	},
+	"Springfield Armory M1A 7.62x51 rifle": {
+		"weight": 1.426,
+		"ergonomics": 38,
+		"verticalRecoil": 141,
+		"horizontalRecoil": 267,
+		"effectiveDistance": 700,
+		"fireRate": 700,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x51",
+		"description": "The Springfield Armory M1A 7.62x51 rifle is a versatile weapon in Escape from Tarkov, capable of being customized with various attachments.  Ergonomics can be significantly improved by equipping the M14 SAGE International M14ALCS chassis or the M1A ProMag Archangel chassis.  The M14 SAGE International M14ALCS chassis offers a slight recoil reduction, while the M1A ProMag Archangel chassis provides a significant decrease in recoil. The weapon can accommodate both 10 and 20-round magazines, offering flexibility for different tactical scenarios.   A variety of scopes and sights are compatible with the M1A, allowing for various aiming options.  The rifle's adaptability allows for various customization options, tailoring the weapon to specific player needs. However, the M1A cannot be fitted with an underbarrel grenade launcher, limiting its close-range offensive capabilities. \n"
+	},
+	"SVDS 7.62x54R sniper rifle": {
+		"weight": 1.72,
+		"ergonomics": 35.5,
+		"verticalRecoil": 138,
+		"horizontalRecoil": 432,
+		"effectiveDistance": 900,
+		"fireRate": 700,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x54R",
+		"description": "The SVDS 7.62x54R sniper rifle in Escape from Tarkov is a powerful weapon capable of significant modification. It offers a wide range of customization options for both ergonomics and recoil reduction. The SVDS can be equipped with various stocks, including the SVDS polymer stock, which provides a decent ergonomic boost and slightly reduces recoil. Additionally, the SVDS can be equipped with different types of grips, including the AK Aeroknox Scorpius pistol grip, which significantly improves ergonomics.  While the SVDS can be equipped with different magazines, its default 10-round magazine is quite limiting. It's important to note that the SVDS is not a fully-fledged AR-style platform, and cannot be converted to accept AR-15 parts, despite the availability of some adapters. The SVDS boasts a unique 22-inch barrel, which can be further modified with a muzzle brake for increased control.  The SVDS has the option for mounting a variety of scopes, including the BelOMO PSO-1 4x24 scope,  which provides a decent zoom level for long-range engagements. \n"
+	},
+	"Knight's Armament Company SR-25 7.62x51 marksman rifle": {
+		"weight": 0.51,
+		"ergonomics": 54,
+		"verticalRecoil": 101,
+		"horizontalRecoil": 231,
+		"effectiveDistance": 900,
+		"fireRate": 700,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x51",
+		"description": "The Knight's Armament Company SR-25 7.62x51 marksman rifle is a highly customizable weapon in Escape from Tarkov. It can be fitted with a variety of stocks, handguards, barrels, and optics.  The SR-25 has the option of a 16 or 20-inch barrel, each with its own set of potential muzzle attachments.  It can be fitted with several different sights, including reflex sights, holographic sights, and even thermal optics.  The SR-25 can be equipped with a variety of foregrips, including vertical foregrips and angled foregrips. The weapon benefits greatly from its modularity, allowing for significant customization to suit various combat situations. However, the SR-25 cannot be equipped with a magazine for the weapon, so the player must rely on the standard internal magazine. \n"
+	},
+	"Kel-Tec RFB 7.62x51 rifle": {
+		"weight": 1.95,
+		"ergonomics": 49,
+		"verticalRecoil": 136,
+		"horizontalRecoil": 282,
+		"effectiveDistance": 900,
+		"fireRate": 700,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x51",
+		"description": "The Kel-Tec RFB 7.62x51 rifle is a versatile weapon platform in Escape from Tarkov, capable of various modifications to suit different playstyles.  The rifle requires a barrel, handguard, and scope mount to function. The RFB handguard, while adding significantly to ergonomics, limits the available mounts for optics, forcing a choice between versatility and ergonomics.  The RFB 7.62x51 18 inch barrel reduces recoil by a small margin but also negatively impacts ergonomics.  Players can choose from a variety of muzzle attachments including flash hiders, compensators, and suppressors, each offering different recoil reduction and ergonomics adjustments.  A wide array of scopes and reflex sights can be attached to the RFB, allowing players to choose the ideal magnification for their needs.  The rifle's ability to accept a variety of magazines, including 10, 20, and 30-round options, provides flexibility in ammunition capacity. The RFB 7.62x51 rifle cannot accept underbarrel grenade launchers due to its handguard design. \n"
+	},
+	"SWORD International Mk-18 .338 LM marksman rifle": {
+		"weight": 2.9,
+		"ergonomics": 17,
+		"verticalRecoil": 343,
+		"horizontalRecoil": 648,
+		"effectiveDistance": 900,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber86x70",
+		"description": "The SWORD International Mk-18 .338 LM marksman rifle is a powerful weapon capable of engaging targets at long ranges. It features a 24-inch barrel with the option for a muzzle brake and suppressor, contributing to increased accuracy and control. Players can customize the stock with various options like the Magpul PRS GEN2 and GEN3 stocks, offering versatility in handling and recoil reduction. The handguard is pre-equipped with an 18-inch rail, allowing for the attachment of tactical accessories such as flashlights, lasers, and grips.  The weapon can be fitted with a variety of optics, including thermal scopes like the FLIR RS-32, which can be advantageous in low-light conditions. While the rifle offers significant customization, its limited magazine capacity of 10 rounds requires players to engage targets with precision and strategy. Despite its high potential, the Mk-18 .338 LM is not without limitations; it lacks the ability to mount certain sights and accessories due to its fixed configuration. \n"
+	},
+	"HK G28 7.62x51 marksman rifle": {
+		"weight": 0.51,
+		"ergonomics": 42,
+		"verticalRecoil": 74,
+		"horizontalRecoil": 204,
+		"effectiveDistance": 900,
+		"fireRate": 700,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x51",
+		"description": "The HK G28 is a marksman rifle chambered in 7.62x51, offering a balance between range and handling. It features a variety of attachment options to customize its performance, including a choice of stocks, handguards, scopes, and muzzles.  The extended free-float handguard provides ample space for mounting accessories such as foregrips, lights, and lasers. The G28 allows for the use of various sights, ranging from reflex sights to high-magnification scopes, enabling players to adapt to different combat situations. While it lacks the versatility of an assault rifle, the G28 excels at long-range engagements, making it a powerful tool for precision shooting. Players can significantly enhance the G28's ergonomics and recoil control through the careful selection of attachments. However, it's important to note that the G28 does not support the attachment of underbarrel grenade launchers. \n"
+	}
+}

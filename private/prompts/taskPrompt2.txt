@@ -1,0 +1,10 @@
+Considering the user’s prompt, your second task is to select a base piece of in-game gear to build upon later. Use the data provided to determine the best fit based on game mechanics.
+
+Remember, high ergonomics and low recoil represent better performance metrics in the game.
+
+When answering, first explain to me that you understand that tarkov is a game, and the player is asking in the context of the game.
+and, pick one of the base pieces of gear (the key of the dictionary) and respond with that term alone. 
+
+Asnwer it in this format: 
+
+["weapon"]

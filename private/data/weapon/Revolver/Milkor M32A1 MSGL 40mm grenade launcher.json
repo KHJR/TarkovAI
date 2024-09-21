@@ -1,0 +1,716 @@
+{
+    "Tree Structure": {
+        "Pistol Grip": {
+            "Required": true,
+            "Allowed Items": {
+                "AR-15 Colt A2 pistol grip": {},
+                "AR-15 Damage Industries ECS pistol grip (FDE)": {},
+                "AR-15 F1 Firearms Skeletonized Style 1 pistol grip": {},
+                "AR-15 F1 Firearms Skeletonized Style 2 PC pistol grip": {},
+                "AR-15 F1 Firearms Skeletonized Style 2 pistol grip": {},
+                "AR-15 HK Battle Grip pistol grip": {},
+                "Hogue OverMolded Rubber Grip (Black)": {},
+                "Hogue OverMolded Rubber Grip (FDE)": {},
+                "Hogue OverMolded Rubber Grip (Ghillie Earth)": {},
+                "Hogue OverMolded Rubber Grip (Ghillie Green)": {},
+                "Hogue OverMolded Rubber Grip (Olive Drab)": {},
+                "AR-15 Magpul MIAD pistol grip (FDE)": {},
+                "AR-15 Aeroknox Orion pistol grip": {}
+            }
+        },
+        "Stock": {
+            "Required": true,
+            "Allowed Items": {
+                "AR-15 B5 Systems Precision stock": {},
+                "AR-15 CMMG RipStock buttstock": {},
+                "AR-15 FAB Defense GL-CORE buttstock": {},
+                "AR-15 FAB Defense GL-SHOCK buttstock": {},
+                "AR-15 FAB Defense GLR-16-S stock": {},
+                "AR-15 High Standard M4SS Stock": {},
+                "AR-15 HK E1 buttstock": {},
+                "AR-15 HK Slim Line buttstock": {},
+                "AK-12 stock": {},
+                "AR-15 KRISS Defiance DS150 stock (Black)": {},
+                "AR-15 KRISS Defiance DS150 stock (FDE)": {},
+                "AR-15 LMT SOPMOD stock": {},
+                "AR-15 Magpul CTR Carbine stock (Black)": {},
+                "AR-15 Magpul CTR Carbine stock (FDE)": {},
+                "AR-15 Magpul MOE Carbine stock (Black)": {
+                    "Stock": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Magpul MOE Carbine rubber buttpad": {}
+                        }
+                    }
+                },
+                "AR-15 Magpul MOE Carbine stock (FDE)": {
+                    "Stock": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Magpul MOE Carbine rubber buttpad": {}
+                        }
+                    }
+                },
+                "AR-15 Magpul MOE Carbine stock (Foliage Green)": {
+                    "Stock": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Magpul MOE Carbine rubber buttpad": {}
+                        }
+                    }
+                },
+                "AR-15 Magpul MOE Carbine stock (Olive Drab)": {
+                    "Stock": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Magpul MOE Carbine rubber buttpad": {}
+                        }
+                    }
+                },
+                "AR-15 Magpul MOE Carbine stock (Stealth Grey)": {
+                    "Stock": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Magpul MOE Carbine rubber buttpad": {}
+                        }
+                    }
+                },
+                "AR-15 Magpul PRS GEN3 stock (Black)": {},
+                "AR-15 Magpul PRS GEN3 stock (Grey)": {},
+                "AR-15 MFT BUS stock": {},
+                "AR-15 SB Tactical SBA3 brace": {},
+                "AR-15 Strike Industries Viper Mod 1 stock": {},
+                "AR-15 Vltor EMOD stock": {},
+                "AR-15 Daniel Defense Enhanced Collapsible Buttstock (Black)": {
+                    "Stock": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Daniel Defense TCS 12mm Buttpad ": {},
+                            "Daniel Defense TCS 20mm Buttpad ": {}
+                        }
+                    }
+                },
+                "AR-15 Daniel Defense Enhanced Collapsible Buttstock (FDE)": {
+                    "Stock": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Daniel Defense TCS 12mm Buttpad ": {},
+                            "Daniel Defense TCS 20mm Buttpad ": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Magazine": {
+            "Required": true,
+            "Allowed Items": {
+                "M32A1 40mm cylinder": {
+                    "Chamber": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "40x46mm M381 (HE) grenade": {},
+                            "40x46mm M386 (HE) grenade": {},
+                            "40x46mm M406 (HE) grenade": {},
+                            "40x46mm M433 (HEDP) grenade": {},
+                            "40x46mm M441 (HE) grenade": {},
+                            "40x46mm M576 (MP-APERS) grenade": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Foregrip": {
+            "Required": false,
+            "Allowed Items": {
+                "BCM GUNFIGHTER MOD 3 vertical foregrip": {},
+                "ASh-12 vertical foregrip": {},
+                "Fortis Shift tactical foregrip": {},
+                "HK Sturmgriff foregrip": {},
+                "KAC vertical foregrip": {},
+                "Magpul AFG tactical foregrip (Black)": {},
+                "Magpul AFG tactical foregrip (FDE)": {},
+                "Magpul AFG tactical foregrip (Forest Green)": {},
+                "Magpul AFG tactical foregrip (Olive Drab)": {},
+                "Magpul RVG foregrip (Black)": {},
+                "Magpul RVG foregrip (FDE)": {},
+                "RTM Pillau tactical foregrip": {},
+                "Stark SE-5 Express Forward foregrip": {},
+                "Strike Industries Cobra Tactical foregrip": {},
+                "TangoDown Stubby BGV-MK46K foregrip (Black)": {},
+                "TangoDown Stubby BGV-MK46K foregrip (FDE)": {},
+                "TangoDown Stubby BGV-MK46K foregrip (Stealth Grey)": {},
+                "Tactical Dynamics Skeletonized Foregrip": {},
+                "Viking Tactics UVG tactical foregrip": {},
+                "Zenit RK-1 tactical foregrip on B-25U mount": {},
+                "Zenit RK-0 tactical foregrip": {},
+                "Zenit RK-1 tactical foregrip": {},
+                "Zenit RK-2 tactical foregrip": {},
+                "Zenit RK-4 tactical foregrip": {},
+                "Zenit RK-5 tactical foregrip": {},
+                "Zenit RK-6 tactical foregrip": {},
+                "RTM Pillau tactical foregrip (Sand)": {},
+                "RTM Osovets P-2 tactical foregrip (Khaki)": {},
+                "RTM Osovets P-2 tactical foregrip": {},
+                "RTM Pillau P-2 tactical foregrip (Red)": {},
+                "Stark SE-5 Express Forward foregrip (FDE)": {},
+                "Strike Industries Cobra Tactical foregrip (FDE)": {},
+                "TangoDown BGV-QDITI foregrip (Black)": {},
+                "TangoDown BGV-QDITI foregrip (FDE)": {},
+                "TangoDown Stubby BGV-QDK foregrip (Black)": {},
+                "TangoDown Stubby BGV-QDK foregrip (FDE)": {}
+            }
+        },
+        "Scope": {
+            "Required": false,
+            "Allowed Items": {
+                "Milkor M2A1 grenade launcher reflex sight": {
+                    "Scope": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Wilcox RAPTAR ES Tactical Rangefinder": {}
+                        }
+                    },
+                    "Tactical": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Holosun LS321 Tactical device": {},
+                            "L3Harris AN/PEQ-15 tactical device": {},
+                            "L3Harris LA-5B/PEQ tactical device": {},
+                            "Wilcox RAPTAR ES Tactical Rangefinder": {},
+                            "Zenit Perst-3 tactical device": {},
+                            "NcSTAR Tactical blue laser LAM-module": {}
+                        }
+                    }
+                }
+            }
+        },
+        "Tactical": {
+            "Required": false,
+            "Allowed Items": {
+                "Glock GTL 21 tactical flashlight with laser": {},
+                "Holosun LS321 Tactical device": {},
+                "L3Harris AN/PEQ-15 tactical device": {},
+                "Insight AN/PEQ-2 tactical device": {},
+                "L3Harris LA-5B/PEQ tactical device": {},
+                "NcSTAR Tactical blue laser LAM-module": {},
+                "Steiner DBAL-PL tactical device": {},
+                "Steiner LAS/TAC 2 tactical flashlight": {},
+                "SureFire X400 Ultra tactical flashlight with laser": {},
+                "SureFire XC1 tactical flashlight": {},
+                "Wilcox RAPTAR ES Tactical Rangefinder": {},
+                "Zenit Klesch-2IKS IR illuminator with laser": {},
+                "Zenit Klesch-2P flashlight with laser": {},
+                "Zenit Klesch-2U tactical flashlight": {},
+                "Zenit Perst-3 tactical device": {},
+                "Kiba Arms 25mm accessory ring mount": {
+                    "Tactical": {
+                        "Required": false,
+                        "Allowed Items": {
+                            "Armytek Predator Pro v3 XHP35 HI flashlight": {},
+                            "Ultrafire WF-501B flashlight": {}
+                        }
+                    }
+                },
+                "MAWL-C1+ tactical device": {}
+            }
+        }
+    },
+    "Item Properties": {
+        "AR-15 Colt A2 pistol grip": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 Damage Industries ECS pistol grip (FDE)": {
+            "ergonomics": 5.5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 F1 Firearms Skeletonized Style 1 pistol grip": {
+            "ergonomics": 11,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 F1 Firearms Skeletonized Style 2 PC pistol grip": {
+            "ergonomics": 13,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 F1 Firearms Skeletonized Style 2 pistol grip": {
+            "ergonomics": 12,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 HK Battle Grip pistol grip": {
+            "ergonomics": 6,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Hogue OverMolded Rubber Grip (Black)": {
+            "ergonomics": 9,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Hogue OverMolded Rubber Grip (FDE)": {
+            "ergonomics": 9,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Hogue OverMolded Rubber Grip (Ghillie Earth)": {
+            "ergonomics": 9,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Hogue OverMolded Rubber Grip (Ghillie Green)": {
+            "ergonomics": 9,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Hogue OverMolded Rubber Grip (Olive Drab)": {
+            "ergonomics": 9,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul MIAD pistol grip (FDE)": {
+            "ergonomics": 8,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 Aeroknox Orion pistol grip": {
+            "ergonomics": 12,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "AR-15 B5 Systems Precision stock": {
+            "ergonomics": 1,
+            "recoilModifier": -0.24,
+            "conflictingItems": []
+        },
+        "AR-15 CMMG RipStock buttstock": {
+            "ergonomics": 8,
+            "recoilModifier": -0.19,
+            "conflictingItems": []
+        },
+        "AR-15 FAB Defense GL-CORE buttstock": {
+            "ergonomics": 15,
+            "recoilModifier": -0.19,
+            "conflictingItems": []
+        },
+        "AR-15 FAB Defense GL-SHOCK buttstock": {
+            "ergonomics": 13,
+            "recoilModifier": -0.2,
+            "conflictingItems": []
+        },
+        "AR-15 FAB Defense GLR-16-S stock": {
+            "ergonomics": 13,
+            "recoilModifier": -0.2,
+            "conflictingItems": []
+        },
+        "AR-15 High Standard M4SS Stock": {
+            "ergonomics": 4,
+            "recoilModifier": -0.19,
+            "conflictingItems": []
+        },
+        "AR-15 HK E1 buttstock": {
+            "ergonomics": 4,
+            "recoilModifier": -0.23,
+            "conflictingItems": []
+        },
+        "AR-15 HK Slim Line buttstock": {
+            "ergonomics": 5,
+            "recoilModifier": -0.21,
+            "conflictingItems": []
+        },
+        "AK-12 stock": {
+            "ergonomics": 3,
+            "recoilModifier": -0.21,
+            "conflictingItems": []
+        },
+        "AR-15 KRISS Defiance DS150 stock (Black)": {
+            "ergonomics": 9,
+            "recoilModifier": -0.22,
+            "conflictingItems": []
+        },
+        "AR-15 KRISS Defiance DS150 stock (FDE)": {
+            "ergonomics": 9,
+            "recoilModifier": -0.22,
+            "conflictingItems": []
+        },
+        "AR-15 LMT SOPMOD stock": {
+            "ergonomics": 6,
+            "recoilModifier": -0.2,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul CTR Carbine stock (Black)": {
+            "ergonomics": 10,
+            "recoilModifier": -0.22,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul CTR Carbine stock (FDE)": {
+            "ergonomics": 10,
+            "recoilModifier": -0.22,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul MOE Carbine stock (Black)": {
+            "ergonomics": 8,
+            "recoilModifier": -0.21,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul MOE Carbine stock (FDE)": {
+            "ergonomics": 8,
+            "recoilModifier": -0.21,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul MOE Carbine stock (Foliage Green)": {
+            "ergonomics": 8,
+            "recoilModifier": -0.21,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul MOE Carbine stock (Olive Drab)": {
+            "ergonomics": 8,
+            "recoilModifier": -0.21,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul MOE Carbine stock (Stealth Grey)": {
+            "ergonomics": 8,
+            "recoilModifier": -0.21,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul PRS GEN3 stock (Black)": {
+            "ergonomics": 3,
+            "recoilModifier": -0.24,
+            "conflictingItems": []
+        },
+        "AR-15 Magpul PRS GEN3 stock (Grey)": {
+            "ergonomics": 3,
+            "recoilModifier": -0.24,
+            "conflictingItems": []
+        },
+        "AR-15 MFT BUS stock": {
+            "ergonomics": 2,
+            "recoilModifier": -0.22,
+            "conflictingItems": []
+        },
+        "AR-15 SB Tactical SBA3 brace": {
+            "ergonomics": 4,
+            "recoilModifier": -0.15,
+            "conflictingItems": []
+        },
+        "AR-15 Strike Industries Viper Mod 1 stock": {
+            "ergonomics": 11,
+            "recoilModifier": -0.21,
+            "conflictingItems": []
+        },
+        "AR-15 Vltor EMOD stock": {
+            "ergonomics": 9,
+            "recoilModifier": -0.22,
+            "conflictingItems": []
+        },
+        "AR-15 Daniel Defense Enhanced Collapsible Buttstock (Black)": {
+            "ergonomics": 14,
+            "recoilModifier": -0.2,
+            "conflictingItems": [
+                "AR-15 ADAR 2-15 wooden stock",
+                "AR-15 Hera Arms CQR pistol grip/buttstock"
+            ]
+        },
+        "AR-15 Daniel Defense Enhanced Collapsible Buttstock (FDE)": {
+            "ergonomics": 14,
+            "recoilModifier": -0.2,
+            "conflictingItems": [
+                "AR-15 ADAR 2-15 wooden stock",
+                "AR-15 Hera Arms CQR pistol grip/buttstock"
+            ]
+        },
+        "M32A1 40mm cylinder": {
+            "ergonomics": -10,
+            "recoilModifier": -0.01,
+            "capacity": 0,
+            "conflictingItems": []
+        },
+        "BCM GUNFIGHTER MOD 3 vertical foregrip": {
+            "ergonomics": 6,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "ASh-12 vertical foregrip": {
+            "ergonomics": 5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Fortis Shift tactical foregrip": {
+            "ergonomics": 8,
+            "recoilModifier": -0.015,
+            "conflictingItems": []
+        },
+        "HK Sturmgriff foregrip": {
+            "ergonomics": 7,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "KAC vertical foregrip": {
+            "ergonomics": 7,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Magpul AFG tactical foregrip (Black)": {
+            "ergonomics": 6,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Magpul AFG tactical foregrip (FDE)": {
+            "ergonomics": 6,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Magpul AFG tactical foregrip (Forest Green)": {
+            "ergonomics": 6,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Magpul AFG tactical foregrip (Olive Drab)": {
+            "ergonomics": 6,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Magpul RVG foregrip (Black)": {
+            "ergonomics": 7,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Magpul RVG foregrip (FDE)": {
+            "ergonomics": 7,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "RTM Pillau tactical foregrip": {
+            "ergonomics": 4,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "Stark SE-5 Express Forward foregrip": {
+            "ergonomics": 8,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Strike Industries Cobra Tactical foregrip": {
+            "ergonomics": 9,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "TangoDown Stubby BGV-MK46K foregrip (Black)": {
+            "ergonomics": 5,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "TangoDown Stubby BGV-MK46K foregrip (FDE)": {
+            "ergonomics": 5,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "TangoDown Stubby BGV-MK46K foregrip (Stealth Grey)": {
+            "ergonomics": 5,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "Tactical Dynamics Skeletonized Foregrip": {
+            "ergonomics": 6,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Viking Tactics UVG tactical foregrip": {
+            "ergonomics": 5,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Zenit RK-1 tactical foregrip on B-25U mount": {
+            "ergonomics": 2,
+            "recoilModifier": -0.03,
+            "conflictingItems": []
+        },
+        "Zenit RK-0 tactical foregrip": {
+            "ergonomics": 3,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Zenit RK-1 tactical foregrip": {
+            "ergonomics": 1,
+            "recoilModifier": -0.03,
+            "conflictingItems": []
+        },
+        "Zenit RK-2 tactical foregrip": {
+            "ergonomics": -8,
+            "recoilModifier": -0.04,
+            "conflictingItems": []
+        },
+        "Zenit RK-4 tactical foregrip": {
+            "ergonomics": 4,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Zenit RK-5 tactical foregrip": {
+            "ergonomics": 5,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Zenit RK-6 tactical foregrip": {
+            "ergonomics": 5,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "RTM Pillau tactical foregrip (Sand)": {
+            "ergonomics": 4,
+            "recoilModifier": -0.01,
+            "conflictingItems": [
+                "GP-25 Kostyor 40mm underbarrel grenade launcher"
+            ]
+        },
+        "RTM Osovets P-2 tactical foregrip (Khaki)": {
+            "ergonomics": 1,
+            "recoilModifier": -0.03,
+            "conflictingItems": [
+                "GP-25 Kostyor 40mm underbarrel grenade launcher"
+            ]
+        },
+        "RTM Osovets P-2 tactical foregrip": {
+            "ergonomics": 1,
+            "recoilModifier": -0.03,
+            "conflictingItems": [
+                "GP-25 Kostyor 40mm underbarrel grenade launcher"
+            ]
+        },
+        "RTM Pillau P-2 tactical foregrip (Red)": {
+            "ergonomics": 6,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Stark SE-5 Express Forward foregrip (FDE)": {
+            "ergonomics": 8,
+            "recoilModifier": -0.02,
+            "conflictingItems": []
+        },
+        "Strike Industries Cobra Tactical foregrip (FDE)": {
+            "ergonomics": 9,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "TangoDown BGV-QDITI foregrip (Black)": {
+            "ergonomics": 3.5,
+            "recoilModifier": -0.015,
+            "conflictingItems": []
+        },
+        "TangoDown BGV-QDITI foregrip (FDE)": {
+            "ergonomics": 3.5,
+            "recoilModifier": -0.015,
+            "conflictingItems": []
+        },
+        "TangoDown Stubby BGV-QDK foregrip (Black)": {
+            "ergonomics": 4.5,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "TangoDown Stubby BGV-QDK foregrip (FDE)": {
+            "ergonomics": 4.5,
+            "recoilModifier": -0.01,
+            "conflictingItems": []
+        },
+        "Milkor M2A1 grenade launcher reflex sight": {
+            "ergonomics": -6,
+            "recoilModifier": 0,
+            "zoomLevels": [
+                [
+                    1
+                ]
+            ],
+            "conflictingItems": []
+        },
+        "Holosun LS321 Tactical device": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "L3Harris AN/PEQ-15 tactical device": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "L3Harris LA-5B/PEQ tactical device": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire XC1 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Wilcox RAPTAR ES Tactical Rangefinder": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Perst-3 tactical device": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "MAWL-C1+ tactical device": {
+            "ergonomics": -1.5,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Glock GTL 21 tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Insight AN/PEQ-2 tactical device": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "NcSTAR Tactical blue laser LAM-module": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner DBAL-PL tactical device": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Steiner LAS/TAC 2 tactical flashlight": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "SureFire X400 Ultra tactical flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2IKS IR illuminator with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2P flashlight with laser": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Zenit Klesch-2U tactical flashlight": {
+            "ergonomics": -2,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Kiba Arms 25mm accessory ring mount": {
+            "ergonomics": -1,
+            "recoilModifier": 0,
+            "conflictingItems": []
+        },
+        "Milkor M32A1 MSGL 40mm grenade launcher": {
+            "conflictingItems": []
+        }
+    }
+}

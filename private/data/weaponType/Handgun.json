@@ -1,0 +1,343 @@
+{
+	"Makarov PM 9x18PM pistol": {
+		"weight": 0.333,
+		"ergonomics": 90,
+		"verticalRecoil": 380,
+		"horizontalRecoil": 265,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber9x18PM",
+		"description": "The Makarov PM 9x18PM pistol is a compact and reliable firearm with limited customization options. The weapon can be equipped with various magazines, including an 84-round drum magazine for increased capacity. The grip can be replaced with various options, including the PM Tactic Kit pistol grip, which allows for the attachment of a tactical flashlight and a scope. The weapon can be fitted with a variety of reflex sights, including the Aimpoint Micro H-2 reflex sight and the BelOMO PK-06 reflex sight, for enhanced aiming capabilities. While the Makarov can be equipped with a tactical flashlight, it lacks the capability of mounting a suppressor. The weapon's ergonomics can be improved through grip modifications, but the maximum capacity remains limited due to the magazine options available. Overall, the Makarov PM 9x18PM pistol is a versatile firearm suitable for close-quarters combat with limited customization and suppression options. \n"
+	},
+	"SIG P226R 9x19 pistol": {
+		"weight": 0.231,
+		"ergonomics": 83,
+		"verticalRecoil": 372,
+		"horizontalRecoil": 267,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The SIG P226R 9x19 pistol is a versatile sidearm in Escape from Tarkov. You can equip it with a threaded barrel to add a suppressor, compensator, or thread protection cap. Suppressors, like the AAC Illusion 9, reduce noise and recoil, but significantly decrease ergonomics. The P226R can be fitted with a variety of optics including reflex sights like the Aimpoint Micro H-2 and the Trijicon RMR. You can also attach tactical devices like flashlights and lasers, but these have minimal impact on the weapon's performance. While the P226R's ergonomics can be improved by selecting a higher quality pistol grip, it cannot be significantly increased through modding. The gun can also be equipped with extended magazines for increased capacity, but this comes at the cost of slightly reduced ergonomics. Ultimately, the SIG P226R is a reliable pistol with a diverse array of customization options, allowing players to tailor it to their preferred playstyle. \n"
+	},
+	"PB 9x18PM silenced pistol": {
+		"weight": 0.674,
+		"ergonomics": 63,
+		"verticalRecoil": 350,
+		"horizontalRecoil": 239,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber9x18PM",
+		"description": "The PB 9x18PM silenced pistol is a firearm in Escape from Tarkov that offers a balance of firepower and stealth. It features a built-in suppressor, providing a significant reduction in noise upon firing. The pistol can be equipped with a variety of magazines, including the 84-round drum magazine for increased ammunition capacity. However, the drum magazine comes with a substantial decrease in ergonomics. To improve the gun's handling, the PB bakelite side grips are mandatory, providing a modest increase in ergonomics. The PB 9x18PM silenced pistol lacks the ability to attach additional muzzle devices beyond the integrated suppressor. The weapon's recoil can be slightly reduced by using the suppressor, offering improved accuracy during sustained fire. While the pistol benefits from a high magazine capacity, its ergonomics are significantly affected by the larger magazines, potentially impacting its handling and aim. Overall, the PB 9x18PM silenced pistol offers a viable option for close-range engagements, particularly when stealth is prioritized.\n"
+	},
+	"TT-33 7.62x25 TT pistol": {
+		"weight": 0.664,
+		"ergonomics": 70,
+		"verticalRecoil": 536,
+		"horizontalRecoil": 315,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x25TT",
+		"description": "The TT-33 7.62x25 TT pistol can be customized with a variety of attachments, including barrels, grips, magazines, muzzles, and tactical accessories. It's mandatory to equip a barrel and a pistol grip, but you can choose from a selection of options to optimize your build. You can equip a suppressor, a muzzle brake, or both, but not simultaneously. The TT-33 7.62x25 TT pistol doesn't have a dedicated optic slot, so you're limited to using iron sights or a side-mounted laser. You can choose between various grips to improve ergonomics, but the recoil modifier is relatively low, even with modifications. The TT-33 7.62x25 TT pistol offers limited customization options, but you can increase its ergonomics and reduce recoil through attachment choices. It doesn't have a high capacity magazine, so you'll need to reload frequently. Despite its limitations, it can be a viable option for close-range engagements in Escape from Tarkov. \n"
+	},
+	"Yarygin MP-443 Grach 9x19 pistol": {
+		"weight": 0.79,
+		"ergonomics": 79,
+		"verticalRecoil": 425,
+		"horizontalRecoil": 310,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The Yarygin MP-443 Grach 9x19 pistol is a compact firearm with a limited capacity of 18 rounds per magazine. You can equip it with a variety of attachments, including a Zenit B-8 mount for optics and various tactical lights and lasers.  A UM Tactical UM3 pistol sight mount can be attached to the Zenit B-8 mount, allowing for the installation of reflex sights such as the Aimpoint Micro series, SIG Sauer ROMEO4, and others. The gun's ergonomics can be significantly improved by using a polymer pistol grip, increasing its handling and comfort. However, due to the design, a silencer cannot be fitted to this pistol. While the Grach offers a degree of customization, it lacks the versatility of larger firearms in terms of attachment options and fire modes.  Its primary advantage is its compact size, making it suitable for close-quarters combat or as a backup weapon. \n"
+	},
+	"Makarov PM (t) 9x18PM pistol": {
+		"weight": 0.34,
+		"ergonomics": 89,
+		"verticalRecoil": 380,
+		"horizontalRecoil": 265,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber9x18PM",
+		"description": "The Makarov PM (t) 9x18PM pistol is a compact and versatile firearm that can be customized with a variety of attachments.  The gun can be equipped with either a standard 8-round magazine or an 84-round makeshift drum magazine, providing a significant increase in capacity but negatively impacting ergonomics. Several suppressors are available, including the AAC Illusion 9, Alpha Dog Alpha 9, SIG Sauer SRD9, and SilencerCo Osprey 9, each offering varying levels of noise reduction and recoil control. The pistol's grip can be upgraded with options like the PM FAB Defense PM-G grip or the PM Tactic Kit grip, providing enhanced ergonomics and the ability to mount a tactical flashlight or a reflex sight.  The PM Tactic Kit grip also allows for the attachment of a laser sight.  However, the Makarov PM (t) lacks the ability to mount optics directly on the receiver, limiting its long-range accuracy potential.   While the Makarov PM (t) is a reliable and adaptable pistol, its lack of direct optic mounting restricts its use in situations requiring precise long-range engagement. \n"
+	},
+	"Serdyukov SR-1MP Gyurza 9x21 pistol": {
+		"weight": 0.79,
+		"ergonomics": 81,
+		"verticalRecoil": 442,
+		"horizontalRecoil": 325,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber9x21",
+		"description": "The Serdyukov SR-1MP Gyurza 9x21 pistol offers a unique blend of versatility and customization. Players can choose between a single rail or quad rail mount, allowing for various tactical attachments. Both mounts can be equipped with a sound suppressor, offering a noticeable reduction in noise and recoil. While the pistol can be fitted with a range of optics, including reflex sights and lasers, it lacks the option for larger scopes, limiting its long-range capabilities. Despite the potential for customization, the ergonomics of the SR-1MP Gyurza can be significantly reduced by adding attachments.  This trade-off between versatility and handling is a key consideration for players choosing to utilize this weapon.  The SR-1MP Gyurza features a standard magazine capacity of 18 rounds, making it suitable for close-quarters engagements. However, the lack of a larger capacity magazine option may require players to reload more frequently in longer fights. \n"
+	},
+	"Stechkin APS 9x18PM machine pistol": {
+		"weight": 0.86,
+		"ergonomics": 72,
+		"verticalRecoil": 328,
+		"horizontalRecoil": 260,
+		"effectiveDistance": 50,
+		"fireRate": 750,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x18PM",
+		"description": "The Stechkin APS 9x18PM machine pistol is a versatile weapon that can be customized with a variety of attachments. It is required to have a pistol grip, and the APS bakelite side-pieces offer a significant increase in ergonomics. The weapon can be fitted with a magazine, stock, and sights. The APS 9x18PM 20-round magazine provides a standard capacity, while the APB detachable wire stock offers a reduction in recoil.  The front sight option provides a zoom level of 1, and you can choose between the APB or APS rear sights, which also offer a zoom level of 1.  The Stechkin APS 9x18PM machine pistol does not allow for any significant changes to its recoil modifier through attachments. This weapon can be customized to improve ergonomics and recoil control, but it is limited in its ability to alter zoom levels.\n"
+	},
+	"Glock 17 9x19 pistol": {
+		"weight": 0.231,
+		"ergonomics": 87,
+		"verticalRecoil": 302,
+		"horizontalRecoil": 252,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The Glock 17 9x19 pistol is a versatile weapon with a range of customization options. You can attach various barrels, including threaded barrels for suppressors, and a compensator for reduced recoil.  The pistol can be equipped with a variety of sights, including reflex sights, and can be fitted with tactical lights and lasers for improved visibility and aiming. The stock can be added to the pistol for increased stability and recoil control, enhancing its overall ergonomics. The Glock 17 9x19 can be further optimized by using different magazines, ranging from standard 17-round magazines to larger capacity drums.  However, it's important to note that the Glock 17 9x19 pistol cannot be fitted with optics that require a rail mount.  Overall, the Glock 17 9x19 pistol is a well-rounded weapon that can be tailored to suit different player preferences and tactical situations. \n"
+	},
+	"APB 9x18PM silenced machine pistol": {
+		"weight": 0.81,
+		"ergonomics": 61,
+		"verticalRecoil": 220,
+		"horizontalRecoil": 174,
+		"effectiveDistance": 50,
+		"fireRate": 750,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x18PM",
+		"description": "The APB 9x18PM silenced machine pistol is a firearm that can be customized with a variety of attachments, allowing for adjustments to its ergonomics and recoil. The pistol grip is mandatory and provides a baseline ergonomics bonus.  The weapon can be equipped with a detachable wire stock, which further reduces recoil.  A 20-round magazine can be used for increased ammunition capacity, but comes at the cost of ergonomics.  The APB 9x18PM silenced machine pistol can be fitted with a sound suppressor, significantly reducing noise but also negatively impacting ergonomics.  A front sight and a choice between two different rear sights can be added, but they provide no functional benefits.  The gun cannot be fitted with any optics, limiting its capabilities for long-range engagements.  Despite the options for customization, the weapon remains limited in its ability to compete with other firearms in the game due to its inherent lower damage output and rate of fire. \n"
+	},
+	"Glock 18C 9x19 machine pistol": {
+		"weight": 0.231,
+		"ergonomics": 87,
+		"verticalRecoil": 288,
+		"horizontalRecoil": 269,
+		"effectiveDistance": 50,
+		"fireRate": 1200,
+		"fireModes": [
+			"Single fire",
+			"Full auto"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The Glock 18C 9x19 machine pistol can be customized with a variety of attachments, including barrels, pistol grips, sights, magazines, tactical devices, and a stock. It can be equipped with a compensator to reduce recoil, and a tactical flashlight and laser for improved visibility and target acquisition. The Glock 18C can also be fitted with a variety of reflex sights, such as the Aimpoint Micro T-1 or the SIG Sauer ROMEO4, for enhanced accuracy and precision. However, it lacks the ability to mount optics that require a Picatinny rail, limiting its versatility in long-range engagements. While various magazines increase the capacity, the maximum achievable is 50 rounds with the drum magazine, which comes at the cost of ergonomics. Despite the customization options, the Glock 18C retains its inherent strengths of high rate of fire and compact size, making it a potent close-to-medium range weapon. \n"
+	},
+	"TT-33 7.62x25 TT pistol (Golden)": {
+		"weight": 0.664,
+		"ergonomics": 70,
+		"verticalRecoil": 536,
+		"horizontalRecoil": 315,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber762x25TT",
+		"description": "The TT-33 7.62x25 TT pistol (Golden) is a pistol that can be customized with a variety of attachments. You can choose from three different barrels, each with varying ergonomics and recoil reduction. You can also choose from a selection of grips, each with its own impact on ergonomics.  The TT-33 can be equipped with a magazine, but the only option is an 8-round magazine. It has two muzzle options, a muzzle brake-compensator and a makeshift sound suppressor.  You can also equip a tactical LAM-module.  The TT-33 can be improved through attachments, particularly in terms of ergonomics, but it's important to note that you can't equip a muzzle brake-compensator and sound suppressor simultaneously. \n"
+	},
+	"Beretta M9A3 9x19 pistol": {
+		"weight": 0.231,
+		"ergonomics": 71,
+		"verticalRecoil": 392,
+		"horizontalRecoil": 272,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The Beretta M9A3 9x19 pistol is a versatile firearm in Escape from Tarkov. You can equip it with a variety of accessories to enhance its performance, including a threaded barrel, sound suppressor, and tactical flashlight. The gun has several sight mount options for reflex sights, allowing you to customize your aiming preferences.  The M9A3 pistol can be equipped with either a standard or high-profile Aimpoint Micro Spacer, providing different sight height options. While the weapon supports attachments for sights and lights, it does not offer any options for adding a stock or grip to improve stability.  The M9A3's base ergonomics can be slightly improved with the addition of polymer side grips. The maximum magazine capacity for the M9A3 is 17 rounds with the standard magazine, limiting its firepower compared to other pistols in the game. \n"
+	},
+	"FN Five-seveN MK2 5.7x28 pistol": {
+		"weight": 0.23,
+		"ergonomics": 88,
+		"verticalRecoil": 273,
+		"horizontalRecoil": 233,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber57x28",
+		"description": "The FN Five-seveN MK2 is a pistol with a base ergonomics score of 3 and can be modified with a variety of attachments. The gun can be fitted with either a standard or threaded barrel, with the latter allowing for the addition of a suppressor, which reduces recoil and ergonomics. You can equip various optics like the Aimpoint Micro T-1, Trijicon RMR, and Sig Sauer ROMEO4 reflex sights. The weapon can also be fitted with a tactical flashlight and laser combination, such as the SureFire X400 Ultra or the Zenit Klesch-2P. While the FN Five-seveN MK2 offers customization options for sights and tactical attachments, it has a limited magazine capacity of 20 rounds.  Ergonomics can be slightly improved by using a different magazine, but the recoil modifier cannot be altered. It's important to note that the FN Five-seveN MK2 cannot be fitted with a silencer without first equipping a threaded barrel. \n"
+	},
+	"FN Five-seveN MK2 5.7x28 pistol (FDE)": {
+		"weight": 0.23,
+		"ergonomics": 73,
+		"verticalRecoil": 256,
+		"horizontalRecoil": 218,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber57x28",
+		"description": "The FN Five-seveN MK2 5.7x28 pistol (FDE) is a compact pistol with a base ergonomics rating of 3. It can be equipped with a threaded or standard barrel, both offering a -0.03 recoil modifier.  The pistol accepts a 20-round magazine, reducing ergonomics by 1. You can attach a variety of tactical devices, including flashlights, lasers, and IR illuminators, all of which decrease ergonomics by 1.  The pistol can also accommodate a variety of optics through the UM Tactical UM3 sight mount. However, it's important to note that the mount cannot be used with the SilencerCo Hybrid 46 multi-caliber sound suppressor. While the FN Five-seveN MK2 offers several customization options, its ergonomics cannot be significantly increased through modding. \n"
+	},
+	"Colt M1911A1 .45 ACP pistol": {
+		"weight": 0.231,
+		"ergonomics": 78,
+		"verticalRecoil": 437,
+		"horizontalRecoil": 344,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber1143x23ACP",
+		"description": "The Colt M1911A1 .45 ACP pistol is a versatile firearm that can be customized with a variety of attachments. You can enhance its ergonomics by equipping different grips and hammers, with the M1911 Pachmayr American Legend Grip #423 offering the most significant improvement. The weapon offers the option to add a suppressor, allowing for stealthy engagements, but it comes at the cost of reduced ergonomics. The M1911A1 .45 ACP threaded barrel allows for the attachment of the SilencerCo Omega 45k Piston Mount adapter, which can then be fitted with the SilencerCo Omega 45k .45 ACP sound suppressor. Alternatively, the M1911 Anarchy Outdoors .45 ACP muzzle brake can be attached for reduced recoil. You can also customize the sights, with options for both front and rear sights. The pistol is equipped with a trigger guard mount that can accommodate various tactical devices, such as flashlights and lasers.  The Colt M1911A1 .45 ACP pistol is limited to using either a suppressor or a muzzle brake due to conflicting items. However, it can be outfitted with a variety of attachments to enhance its performance and tailor it to your specific needs. \n"
+	},
+	"Colt M45A1 .45 ACP pistol": {
+		"weight": 0.205,
+		"ergonomics": 89,
+		"verticalRecoil": 425,
+		"horizontalRecoil": 315,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber1143x23ACP",
+		"description": "The Colt M45A1 .45 ACP pistol is a solid sidearm with moderate ergonomics. You can equip it with various accessories, including different barrels, magazines, and sights.  The M45A1 slide offers a decent base ergonomics score, with additional options for both front and rear sights.  The pistol can be further customized with different triggers and hammers, allowing you to fine-tune your recoil control and ergonomics.  While the M45A1 pistol can be equipped with a variety of attachments, it does not allow for the mounting of a suppressor. This limitation restricts its effectiveness for stealthy engagements. However, the M45A1 pistol boasts a respectable magazine capacity, making it suitable for multiple engagements.  Ultimately, the M45A1 .45 ACP pistol offers a balanced combination of performance and customization, making it a reliable choice for players looking for a versatile sidearm. \n"
+	},
+	"Lebedev PL-15 9x19 pistol": {
+		"weight": 0.49,
+		"ergonomics": 91,
+		"verticalRecoil": 280,
+		"horizontalRecoil": 228,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The Lebedev PL-15 9x19 pistol is a versatile platform capable of accommodating a variety of attachments.  You can choose between two different barrels, a standard and a threaded barrel, allowing you to add a suppressor.  A selection of suppressors are available, each offering varying levels of sound reduction and recoil mitigation.  The pistol's receiver can be equipped with either standard or extended front and rear sights, providing customization for user preference.  While the pistol accepts a standard 16-round magazine, no other magazine options are currently available.  Ergonomics can be improved by choosing the PL-15 pistol slide, but overall, the pistol's ergonomics are limited due to the available attachments.  The PL-15 can be equipped with a variety of tactical lights and lasers, enhancing its functionality in low-light environments.  However, the PL-15 lacks the ability to mount optics directly onto the receiver, limiting its long-range potential. \n"
+	},
+	"HK USP .45 ACP pistol": {
+		"weight": 0.222,
+		"ergonomics": 85,
+		"verticalRecoil": 402,
+		"horizontalRecoil": 289,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber1143x23ACP",
+		"description": "The HK USP .45 ACP pistol offers a variety of customization options.  You can equip it with various barrels, including the Elite and Match barrels which provide a significant reduction in recoil, but decrease ergonomics. The USP can be fitted with different sights, including a red dot sight mount compatible with the Burris FastFire 3.  The USP can also be fitted with a compensator, but this significantly reduces ergonomics, making it a trade-off.  The USP can be outfitted with a rail adapter, allowing for the use of tactical lights and lasers. The USP can be fitted with both tactical and standard magazines.  The USP lacks a dedicated slot for a suppressor, requiring the use of a threaded barrel and a suppressor adapter. \n"
+	},
+	"Glock 19X 9x19 pistol": {
+		"weight": 0.197,
+		"ergonomics": 90.5,
+		"verticalRecoil": 293,
+		"horizontalRecoil": 243,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber9x19PARA",
+		"description": "The Glock 19X 9x19 pistol is a versatile sidearm in Escape from Tarkov. It can be customized with various attachments, including different barrels, magazines, and sights. Players can choose from several tactical attachments, such as flashlights and lasers. The Glock 19X allows the use of reflex sights mounted on dedicated mounts. The pistol can be equipped with a variety of magazines, ranging from standard 17-round magazines to drum magazines with a capacity of 50 rounds. However, adding a silencer is not possible, as the pistol lacks a threaded barrel. While the Glock 19X has good ergonomics, the default configuration can be improved with attachments like the Glock Pachmayr Tactical Grip Glove, which increases the weapon's ergonomics.  The Glock 19X can be a powerful sidearm with a good balance of accuracy and firepower, but its low capacity magazines may limit its effectiveness in sustained firefights. \n"
+	},
+	"20x1mm toy gun": {
+		"weight": 0.085,
+		"ergonomics": 100,
+		"verticalRecoil": 380,
+		"horizontalRecoil": 265,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber20x1mm",
+		"description": "The \"20x1mm toy gun\" is a basic firearm in Escape from Tarkov. It comes with a standard 20-round magazine, which is the only magazine option available.  The magazine offers no ergonomic or recoil benefits, but provides a consistent 20-round capacity.  The weapon's ergonomics and recoil cannot be improved through modifications as there are no attachments available.  Due to its limited customization options, the \"20x1mm toy gun\" offers a simple and straightforward shooting experience with no additional features or tactical advantages. Players should be aware of its limitations and consider alternative weapons for more effective engagements.  This weapon is primarily intended for recreational purposes and may not be suitable for serious combat.\n"
+	},
+	"Magnum Research Desert Eagle Mk XIX .50 AE pistol": {
+		"weight": 0.829,
+		"ergonomics": 67,
+		"verticalRecoil": 451,
+		"horizontalRecoil": 320,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber127x33",
+		"description": "The Magnum Research Desert Eagle Mk XIX .50 AE pistol is a powerful sidearm in Escape from Tarkov, capable of delivering significant damage with its .50 AE rounds. It can be equipped with various optics, including holographic sights and reflex sights, allowing for improved accuracy at close to medium ranges. The Desert Eagle Mk XIX can be fitted with different barrels, offering varying levels of recoil control. However, it lacks the ability to use a suppressor, limiting its stealth capabilities. Its ergonomics can be enhanced by choosing a grip with finger grooves, but its overall handling remains somewhat awkward. The Desert Eagle Mk XIX is not designed for rapid fire, as its large caliber and substantial recoil make it difficult to control in sustained bursts. Despite its drawbacks, the Desert Eagle Mk XIX remains a popular choice for players who value raw stopping power and intimidation factor in Escape from Tarkov. \n"
+	},
+	"Magnum Research Desert Eagle L6 .50 AE pistol": {
+		"weight": 0.578,
+		"ergonomics": 70,
+		"verticalRecoil": 449,
+		"horizontalRecoil": 318,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber127x33",
+		"description": "The Magnum Research Desert Eagle L6 .50 AE pistol has a few customization options, focusing primarily on optics and ergonomics. You can equip various reflex sights, holographic sights, and even thermal scopes, utilizing mounts like the Aimpoint Micro Standard Mount or the B&T QD NAR mount. The Desert Eagle L6  .50 AE 152mm barrel slightly reduces recoil, while the Hogue Rubber Grip with finger grooves significantly improves ergonomics.  The gun's base ergonomics can be improved with the addition of the grip, which can help with overall weapon handling. The Desert Eagle L6 can be fitted with a tactical flashlight or laser for increased visibility in low-light conditions. While the gun can be customized, it lacks the capacity to mount a suppressor, limiting its stealth potential. Additionally, the Desert Eagle L6  cannot utilize any form of stock or bipod, restricting its long-range capabilities. \n"
+	},
+	"Magnum Research Desert Eagle L6 .50 AE pistol (WTS)": {
+		"weight": 0.578,
+		"ergonomics": 70,
+		"verticalRecoil": 449,
+		"horizontalRecoil": 318,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber127x33",
+		"description": "The Magnum Research Desert Eagle L6 .50 AE pistol (WTS) is a powerful sidearm with a moderate recoil reduction modifier. It has a limited selection of attachments, primarily focusing on optics and tactical lights. The Desert Eagle L6 (WTS) can be fitted with various reflex sights, holographic sights, and even a thermal scope.  Ergonomics can be significantly improved by equipping a Hogue Rubber Grip with finger grooves. The gun has a built-in rear sight but also accepts a separate rear sight. Unfortunately, the Desert Eagle L6 (WTS) cannot be equipped with a suppressor, limiting its stealth capabilities.  Despite its limited customization options, the Desert Eagle L6 (WTS) provides a potent firepower option in close-to-medium range engagements. Players can further enhance the weapon's effectiveness by attaching a flashlight or laser for better target identification in low-light conditions. \n"
+	},
+	"Magnum Research Desert Eagle L5 .50 AE pistol": {
+		"weight": 0.55,
+		"ergonomics": 74,
+		"verticalRecoil": 460,
+		"horizontalRecoil": 327,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber127x33",
+		"description": "The Magnum Research Desert Eagle L5 .50 AE pistol is a powerful firearm in Escape from Tarkov, capable of delivering substantial damage with its .50 AE rounds.  While it can be customized with various sights and mounts, its lack of a built-in optic necessitates the addition of one for effective aiming.  A choice between a front sight and a scope must be made, as they are mutually exclusive.   The gun can be fitted with a variety of red dot sights, reflex sights, and even a thermal scope.  Ergonomics can be improved by installing a rubber grip and choosing the Desert Eagle L5 .50 AE pistol slide, but a slight ergonomic penalty is incurred by the barrel.  Recoil can be slightly reduced by using the Desert Eagle L5 .50 AE 127mm barrel.  Due to the limited magazine capacity of the Desert Eagle .50 AE 7-round magazine, players should be mindful of their ammunition usage. \n"
+	},
+	"Magnum Research Desert Eagle L5 .357 pistol": {
+		"weight": 0.55,
+		"ergonomics": 74,
+		"verticalRecoil": 446,
+		"horizontalRecoil": 314,
+		"effectiveDistance": 50,
+		"fireRate": 30,
+		"fireModes": [
+			"Single fire"
+		],
+		"caliber": "Caliber9x33R",
+		"description": "The Magnum Research Desert Eagle L5 .357 pistol is a powerful sidearm with a high capacity magazine option. It can be modded with a variety of sights, including reflex sights and even a prism scope.  The Desert Eagle can be fitted with different mounts for these sights, offering flexibility in mounting options.  The gun benefits from improved ergonomics with its available grips, but lacks the ability to mount a laser sight.  The Desert Eagle's recoil can be slightly reduced by fitting a longer barrel.  The pistol does not come with any built-in mounting slots for accessories, requiring the user to install additional parts to add sights.  While the Desert Eagle is a powerful pistol, it does not have any unique characteristics or special features that set it apart from other pistols. \n"
+	}
+}
