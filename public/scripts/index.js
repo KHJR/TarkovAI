@@ -78,7 +78,7 @@ class Agent {
 //Every code below can and should be deleted for production
 async function test() {
     const agent = new Agent()
-    const result = await agent.build('I want a MP5 with surpressor and 1x scope')
+    const result = await agent.build('I NEED to use SCAR-L with supressor, fore-grip with ergonomics higher or equal then +7 , ELCAN scope with Another 1x scope, not tanned pistol grip.')
 
     //Assign the result to the global variable
     itemTree = result.itemTree

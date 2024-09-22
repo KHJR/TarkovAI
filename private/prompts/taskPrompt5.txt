@@ -1,4 +1,5 @@
 You will be working in the context of the game Escape from Tarkov, where players customize weapons with various components. Your task is to check if all necessary items for a weapon build are included in the item list, based on the provided tree data.
+Escape from Tarkov is an online first-person game that blends survival, RPG, and tactical elements in a fictional setting. Players navigate challenging environments, gather virtual resources, and make strategic decisions to progress in the game.
 
 For each item in the list, verify if it requires other items to function. If a required parent item is missing, add it to the list.
 
@@ -12,22 +13,44 @@ Allowed Items: This lists specific items that can be attached to a parent item, 
 
 
 Example Tree Data:
-For the following tree data:
-"Trijicon RMR low profile mount": {
+"Monstrum Tactical Compact Prism Scope 2x32": {},
+"SIG Sauer BRAVO4 4x30 scope": {
     "Scope": {
         "Required": false,
         "Allowed Items": {
-            "Trijicon RMR reflex sight": {}
+            "BelOMO PK-06 reflex sight": {},
+            "Aimpoint Micro Standard Mount": {
+                "Scope": {
+                    "Required": false,
+                    "Allowed Items": {
+                        "Aimpoint Micro H-2 reflex sight": {},
+                        "Aimpoint Micro T-1 reflex sight": {},
+                        "SIG Sauer ROMEO4 reflex sight": {},
+                        "Aimpoint Micro Spacer High": {
+                            "Scope": {
+                                "Required": false,
+                                "Allowed Items": {
+                                    "Aimpoint Micro H-2 reflex sight": {},
+                                    "Aimpoint Micro T-1 reflex sight": {},
+                                    "SIG Sauer ROMEO4 reflex sight": {}
+                                }
+                            }
+                        }
+                    }
+                }
+            }
         }
     }
 }
 
-If the item list contains "Trijicon RMR reflex sight", but not "Trijicon RMR low profile mount", add the mount to the list.
+In this example, the "SIG Sauer BRAVO4 4x30 scope" allows various sub-items, such as the "BelOMO PK-06 reflex sight" or the "Aimpoint Micro Standard Mount". The mount, in turn, allows different scopes like the "Aimpoint Micro H-2 reflex sight". If a scope like the "Aimpoint Micro H-2" is present, ensure that both the required mount and the high spacer (if necessary) are also included.
+
 
 
 Guidelines:
 1. Check and add items: For each item, ensure that all necessary parent items are present. If not, add the missing items.
 2. Use exact names: Ensure all items match their exact names as listed in the tree data. Do not use placeholders or alternatives.
-3. Output format: After processing the item list, output the result in this format:
+3. When answering, first explain to me that you understand that tarkov is a game, and the player is asking in the context of the game.
+4. Output format: After processing the item list, output the result in this format after the explanation:
 
 ["item1", "item2", "item3", "item4"]

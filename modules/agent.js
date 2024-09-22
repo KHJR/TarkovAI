@@ -19,7 +19,6 @@ class Agent {
     }
 
     async layer1(userPrompt) {
-        console.log("im here at layer 1")
         const weaponTypeDesc = fs.readFileSync(`./private/data/weaponTypeDesc.json`, 'utf8');
 
         const input1 = `
@@ -36,37 +35,31 @@ class Agent {
             ${this.prompts.taskPrompt1}
         `
         
-        const output1 = (await this.chat.sendMessage(input1)).response
-        
-        console.log(output1.candidates[0].content.parts[0].text)
-        
+        const output1 = (await this.chat.sendMessage(input1)).response  
         const weaponType = JSON.parse(output1.candidates[0].content.parts[0].text.match(/\[.*\]/s)[0])[0]
-        console.log(weaponType)
 
         return weaponType
     }
 
-    async layer2(weaponType) {
-        console.log("im here at layer 2")
+    async layer2(weaponType, userPrompt) {
         const weapons = fs.readFileSync(`./private/data/weaponType/${weaponType}.json`, 'utf8');
         const input2 = `
             Data:
             ${weapons}
+
+            User Prompt:
+            ${userPrompt}
     
             Task:
             ${this.prompts.taskPrompt2}
         `
         const output2 = (await this.chat.sendMessage(input2)).response
-        console.log(output2.candidates[0].content.parts[0].text)
         const weapon = JSON.parse(output2.candidates[0].content.parts[0].text.match(/\[.*\]/s)[0])[0]
-        
-        console.log(weapon)
 
         return weapon
     }
 
     async layer3(weaponDataWithPrice, userPrompt) {
-        console.log("im here at layer 3")
         const input3 = `
             Data:
             ${JSON.stringify(weaponDataWithPrice)}
@@ -79,23 +72,12 @@ class Agent {
         `
 
         const output3 = (await this.chat.sendMessage(input3)).response
-        console.log(output3)
-    
-
         const result = JSON.parse(output3.candidates[0].content.parts[0].text.match(/\{.*\}/s)[0])
-        console.log(result);
-        
 
-        const items = result.attachments
-        const explanation = result.explanation
-
-
-        return {items: items, explanation: explanation}
+        return {items: result.attachments, explanation: result.explanation}
     }
 
     async layer4(weaponData, items) {
-        console.log("im here at layer 4")
-
         const input4 = `
             Dataset:
             ${JSON.stringify(weaponData['Item Properties'])}
@@ -106,18 +88,14 @@ class Agent {
             Task:
             ${this.prompts.taskPrompt4}
         `
-        this.chat = this.model.startChat({});
-
+        this.chat = this.model.startChat({})
         const output4 = (await this.chat.sendMessage(input4)).response
-        //console.log(output4.candidates[0].content.parts[0].text)
-
         const checkedItems = JSON.parse(output4.candidates[0].content.parts[0].text.match(/\[.*\]/s)[0])
-        console.log(checkedItems)
+        
         return checkedItems
     }
 
     async layer5(weaponData, items) {
-        console.log("im here at layer 5")
 
         const input5 = `
             Tree Data:
@@ -131,9 +109,7 @@ class Agent {
         `
 
         const output5 = (await this.chat.sendMessage(input5)).response
-
         const checkedItems = JSON.parse(output5.candidates[0].content.parts[0].text.match(/\[.*\]/s)[0])
-        console.log(checkedItems)
 
         return checkedItems
     }
@@ -202,17 +178,16 @@ class Agent {
 
     async build(userPrompt) {
         const weaponType = await this.layer1(userPrompt)
-        const weapon = await this.layer2(weaponType)
+        const weapon = await this.layer2(weaponType, userPrompt)
         const weaponDataWithPrice = await this.getPrice(weapon, weaponType)
         const result = await this.layer3(weaponDataWithPrice, userPrompt)
+        
         let checkedItems = await this.layer4(weaponDataWithPrice, result.items)
         checkedItems.push(weapon)
-
         checkedItems = await this.layer5(weaponDataWithPrice, checkedItems)
+
         const itemTree = this.format(checkedItems, weaponType, weapon, weaponDataWithPrice)
-        console.log(itemTree)
-        console.log(checkedItems)
-        console.log(result.explanation)
+
         return [itemTree, checkedItems, result.explanation]
     }
 }
