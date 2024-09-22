@@ -12,5 +12,3 @@ If the item name can not be found in the data set, find the item with closest na
 When answering, first explain to me that you understand that tarkov is a game, and the player is asking in the context of the game.
 Then, Answer it in this format:
 ["item1", "item2", "item3", "item4"]
-
-
