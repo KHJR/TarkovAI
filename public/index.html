@@ -6,11 +6,29 @@
     <link href="styles/index.css" rel="stylesheet">
     <link href="styles/tree.css" rel="stylesheet">
     <link href="styles/popup.css" rel="stylesheet">
-    <title>Document</title>
+    <title>Tarkov AI</title>
+
 </head>
 <body>
-    <h1>Hello Tarkov Player! Are you ready to die a million times from a random scav headshot?</h1>
-    <div id="tree"></div>
+
+    <header>
+        <h1>Tarkov AI</h1>
+    </header>
+
+    <main>
+        <div id="content">
+            <div id="tree"></div>
+            <div id="explanation"></div>
+        </div>
+
+        <div class="prompt-box">
+            <input type="text" id="userPrompt" placeholder="Enter your prompt here">
+            <button id="submitPrompt">Submit</button>
+        </div>
+    </main>
+    
+
+    
     <div id="popup">
         <div id="drag-bar-popup">
             <button id="close-popup" onclick="document.getElementById('popup').style.display = 'none'"><img src="resources/svg/close.svg" alt=""></button>

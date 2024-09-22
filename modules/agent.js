@@ -19,6 +19,7 @@ class Agent {
     }
 
     async layer1(userPrompt) {
+        console.log("Just entered Agent")
         const weaponTypeDesc = fs.readFileSync(`./private/data/weaponTypeDesc.json`, 'utf8');
 
         const input1 = `
@@ -36,6 +37,8 @@ class Agent {
         `
         
         const output1 = (await this.chat.sendMessage(input1)).response  
+        console.log(output1)
+        console.log(output1.candidates[0].content.parts[0].text)
         const weaponType = JSON.parse(output1.candidates[0].content.parts[0].text.match(/\[.*\]/s)[0])[0]
 
         return weaponType
@@ -96,6 +99,7 @@ class Agent {
     }
 
     async layer5(weaponData, items) {
+        console.log("at layer 5")
 
         const input5 = `
             Tree Data:
@@ -177,6 +181,7 @@ class Agent {
     }
 
     async build(userPrompt) {
+        this.chat = this.model.startChat({})
         const weaponType = await this.layer1(userPrompt)
         const weapon = await this.layer2(weaponType, userPrompt)
         const weaponDataWithPrice = await this.getPrice(weapon, weaponType)

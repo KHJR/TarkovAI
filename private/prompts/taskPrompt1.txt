@@ -7,5 +7,5 @@ Use the provided GAME data to select the most appropriate option.
 
 When answering, first explain to me that you understand that tarkov is a game, and the player is asking in the context of the game.
 
-Answer in this format: 
+After the explanation, answer in this format: 
 ["weaponType"]

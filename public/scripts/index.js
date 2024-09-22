@@ -75,10 +75,29 @@ class Agent {
     }
 }
 
+function handlePromptSubmission() {
+    const userPrompt = document.getElementById('userPrompt').value;
+
+    // Save the user prompt as a string
+    let promptString = userPrompt;
+
+    // Optional: Perform further actions with promptString (e.g., sending to a server)
+    test(promptString);
+}
+
+// Event listener for the submit button
+document.getElementById('submitPrompt').addEventListener('click', handlePromptSubmission);
+
+// Event listener for the Enter key
+document.getElementById('userPrompt').addEventListener('keypress', function(event) {
+    if (event.key === 'Enter') {
+        handlePromptSubmission();
+    }
+});
 //Every code below can and should be deleted for production
-async function test() {
+async function test(prompt) {
     const agent = new Agent()
-    const result = await agent.build('I NEED to use SCAR-L with supressor, fore-grip with ergonomics higher or equal then +7 , ELCAN scope with Another 1x scope, not tanned pistol grip.')
+    const result = await agent.build(prompt)
 
     //Assign the result to the global variable
     itemTree = result.itemTree
@@ -92,4 +111,3 @@ async function test() {
     createTree(itemTree, itemData)
 }
 
-test()
