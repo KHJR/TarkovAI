@@ -13,3 +13,4 @@ When answering, first explain to me that you understand that tarkov is a game, a
 Then, Answer it in this format:
 ["item1", "item2", "item3", "item4"]
 
+
