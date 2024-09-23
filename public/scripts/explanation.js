@@ -5,7 +5,7 @@ function createExplanation(explanation) {
 
 function loading() {
     document.getElementById('explanation-title').innerText = 'Loading'
-    document.getElementById('explanation').innerText = 'Waiting for response...'
+    document.getElementById('explanation').innerText = 'Waiting for response... If its taking more than a minute, please refresh and try again.'
 }
 
 function errored() {
