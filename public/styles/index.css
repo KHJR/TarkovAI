@@ -12,9 +12,11 @@ body{
 }
 
 header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
     background-color: #2b2e32;
     width: 100%;
-    padding: 20px;
     text-align: center;
     color: white;
     position: fixed;
@@ -25,6 +27,11 @@ header {
 
 header h1 {
     font-size: 3rem;
+    margin: auto auto;
+}
+
+header #logo {
+    width: 100px;
     margin: 0;
 }
 
