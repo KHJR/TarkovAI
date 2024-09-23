@@ -36,7 +36,6 @@ class Agent {
         });
         
         const data = await response.json();
-        console.log(data);
 
         let itemData = {};
         const rawItemData = data.data.items //.slice(0, items.length+1);
@@ -62,7 +61,9 @@ class Agent {
             body: JSON.stringify({ userPrompt: userPrompt })
         });
 
-
+        if (response.status == 500) {
+            return {error: true}
+        }
         const data = await response.text();
         const parsedData = JSON.parse(data);
 
@@ -71,43 +72,47 @@ class Agent {
         this.itemData = await this.getItemData(this.items);
         this.explanation = parsedData.explanation;
 
-        return { itemTree: this.itemTree, items: this.items, itemData: this.itemData};
+        return { itemTree: this.itemTree, items: this.items, itemData: this.itemData, explanation: this.explanation};
     }
 }
 
-function handlePromptSubmission() {
+async function submit() {
+    loading()
     const userPrompt = document.getElementById('userPrompt').value;
+    document.getElementById('submitPrompt').style.backgroundColor = '#888'
+    document.getElementById('submitPrompt').style.pointerEvents = 'none'
+    document.getElementById('submitPrompt').style.cursor = 'none'
 
-    // Save the user prompt as a string
-    let promptString = userPrompt;
-
-    // Optional: Perform further actions with promptString (e.g., sending to a server)
-    test(promptString);
-}
-
-// Event listener for the submit button
-document.getElementById('submitPrompt').addEventListener('click', handlePromptSubmission);
-
-// Event listener for the Enter key
-document.getElementById('userPrompt').addEventListener('keypress', function(event) {
-    if (event.key === 'Enter') {
-        handlePromptSubmission();
-    }
-});
-//Every code below can and should be deleted for production
-async function test(prompt) {
     const agent = new Agent()
-    const result = await agent.build(prompt)
+    const result = await agent.build(userPrompt)
+
+    if (result.error) {
+        document.getElementById('submitPrompt').style.backgroundColor = '#444'
+        document.getElementById('submitPrompt').style.pointerEvents = 'auto'
+        document.getElementById('submitPrompt').style.cursor = 'pointer'
+        errored()
+        return
+    }
 
     //Assign the result to the global variable
     itemTree = result.itemTree
     items = result.items
     itemData = result.itemData
 
-    console.log(itemTree)
-    console.log(items)
-    console.log(itemData)
-
     createTree(itemTree, itemData)
+    createExplanation(result.explanation)
+
+    document.getElementById('submitPrompt').style.backgroundColor = '#444'
+    document.getElementById('submitPrompt').style.pointerEvents = 'auto'
+    document.getElementById('submitPrompt').style.cursor = 'pointer'
 }
 
+// Event listener for the submit button
+document.getElementById('submitPrompt').addEventListener('click', submit);
+
+// Event listener for the Enter key
+document.getElementById('userPrompt').addEventListener('keypress', (event) => {
+    if (event.key === 'Enter') {
+        submit();
+    }
+});

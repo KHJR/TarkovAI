@@ -1,3 +1,20 @@
+#tree-container {
+    position: relative;
+    width: 75%;
+    height: 95%;
+    border-radius: 20px;
+    box-shadow: inset 0px 0px 20px #000;
+    background-color: #222;
+    overflow: scroll;
+}
+
+#tree-draggable {
+    position:absolute; 
+    height:2000px; 
+    width: 2000px; 
+    overflow: hidden;
+}
+
 #tree {
     display: inline-block;
     padding: 10px;
@@ -18,7 +35,7 @@
 #tree .branch-tree:not(:first-child):after {
     content: "";
     width: 20px;
-    border-top: 3px solid #001976;
+    border-top: 3px solid #fff;
     position: absolute;
     left: 150px;
     top: 50%;
@@ -34,7 +51,7 @@
 .entry-tree:before {
     content: "";
     height: 100%;
-    border-left: 3px solid #001976;
+    border-left: 3px solid #fff;
     position: absolute;
     left: -20px;
 }
@@ -56,7 +73,7 @@
     content: "";
     width: 20px;
     transition: border 0.5s;
-    border-top: 3px solid #001976;
+    border-top: 3px solid #fff;
     position: absolute;
     left: -20px;
     top: 50%;
@@ -72,7 +89,7 @@
     height: 10px;
     border-top: none;
     transition: border 0.5s;
-    border-bottom: 3px solid #001976;
+    border-bottom: 3px solid #fff;
     border-radius: 0 0 0 10px;
     margin-top: -9px;
 }
@@ -92,8 +109,8 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: center;
-    border: 3px solid #001976;
+    justify-content: space-around;
+    border: 3px solid #fff;
     width: 150px;
     min-height: 80px; /* Adjusted height */
     padding: 5px 10px;
@@ -102,17 +119,18 @@
     left: 0;
     top: 50%;
     transform: translateY(-50%); /* Center vertically */
-    color: #001976;
-    background-color: #222;
+    color: #fff;
+    background-color: #000;
     font-size: 14px;
     border-radius: 10px;
     cursor: pointer;
     user-select: none;
     transition: all 0.5s;
+    box-shadow: 5px 5px 10px #000;
 }
 
 .type-tree {
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 500;
     line-height: 20px;
     text-align: center;
@@ -126,6 +144,6 @@
 
 .content-tree img {
     max-width: 140px;
-    max-height: 50px;
+    max-height: 45px;
     filter: drop-shadow(0px 0px 5px #fff);
 }

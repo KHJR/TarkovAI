@@ -1,4 +1,5 @@
 Considering the user’s prompt, your second task is to select a base piece of in-game gear to build upon later. Use the data provided to determine the best fit based on game mechanics.
+If the user requested a certain weapon, you must follow that request and choose that weapon, no matter what other request there is.
 
 Remember, high ergonomics and low recoil represent better performance metrics in the game.
 

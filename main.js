@@ -18,6 +18,9 @@ app.post('/build', async (req, res) => {
 	}
 	catch (err) {
 		console.log(err)
+		if (err.code) {
+			res.status(429).send({ error: 'LLM request quota exceeded. Please wait a few seconds before the next prompt.' })
+		}
 		res.status(500).send({ error: 'Something went wrong' })
 	}
 });

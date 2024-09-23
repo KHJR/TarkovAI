@@ -6,29 +6,31 @@
     <link href="styles/index.css" rel="stylesheet">
     <link href="styles/tree.css" rel="stylesheet">
     <link href="styles/popup.css" rel="stylesheet">
+    <link href="styles/explanation.css" rel="stylesheet">
     <title>Tarkov AI</title>
 
 </head>
 <body>
-
     <header>
         <h1>Tarkov AI</h1>
     </header>
-
     <main>
         <div id="content">
-            <div id="tree"></div>
-            <div id="explanation"></div>
+            <div id="tree-container">
+                <div id="tree-draggable">
+                    <div id="tree"></div>
+                </div>
+            </div>
+            <div id="explanation-container">
+                <h2 id="explanation-title">Guide</h2>
+                <p id="explanation">Describe the weapon you wish to be built and click submit. If you wait several seconds, a tree and an explanation will be shown. You may click on each items to see more detailed information.</p>
+            </div>
         </div>
-
         <div class="prompt-box">
-            <input type="text" id="userPrompt" placeholder="Enter your prompt here">
+            <input type="text" id="userPrompt" placeholder="Describe the weapon here">
             <button id="submitPrompt">Submit</button>
         </div>
     </main>
-    
-
-    
     <div id="popup">
         <div id="drag-bar-popup">
             <button id="close-popup" onclick="document.getElementById('popup').style.display = 'none'"><img src="resources/svg/close.svg" alt=""></button>
@@ -63,6 +65,7 @@
     </div>
     <script src="scripts/popup.js"></script>
     <script src="scripts/tree.js"></script>
+    <script src="scripts/explanation.js"></script>
     <script src="scripts/index.js"></script>
 </body>
 </html>

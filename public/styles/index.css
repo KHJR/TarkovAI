@@ -1,25 +1,3 @@
-#tree {
-    margin: 0;
-    padding: 0;
-    overflow: scroll;
-
-}
-
-#tree::-webkit-scrollbar-track {
-    border-radius: 7px;
-    background-color: #F5F5F5;
-}
-#tree::-webkit-scrollbar {
-    background-color: #faf7f700;
-    width: 7px;
-}
-#tree::-webkit-scrollbar-thumb {
-    -webkit-box-shadow: inset 0 0 6px #ffffff4d;
-    box-shadow: inset 0 0 6px #f8f6f64d;
-    border-radius: 7px;
-    background-color: #eee;
-}
-
 body{
     background-color: #1d1f21;
     color: #c5c6c7;
@@ -31,7 +9,6 @@ body{
     justify-content: center;
     align-items: center;
     height: 100vh;
-
 }
 
 header {
@@ -57,7 +34,8 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    min-height: 80vh;
+    width: 98vw;
+    min-height: 85vh;
 }
 
 #content{
@@ -70,21 +48,22 @@ main {
 }
 
 .prompt-box {
-    background-color: #333;
+    background-color: #ccc;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 8px #0000004d;
     width: 80%; 
-    max-width: 600px; 
+    max-width: 60vw;
     display: flex;
-    align-items: center; 
+    align-items: center;
 }
 
 .prompt-box input {
     flex-grow: 1; 
     padding: 10px;
     border-radius: 20px;
-    border: 1px solid #444;
+    border: none;
+    outline: none;
     margin-right: 10px; 
 }
 

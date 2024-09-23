@@ -1,0 +1,22 @@
+#explanation-container {
+    color: #333;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    width: 22%;
+    height: 95%;
+    border-radius: 20px;
+}
+
+#explanation-title {
+    width: 90%;
+    text-align: center;
+}
+
+#explanation {
+    width: 90%;
+    height: 80%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}

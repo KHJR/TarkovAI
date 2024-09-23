@@ -99,8 +99,6 @@ class Agent {
     }
 
     async layer5(weaponData, items) {
-        console.log("at layer 5")
-
         const input5 = `
             Tree Data:
             ${JSON.stringify(weaponData['Tree Structure'])}
@@ -113,6 +111,7 @@ class Agent {
         `
 
         const output5 = (await this.chat.sendMessage(input5)).response
+        console.log(output5)
         const checkedItems = JSON.parse(output5.candidates[0].content.parts[0].text.match(/\[.*\]/s)[0])
 
         return checkedItems
